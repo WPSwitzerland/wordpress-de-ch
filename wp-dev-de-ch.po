@@ -35,7 +35,7 @@ msgstr "Wenn Sie formatierte Inhalte aus Microsoft Word einfügen möchten, vers
 
 #: wp-includes/class-wp-customize-control.php:856
 msgid "While you can crop images to your liking after clicking <strong>Add new</strong>, your theme recommends a header size of <strong>%s &times; %s</strong> pixels."
-msgstr "Während Sie Bilder nach Ihren Vorstellungen beschneiden können, nachdem Sie <strong>Hinzufügen</strong> angeklickt haben, sieht Ihr Theme eine Kopfzeilengröße von <strong>%s &times; &s</strong> Pixeln vor."
+msgstr "Während Sie Bilder nach Ihren Vorstellungen beschneiden können, nachdem Sie <strong>Hinzufügen</strong> angeklickt haben, sieht Ihr Theme eine Kopfzeilengrösse von <strong>%s &times; &s</strong> Pixeln vor."
 
 #: wp-includes/class-wp-customize-control.php:858
 msgid "While you can crop images to your liking after clicking <strong>Add new</strong>, your theme recommends a header width of <strong>%s</strong> pixels."
@@ -93,7 +93,7 @@ msgstr "Schriftname"
 
 #: wp-includes/class-wp-editor.php:785
 msgid "Font Sizes"
-msgstr "Schriftgröße"
+msgstr "Schriftgrösse"
 
 #: wp-includes/class-wp-editor.php:915
 msgid "Split table cell"
@@ -105,7 +105,7 @@ msgstr "Empfohlene Bild-Abmessungen:"
 
 #: wp-includes/media-template.php:724
 msgid "Custom Size"
-msgstr "Individuelle Größe"
+msgstr "Individuelle Grösse"
 
 #: wp-includes/media-template.php:759
 msgid "Advanced Options"
@@ -312,12 +312,12 @@ msgstr "Kleine alphabetische Nummerierung"
 #: wp-includes/class-wp-editor.php:814
 msgctxt "list style"
 msgid "Upper Alpha"
-msgstr "Großbuchstaben"
+msgstr "Grossbuchstaben"
 
 #: wp-includes/class-wp-editor.php:815
 msgctxt "list style"
 msgid "Upper Roman"
-msgstr "Große römische Ziffern"
+msgstr "Grosse römische Ziffern"
 
 #: wp-includes/class-wp-editor.php:816
 msgctxt "list style"
@@ -422,7 +422,7 @@ msgstr "Body"
 #: wp-includes/class-wp-editor.php:902
 msgctxt "table footer"
 msgid "Footer"
-msgstr "Fußzeile"
+msgstr "Fusszeile"
 
 #: wp-includes/class-wp-editor.php:934
 msgctxt "TinyMCE"
@@ -700,7 +700,7 @@ msgstr "<h1>Fehler beim Aufbau der Datenbank-Verbindung</h1> <p>Das bedeutet ent
 
 #: wp-login.php:616
 msgid "Hint: The password should be at least seven characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ &amp; )."
-msgstr "Tipp: das Passwort sollte mindestens sieben Zeichen lang sein. Für ein stärkeres Passwort verwenden Sie Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen wie ! \" ? $ % ^ &amp; )."
+msgstr "Tipp: das Passwort sollte mindestens sieben Zeichen lang sein. Für ein stärkeres Passwort verwenden Sie Gross- und Kleinbuchstaben, Zahlen und Sonderzeichen wie ! \" ? $ % ^ &amp; )."
 
 #: wp-includes/class-wp-editor.php:845
 msgid "Insert/edit video"
@@ -924,7 +924,7 @@ msgstr "Suchen und Ersetzen"
 
 #: wp-includes/class-wp-editor.php:881
 msgid "Match case"
-msgstr "Auf Groß- und Kleinschreibung achten"
+msgstr "Auf Gross- und Kleinschreibung achten"
 
 #: wp-includes/class-wp-editor.php:895
 msgid "Rows"
@@ -936,7 +936,7 @@ msgstr "Zellen-Innenabstand"
 
 #: wp-includes/class-wp-editor.php:931
 msgid "Cell spacing"
-msgstr "Zellen-Außenabstand"
+msgstr "Zellen-Aussenabstand"
 
 #: wp-includes/class-wp-editor.php:928
 msgid "Row type"
@@ -1008,7 +1008,7 @@ msgstr "Kaffee"
 
 #: wp-includes/class-wp-image-editor.php:253
 msgid "Attempted to set image quality outside of the range [1,100]."
-msgstr "Es wurde versucht, die Bildqualität außerhalb des Bereichs [1-100] zu setzen."
+msgstr "Es wurde versucht, die Bildqualität ausserhalb des Bereichs [1-100] zu setzen."
 
 #: wp-includes/taxonomy.php:2438
 msgid "A term with the name and slug provided already exists with this parent."
@@ -1294,7 +1294,7 @@ msgstr "Die Seite die Sie gesucht haben, <strong>%s</strong>, existiert nicht."
 
 #: wp-includes/functions.php:4336
 msgid "The login page will open in a new window. After logging in you can close it and return to this page."
-msgstr "Die Login Seite wird sich in einem neuen Fenster öffnen. Nach dem Einloggen können Sie das Fenster schließen und zu dieser Seite zurückkehren."
+msgstr "Die Login Seite wird sich in einem neuen Fenster öffnen. Nach dem Einloggen können Sie das Fenster schliessen und zu dieser Seite zurückkehren."
 
 #: wp-includes/post-template.php:1638
 msgctxt "post revision title"
@@ -1429,7 +1429,7 @@ msgstr "Uploadlimit erreicht"
 
 #: wp-includes/media-template.php:205
 msgid "Maximum upload file size: %d%s."
-msgstr "Maximale Dateigröße für Upload: %d%s."
+msgstr "Maximale Dateigrösse für Upload: %d%s."
 
 #: wp-includes/media-template.php:224
 msgid "Dismiss Errors"
@@ -1529,7 +1529,7 @@ msgstr "Die Bilder durch ziehen und loslassen ordnen"
 #: wp-includes/media-template.php:464 wp-includes/media-template.php:710
 #: wp-includes/media.php:2547
 msgid "Large"
-msgstr "Groß"
+msgstr "Gross"
 
 #: wp-includes/media-template.php:376
 msgid "Attachment Display Settings"
@@ -1682,12 +1682,12 @@ msgstr "Datei ist kein Bild."
 
 #: wp-includes/class-wp-image-editor-gd.php:107
 msgid "Could not read image size."
-msgstr "Bildgröße nicht lesbar."
+msgstr "Bildgrösse nicht lesbar."
 
 #: wp-includes/class-wp-image-editor-gd.php:169
 #: wp-includes/class-wp-image-editor-gd.php:187
 msgid "Image resize failed."
-msgstr "Änderung der Bildgröße fehlgeschlagen."
+msgstr "Änderung der Bildgrösse fehlgeschlagen."
 
 #: wp-includes/class-wp-image-editor-gd.php:293
 msgid "Image crop failed."
@@ -2195,7 +2195,7 @@ msgstr "Dieser Inhaltstyp kann nicht geändert werden."
 
 #: wp-includes/class-wp-xmlrpc-server.php:372
 msgid "Image default size"
-msgstr "Standard-Bildgröße"
+msgstr "Standard-Bildgrösse"
 
 #: wp-includes/class-wp-xmlrpc-server.php:367
 msgid "Image default link type"
@@ -2463,7 +2463,7 @@ msgstr ""
 "Passwort: PASSWORD\n"
 "Login unter: BLOG_URLwp-login.php\n"
 "\n"
-"Viel Spaß mit Ihrer neuen Webseite!\n"
+"Viel Spass mit Ihrer neuen Webseite!\n"
 "\n"
 "--Das Team von SITE_NAME"
 
@@ -2662,7 +2662,7 @@ msgstr "Der Arbeitsspeicher reicht nicht aus. Bitte versuchen Sie eine kleinere 
 
 #: wp-includes/script-loader.php:251
 msgid "This is larger than the maximum size. Please try another."
-msgstr "Die Datei ist größer als die Maximalgröße. Bitte verwenden Sie eine kleinere Datei."
+msgstr "Die Datei ist grösser als die Maximalgrösse. Bitte verwenden Sie eine kleinere Datei."
 
 #: wp-includes/script-loader.php:249
 msgid "This file is not an image. Please try another."
@@ -2740,7 +2740,7 @@ msgstr "Ihr Benutzerkonto ist jetzt aktiviert. <a href=\"%1$s\">Besuchen Sie Ihr
 
 #: wp-includes/class-wp-editor.php:1231
 msgid "Help (Alt + Shift + H)"
-msgstr "Hilfe (ALT + Großschreibung + H)"
+msgstr "Hilfe (ALT + Grossschreibung + H)"
 
 #: wp-includes/admin-bar.php:191
 msgid "Howdy, %1$s"
@@ -2748,7 +2748,7 @@ msgstr "Willkommen, %1$s"
 
 #: wp-includes/class-wp-editor.php:1208
 msgid "Exit fullscreen"
-msgstr "Vollbild schließen"
+msgstr "Vollbild schliessen"
 
 #: wp-includes/class-wp-editor.php:1278
 msgid "Just write."
@@ -2784,19 +2784,19 @@ msgstr "Kursiv (STRG + I)"
 
 #: wp-includes/class-wp-editor.php:1226
 msgid "Ordered list (Alt + Shift + O)"
-msgstr "Nummerierte Liste (ALT + Großschreibung + O)"
+msgstr "Nummerierte Liste (ALT + Grossschreibung + O)"
 
 #: wp-includes/class-wp-editor.php:1225
 msgid "Unordered list (Alt + Shift + U)"
-msgstr "Liste (ALT + Großschreibung + U)"
+msgstr "Liste (ALT + Grossschreibung + U)"
 
 #: wp-includes/class-wp-editor.php:1229
 msgid "Insert/edit link (Alt + Shift + A)"
-msgstr "Link einfügen/bearbeiten (ALT + Großschreibung + A)"
+msgstr "Link einfügen/bearbeiten (ALT + Grossschreibung + A)"
 
 #: wp-includes/class-wp-editor.php:1230
 msgid "Unlink (Alt + Shift + S)"
-msgstr "Link entfernen (ALT + Großschreibung + S)"
+msgstr "Link entfernen (ALT + Grossschreibung + S)"
 
 #: wp-includes/comment-template.php:1757
 msgid "Pingback:"
@@ -3000,23 +3000,23 @@ msgstr "Als Auswahlbox darstellen"
 
 #: wp-includes/class-wp-xmlrpc-server.php:459
 msgid "Large size image height"
-msgstr "Höhe für maximale Bildgröße"
+msgstr "Höhe für maximale Bildgrösse"
 
 #: wp-includes/class-wp-xmlrpc-server.php:444
 msgid "Medium size image width"
-msgstr "Breite für mittlere Bildgröße"
+msgstr "Breite für mittlere Bildgrösse"
 
 #: wp-includes/class-wp-xmlrpc-server.php:449
 msgid "Medium size image height"
-msgstr "Höhe für mittlere Bildgröße"
+msgstr "Höhe für mittlere Bildgrösse"
 
 #: wp-includes/class-wp-xmlrpc-server.php:454
 msgid "Large size image width"
-msgstr "Breite für maximale Bildgröße"
+msgstr "Breite für maximale Bildgrösse"
 
 #: wp-includes/class-wp-xmlrpc-server.php:439
 msgid "Crop thumbnail to exact dimensions"
-msgstr "Vorschaubild auf exakte Größe beschneiden"
+msgstr "Vorschaubild auf exakte Grösse beschneiden"
 
 #: wp-includes/class-wp-xmlrpc-server.php:434
 msgid "Thumbnail Height"
@@ -3264,7 +3264,7 @@ msgstr "Senden"
 
 #: wp-includes/theme-compat/comments-popup.php:108
 msgid "Close this window."
-msgstr "Fenster schließen."
+msgstr "Fenster schliessen."
 
 #: wp-includes/theme-compat/comments-popup.php:114
 msgid "Sorry, no posts matched your criteria."
@@ -3694,7 +3694,7 @@ msgstr "Es trat ein Fehler beim Versuch auf, Sie zu dieser Webseite hinzufügen.
 
 #: wp-includes/ms-functions.php:1881
 msgid "This file is too big. Files must be less than %d KB in size."
-msgstr "Die Datei ist zu groß. Dateien dürfen nicht größer als %d KB sein."
+msgstr "Die Datei ist zu gross. Dateien dürfen nicht grösser als %d KB sein."
 
 #: wp-includes/locale.php:177
 msgid "number_format_decimal_point"
@@ -3715,7 +3715,7 @@ msgstr "Angemeldet als <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Vom B
 #: wp-includes/class-wp-image-editor-gd.php:175
 #: wp-includes/class-wp-image-editor-imagick.php:232
 msgid "Could not calculate resized image dimensions"
-msgstr "Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden."
+msgstr "Die Abmessungen des grössenveränderten Bildes konnten nicht berechnet werden."
 
 #: wp-signup.php:112
 msgid "Must be at least 4 characters, letters and numbers only. It cannot be changed, so choose carefully!"
@@ -3775,7 +3775,7 @@ msgstr "Wartungsmodus"
 
 #: wp-includes/load.php:179
 msgid "Briefly unavailable for scheduled maintenance. Check back in a minute."
-msgstr "Für kurze Zeit nicht verfügbar, um eine regelmäßige Instandhaltung durchzuführen. Prüfe in einer Minute erneut."
+msgstr "Für kurze Zeit nicht verfügbar, um eine regelmässige Instandhaltung durchzuführen. Prüfe in einer Minute erneut."
 
 #: wp-includes/post.php:100
 msgid "Navigation Menu Items"
@@ -4871,7 +4871,7 @@ msgstr "Rand"
 
 #: wp-includes/class-wp-editor.php:842
 msgid "Dimensions"
-msgstr "Größe"
+msgstr "Grösse"
 
 #: wp-includes/class-wp-editor.php:839
 msgid "Vertical space"
@@ -5053,7 +5053,7 @@ msgstr "."
 
 #: wp-includes/class-wp-image-editor-imagick.php:198
 msgid "Could not read image size"
-msgstr "Die Bildgröße konnte nicht gelesen werden."
+msgstr "Die Bildgrösse konnte nicht gelesen werden."
 
 #: wp-includes/ms-functions.php:265
 msgid "That user does not exist."
@@ -5131,7 +5131,7 @@ msgstr ""
 "Passwort: PASSWORD\n"
 "Login unter: LOGINLINK\n"
 "\n"
-"Viel Spaß!\n"
+"Viel Spass!\n"
 "\n"
 "--Das Team von SITE_NAME"
 
@@ -5415,11 +5415,11 @@ msgstr "Sie sind dabei, die ausgewählten Punkte endültig zu löschen. Drücken
 
 #: wp-includes/script-loader.php:88
 msgid "Close all open tags"
-msgstr "Alle offenen Tags schließen"
+msgstr "Alle offenen Tags schliessen"
 
 #: wp-includes/script-loader.php:89
 msgid "close tags"
-msgstr "Tags schließen"
+msgstr "Tags schliessen"
 
 #: wp-includes/script-loader.php:90
 msgid "Enter the URL"
@@ -5520,7 +5520,7 @@ msgstr "in den Papierkorb gelegt."
 #: wp-includes/script-loader.php:348
 msgctxt "password strength"
 msgid "Medium"
-msgstr "Mittelgroß"
+msgstr "Mittelgross"
 
 #: wp-includes/script-loader.php:443
 msgid "Publish on:"
@@ -6479,16 +6479,16 @@ msgstr "Rechts"
 #: wp-includes/media-template.php:463 wp-includes/media-template.php:709
 #: wp-includes/media.php:2546
 msgid "Medium"
-msgstr "Mittelgroß"
+msgstr "Mittelgross"
 
 #: wp-includes/media-template.php:465 wp-includes/media-template.php:711
 #: wp-includes/media.php:2548
 msgid "Full Size"
-msgstr "Vollständige Größe"
+msgstr "Vollständige Grösse"
 
 #: wp-includes/media-template.php:453 wp-includes/media-template.php:699
 msgid "Size"
-msgstr "Größe"
+msgstr "Grösse"
 
 #: wp-includes/class-wp-editor.php:920 wp-includes/media-template.php:380
 msgid "Alignment"
@@ -6582,7 +6582,7 @@ msgstr "Seiten"
 #: wp-includes/media-template.php:132 wp-includes/script-loader.php:228
 #: wp-includes/script-loader.php:314 wp-includes/script-loader.php:392
 msgid "Close"
-msgstr "Schließen"
+msgstr "Schliessen"
 
 #: wp-includes/media.php:2758
 msgid "Select"
