@@ -431,6 +431,16 @@ class GP_Locales {
 		$de->google_code = 'de';
 		$de->facebook_locale = 'de_DE';
 
+        $de = new GP_Locale();
+        $de->english_name = 'German (Switzerland)';
+        $de->native_name = 'Deutsch (Schweiz)';
+        $de->lang_code_iso_639_1 = 'de';
+        $de->country_code = 'ch';
+        $de->wp_locale = 'de_CH';
+        $de->slug = 'de-ch';
+        $de->google_code = 'de';
+        $de->facebook_locale = 'de_CH';
+
 		$dv = new GP_Locale();
 		$dv->english_name = 'Dhivehi';
 		$dv->native_name = 'ދިވެހި';
