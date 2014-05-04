@@ -10,12 +10,7 @@ There is a Swiss German Rosetta page at http://gsw.wordpress.org/ from where you
 
 de-ch.wordpress.org
 -------------------
-Does not exist yet, but we'd like it to be created. The translation in the wp-dev-de-ch.po file has already been imported to
-
-http://translate.wordpress.org/projects/wp/3.9.x
-http://translate.wordpress.org/projects/wp/dev
-
-and is 100% complete.
+Does not exist yet, but we'd like it to be created. The translation in the wp-dev-de-ch.po file has already been imported to http://translate.wordpress.org/projects/wp/3.9.x and http://translate.wordpress.org/projects/wp/dev which are 100% complete.
 
 Twitter: <a href="https://twitter.com/nickweisser">@nickweisser</a>
 E-Mail: nick@openstream.ch
