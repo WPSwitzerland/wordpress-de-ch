@@ -24,7 +24,7 @@ msgstr "Ein optionaler, zweiter Widgetbereich, der unter dem ersten Widgetbereic
 
 #: functions.php:447 functions.php:458 functions.php:469 functions.php:480
 msgid "An optional widget area for your site footer."
-msgstr "Ein optionaler Widgetbereich für Ihre Fußzeile."
+msgstr "Ein optionaler Widgetbereich für Ihre Fusszeile."
 
 #. Template Name of the plugin/theme
 msgid "One column, no sidebar"
@@ -109,7 +109,7 @@ msgstr "<span class=\"%1$s\">Publiziert</span> %2$s"
 
 #: loop-attachment.php:53
 msgid "Full size is %s pixels"
-msgstr "Die gesamte Größe beträgt %s Pixel"
+msgstr "Die gesamte Grösse beträgt %s Pixel"
 
 #: loop-attachment.php:56
 msgid "Link to full-size image"

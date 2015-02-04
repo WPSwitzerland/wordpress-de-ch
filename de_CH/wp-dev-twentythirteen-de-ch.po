@@ -28,7 +28,7 @@ msgstr "Das 2013 Theme für WordPress bringt uns zurück zum Blog. Es wird eine 
 
 #: functions.php:233
 msgid "Appears in the footer section of the site."
-msgstr "Erscheint in der Fußzeile der Seite."
+msgstr "Erscheint in der Fusszeile der Seite."
 
 #. Theme URI of the plugin/theme
 msgid "http://wordpress.org/themes/twentythirteen"
@@ -36,7 +36,7 @@ msgstr "http://wordpress.org/themes/twentythirteen"
 
 #: image.php:38
 msgid "Link to full-size image"
-msgstr "Link zum Bild in Originalgröße"
+msgstr "Link zum Bild in Originalgrösse"
 
 #: functions.php:231
 msgid "Main Widget Area"

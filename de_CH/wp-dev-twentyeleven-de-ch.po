@@ -309,7 +309,7 @@ msgstr "Küste"
 #. translators: header image description
 #: functions.php:196
 msgid "Trolley"
-msgstr "Straßenbahn"
+msgstr "Strassenbahn"
 
 #: inc/widgets.php:95 inc/widgets.php:104
 msgid "1 <span class=\"reply\">comment &rarr;</span>"
@@ -552,19 +552,19 @@ msgstr "Artikelnavigation"
 
 #: functions.php:485
 msgid "Footer Area Three"
-msgstr "Fußzeile, dritter Bereich"
+msgstr "Fusszeile, dritter Bereich"
 
 #: functions.php:475
 msgid "Footer Area Two"
-msgstr "Fußzeile, zweiter Bereich"
+msgstr "Fusszeile, zweiter Bereich"
 
 #: functions.php:467 functions.php:477 functions.php:487
 msgid "An optional widget area for your site footer"
-msgstr "Ein optionaler Widget-Bereich in der Fußzeile deiner Website"
+msgstr "Ein optionaler Widget-Bereich in der Fusszeile deiner Website"
 
 #: functions.php:465
 msgid "Footer Area One"
-msgstr "Fußzeile, erster Bereich"
+msgstr "Fusszeile, erster Bereich"
 
 #: functions.php:457
 msgid "The sidebar for the optional Showcase Template"

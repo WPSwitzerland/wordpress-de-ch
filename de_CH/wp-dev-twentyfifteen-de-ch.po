@@ -20,7 +20,7 @@ msgstr "Nächster Beitrag:"
 
 #: inc/customizer.php:52 inc/customizer.php:68 inc/customizer.php:73
 msgid "Applied to the header on small screens and the sidebar on wide screens."
-msgstr "Wird bei kleinen Bildschirmen auf den Header angewendet und bei großen Bildschirmen auf die Sidebar."
+msgstr "Wird bei kleinen Bildschirmen auf den Header angewendet und bei grossen Bildschirmen auf die Sidebar."
 
 #: single.php:33
 msgid "Next"
@@ -61,7 +61,7 @@ msgstr "1 Kommentar"
 #: inc/template-tags.php:113
 msgctxt "Used before full size attachment link."
 msgid "Full size"
-msgstr "Volle Größe"
+msgstr "Volle Grösse"
 
 #: inc/template-tags.php:122
 msgid "Leave a comment"

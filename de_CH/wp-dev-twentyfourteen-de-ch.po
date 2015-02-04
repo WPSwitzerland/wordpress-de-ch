@@ -19,7 +19,7 @@ msgstr "%s weiterlesen <span class=\"meta-nav\">&rarr;</span>"
 
 #: inc/customizer.php:31 inc/customizer.php:32
 msgid "May only be visible on wide screens."
-msgstr "Nur auf großen Bildschirmen sichtbar."
+msgstr "Nur auf grossen Bildschirmen sichtbar."
 
 #: inc/customizer.php:108
 msgid "The home page features your choice of up to 6 posts prominently displayed in a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed instead."
@@ -139,11 +139,11 @@ msgstr "Zusätzliche Seitenleiste, die rechts erscheint. "
 
 #: functions.php:189
 msgid "Footer Widget Area"
-msgstr "Fußzeilen-Widget-Bereich "
+msgstr "Fusszeilen-Widget-Bereich "
 
 #: functions.php:191
 msgid "Appears in the footer section of the site."
-msgstr "Erscheint im Fußzeilen-Bereich der Webseite. "
+msgstr "Erscheint im Fusszeilen-Bereich der Webseite. "
 
 #: functions.php:376
 msgid "%d Article"
