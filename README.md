@@ -1,16 +1,16 @@
 Introduction
 ------------
-This is a repository for the formal Swiss German WordPress language pack. The original one lives at http://translate.wordpress.org/projects/wp
+This is a repository for tracking changes in the formal Swiss German WordPress language pack, i.e. de_CH or German (Switzerland). The informal language pack (Du-Form) is still at 0%, so if you need that for a project, please ping me, then I can explain how the packaging process works.
 
-New to translate.wordpress.org? Have a look at the Getting Started guide http://translate.wordpress.org/getting-started
-
-gsw.wordpress.org
------------------
-There is a Swiss German Rosetta page at http://gsw.wordpress.org/ from where you can download a Swiss German version of WordPress, but it's in informal language style and not really useful for building serious websites based on WordPress.
+We're not trying to reinvent the wheel, so therefore the de_CH language pack is based on the de_DE language pack with some minor modifications. We still think it's important that we have our own locale, because we would like to have our own Rosetta site for building the Swiss WordPress community.
 
 de-ch.wordpress.org
 -------------------
-The translation in the wp-dev-de-ch.po file has already been imported to http://translate.wordpress.org/projects/wp/3.9.x and http://translate.wordpress.org/projects/wp/dev which are 100% complete.
+This is the new Rosetta site at http://de-ch.wordpress.org for the de_CH language pack.
+
+gsw.wordpress.org
+-----------------
+This is the old Rosetta site at http://gsw.wordpress.org/ for the gws language pack in informal dialect.
 
 Twitter: <a href="https://twitter.com/nickweisser">@nickweisser</a>
 E-Mail: nick@openstream.ch
