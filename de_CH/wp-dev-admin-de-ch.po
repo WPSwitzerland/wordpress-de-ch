@@ -2961,6 +2961,16 @@ msgctxt "start of week"
 msgid "1"
 msgstr "1"
 
+#. translators: default GMT offset or timezone string. Must be either a valid
+#. offset (-12 to 14)
+#. or a valid timezone string (America/New_York). See
+#. http:us3.php.net/manual/en/timezones.php
+#. for all timezone strings supported by PHP.
+#: wp-admin/includes/schema.php:361
+msgctxt "default GMT offset or timezone string"
+msgid "0"
+msgstr "2"
+
 #. translators: 1: month number (01, 02, etc.), 2: month abbreviation
 #: wp-admin/includes/template.php:750
 msgid "%1$s-%2$s"
