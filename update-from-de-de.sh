@@ -1,5 +1,6 @@
 #!/bin/bash
 cp de_DE/wp-dev-admin-de.po de_CH/wp-dev-admin-de-ch.po 
+cp de_DE/wp-dev-admin-network-de.po de_CH/wp-dev-admin-network-de-ch.po
 cp de_DE/wp-dev-cc-de.po de_CH/wp-dev-cc-de-ch.po 
 cp de_DE/wp-dev-de.po de_CH/wp-dev-de-ch.po 
 cp de_DE/wp-dev-twentyeleven-de.po de_CH/wp-dev-twentyeleven-de-ch.po

@@ -2969,7 +2969,7 @@ msgstr "1"
 #: wp-admin/includes/schema.php:361
 msgctxt "default GMT offset or timezone string"
 msgid "0"
-msgstr "2"
+msgstr "Europe/Zurich"
 
 #. translators: 1: month number (01, 02, etc.), 2: month abbreviation
 #: wp-admin/includes/template.php:750
