@@ -4,7 +4,7 @@
  *
  * Zu diesen Einstellungen gehören: MySQL-Zugangsdaten, Tabellenpräfix,
  * Secret-Keys, Sprache und ABSPATH. Mehr Informationen zur wp-config.php gibt es
- * auf der {@link http://codex.wordpress.org/Editing_wp-config.php wp-config.php editieren}
+ * auf der {@link https://codex.wordpress.org/Editing_wp-config.php wp-config.php editieren}
  * Seite im Codex. Die Informationen für die MySQL-Datenbank bekommst du von deinem Webhoster.
  *
  * Diese Datei wird von der wp-config.php-Erzeugungsroutine verwendet. Sie wird ausgeführt,
