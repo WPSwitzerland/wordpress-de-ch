@@ -12,7 +12,7 @@ gsw.wordpress.org
 -----------------
 This is the old Rosetta site at http://gsw.wordpress.org/ for the gws language pack in informal dialect.
 
-WordPress.org: <a href="https://profiles.wordpress.org/openstream">@openstream</a>
-<a href="https://wordpress.slack.com/">Slack</a>: @openstream
-Twitter: <a href="https://twitter.com/nickweisser">@nickweisser</a>
-E-Mail: nick@openstream.ch
+- WordPress.org: <a href="https://profiles.wordpress.org/openstream">@openstream</a>
+- <a href="https://wordpress.slack.com/">Slack</a>: @openstream
+- Twitter: <a href="https://twitter.com/nickweisser">@nickweisser</a>
+- E-Mail: nick@openstream.ch
