@@ -188,7 +188,7 @@ msgstr "Sie können uns bei der Spam-Bekämpfung helfen und Ihr Konto upgraden m
 
 #: views/notice.php:82
 msgid "Your Akismet account has been successfully set up and activated. Happy blogging!"
-msgstr "Ihr Akismet-Konto wurde erfolgreich eingerichtet und aktiviert. Viel Spaß beim Bloggen!"
+msgstr "Ihr Akismet-Konto wurde erfolgreich eingerichtet und aktiviert. Viel Spass beim Bloggen!"
 
 #: views/notice.php:86
 msgid "The key you entered is invalid. Please double-check it."

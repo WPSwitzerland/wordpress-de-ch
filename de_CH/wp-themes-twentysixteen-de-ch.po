@@ -12,7 +12,7 @@ msgstr ""
 
 #. Description of the plugin/theme
 msgid "Twenty Sixteen is a modernized take on an ever-popular WordPress layout — the horizontal masthead with an optional right sidebar that works perfectly for blogs and websites. It has custom color options with beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail. Twenty Sixteen will make your WordPress look beautiful everywhere."
-msgstr "Twenty Sixteen ist die moderne Interpretation eines allzeit beliebten WordPress-Layouts – einer horizontalen Kopfzeile mit einer optionalen rechten Sidebar die gleichermaßen bei Blogs wie klassischen Websites perfekt funktioniert. Das Theme bietet Einstellungsmöglichkeiten für individuelle​ Farben mit schönen Standard-Farbvorlagen​, ein harmonisches, flexibles​ Raster mit einem Mobile-First-Ansatz und einem makellosen Schliff in jedem Detail. Twenty Sixteen sorgt für einen tollen Look ​bei​ all deinen WordPress-Websites."
+msgstr "Twenty Sixteen ist die moderne Interpretation eines allzeit beliebten WordPress-Layouts – einer horizontalen Kopfzeile mit einer optionalen rechten Sidebar die gleichermassen bei Blogs wie klassischen Websites perfekt funktioniert. Das Theme bietet Einstellungsmöglichkeiten für individuelle​ Farben mit schönen Standard-Farbvorlagen​, ein harmonisches, flexibles​ Raster mit einem Mobile-First-Ansatz und einem makellosen Schliff in jedem Detail. Twenty Sixteen sorgt für einen tollen Look ​bei​ all deinen WordPress-Websites."
 
 #. Theme Name of the plugin/theme
 msgid "Twenty Sixteen"
@@ -197,7 +197,7 @@ msgstr "<span class=\"meta-nav\">Veröffentlicht in</span><span class=\"post-tit
 #: image.php:73
 msgctxt "Used before full size attachment link."
 msgid "Full size"
-msgstr "Volle Größe"
+msgstr "Volle Grösse"
 
 #: image.php:56 template-parts/content-page.php:23
 #: template-parts/content-single.php:25 template-parts/content.php:33

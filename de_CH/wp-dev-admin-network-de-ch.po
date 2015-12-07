@@ -208,7 +208,7 @@ msgstr "Erlaubte Dateitypen. Getrennt durch Leerzeichen."
 
 #: wp-admin/network/settings.php:304
 msgid "Size in kilobytes"
-msgstr "Größe in Kilobyte"
+msgstr "Grösse in Kilobyte"
 
 #: wp-admin/network/settings.php:134
 msgid "New registrations settings"
@@ -597,7 +597,7 @@ msgstr "Es wird ein neuer Benutzer angelegt, sofern nicht schon ein Benutzer mit
 msgid "Deactivate, Archive, and Spam which lead to confirmation screens. These actions can be reversed later."
 msgstr ""
 "Die Möglichkeit, eine Website zu deaktivieren, zu archivieren, oder als SPAM zu markieren. \n"
-"Deaktivieren entspricht dabei der Löschung deiner Website durch seinen Besitzer. Archivieren bietet die Möglichkeit, eine Website vorübergehend nicht erreichbar zu machen und anschließend wieder zu aktivieren."
+"Deaktivieren entspricht dabei der Löschung deiner Website durch seinen Besitzer. Archivieren bietet die Möglichkeit, eine Website vorübergehend nicht erreichbar zu machen und anschliessend wieder zu aktivieren."
 
 #: wp-admin/network/sites.php:39
 msgid "The site ID is used internally, and is not shown on the front end of the site or to users/viewers."
@@ -609,7 +609,7 @@ msgstr "Wenn du mit der Maus über einen Eintrag in der Liste fährst, werden zu
 
 #: wp-admin/network/settings.php:32
 msgid "Operational settings has fields for the network&#8217;s name and admin email."
-msgstr "Die Netzwerk-Optionen beinhalten unter anderem die Einstellungen für den Namen des Netzwerks, die Administrator E-Mail-Adresse und ob Schlagwörter seitenübergreifend verwendet werden sollen (standardmäßig ist diese Funktion deaktiviert)."
+msgstr "Die Netzwerk-Optionen beinhalten unter anderem die Einstellungen für den Namen des Netzwerks, die Administrator E-Mail-Adresse und ob Schlagwörter seitenübergreifend verwendet werden sollen (standardmässig ist diese Funktion deaktiviert)."
 
 #: wp-admin/network/users.php:163
 msgid "You can also go to the user&#8217;s profile page by clicking on the individual username."
@@ -622,8 +622,8 @@ msgstr "Über die Auswahlbox „Aktion wählen“ kannst du mehrere zuvor markie
 #: wp-admin/network/settings.php:35
 msgid "Upload settings control the size of the uploaded files and the amount of available upload space for each site. You can change the default value for specific sites when you edit a particular site. Allowed file types are also listed (space separated only)."
 msgstr ""
-"In den „Dateiupload-Einstellungen“ kannst du festlegen, welche Dateitypen hochgeladen werden dürfen (Dateiendungen jeweils durch Leerzeichen getrennt) und wie groß einzelne Dateien sein dürfen, sowie wie viel Speicherplatz insgesamt pro Website zur Verfügung steht. Du kannst diese Werte auch später für jede Website einzeln einstellen.<br />\n"
-"Standardmäßig sind übrigens folgende Dateitypen erlaubt:\n"
+"In den „Dateiupload-Einstellungen“ kannst du festlegen, welche Dateitypen hochgeladen werden dürfen (Dateiendungen jeweils durch Leerzeichen getrennt) und wie gross einzelne Dateien sein dürfen, sowie wie viel Speicherplatz insgesamt pro Website zur Verfügung steht. Du kannst diese Werte auch später für jede Website einzeln einstellen.<br />\n"
+"Standardmässig sind übrigens folgende Dateitypen erlaubt:\n"
 "<code>jpg jpeg png gif mp3 mov avi wmv midi mid pdf</code>"
 
 #: wp-admin/network/sites.php:38
@@ -952,7 +952,7 @@ msgstr "URL des ersten Kommentars"
 
 #: wp-admin/network/settings.php:300
 msgid "Max upload file size"
-msgstr "Maximale Dateigröße eines Uploads"
+msgstr "Maximale Dateigrösse eines Uploads"
 
 #: wp-admin/network/settings.php:318
 msgid "Default Language"

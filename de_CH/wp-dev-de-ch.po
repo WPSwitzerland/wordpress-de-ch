@@ -57,7 +57,7 @@ msgstr "https://codex.wordpress.org/Debugging_in_WordPress"
 #. translators: 1: $table_prefix 2: wp-config.php
 #: wp-includes/load.php:402
 msgid "<strong>ERROR</strong>: %1$s in %2$s can only contain numbers, letters, and underscores."
-msgstr "<strong>FEHLER</strong>: %1$s in %2$s kann ausschließlich Zahlen, Buchstaben und Unterstriche beinhalten."
+msgstr "<strong>FEHLER</strong>: %1$s in %2$s kann ausschliesslich Zahlen, Buchstaben und Unterstriche beinhalten."
 
 #: wp-includes/script-loader.php:571
 msgid "Changes saved."
@@ -182,11 +182,11 @@ msgstr "Einstellungen zum Teilen"
 
 #: wp-includes/class-wp-xmlrpc-server.php:517
 msgid "Medium-Large size image width"
-msgstr "Breite für mittelgroße Bilder"
+msgstr "Breite für mittelgrosse Bilder"
 
 #: wp-includes/class-wp-xmlrpc-server.php:522
 msgid "Medium-Large size image height"
-msgstr "Höhe für mittelgroße Bilder"
+msgstr "Höhe für mittelgrosse Bilder"
 
 #. translators: %s: site link
 #: wp-includes/theme-compat/sidebar.php:79
@@ -297,7 +297,7 @@ msgstr "Bist du sicher, dass Benutzername und Passwort stimmen?"
 #. translators: %s: support forums URL
 #: wp-includes/wp-db.php:1084
 msgid "If you don&#8217;t know how to set up a database you should <strong>contact your host</strong>. If all else fails you may find help at the <a href=\"%s\">WordPress Support Forums</a>."
-msgstr "Wenn du nicht weißt, wie du eine Datenbank einrichtest, solltest du <strong>deinen Hostingprovider kontaktieren</strong>. Andernfalls könntest du in den <a href=\"%s\">WordPress Support Foren</a> Hilfe erhalten."
+msgstr "Wenn du nicht weisst, wie du eine Datenbank einrichtest, solltest du <strong>deinen Hostingprovider kontaktieren</strong>. Andernfalls könntest du in den <a href=\"%s\">WordPress Support Foren</a> Hilfe erhalten."
 
 #: wp-includes/wp-db.php:1056
 msgid "Can&#8217;t select database"
@@ -623,7 +623,7 @@ msgstr "Füge diesen Code in deine Website ein, um ihn einzubinden"
 
 #: wp-includes/embed.php:1041
 msgid "Close sharing dialog"
-msgstr "Teilen Dialog schließen"
+msgstr "Teilen Dialog schliessen"
 
 #. translators: %s: 'document_title_separator' filter name
 #: wp-includes/feed.php:102 wp-includes/feed.php:128
@@ -714,7 +714,7 @@ msgstr "Es ist dir leider nicht erlaubt, das Design dieser Website anzupassen."
 
 #: wp-includes/class-wp-customize-manager.php:362
 msgid "You must be logged in to complete this action."
-msgstr "Du musst angemeldet sein, um diese Aktion abzuschließen."
+msgstr "Du musst angemeldet sein, um diese Aktion abzuschliessen."
 
 #. translators: 1: "type => link", 2: "taxonomy => link_category" alternative
 #: wp-includes/category-template.php:378 wp-includes/category.php:43
@@ -1004,7 +1004,7 @@ msgstr ""
 "\n"
 "Diese Mail wurde an ###EMAIL### gesendet.\n"
 "\n"
-"Viele Grüße\n"
+"Viele Grüsse\n"
 "von allen auf ###SITENAME###\n"
 "###SITEURL###"
 
@@ -1034,7 +1034,7 @@ msgstr ""
 "\n"
 "Diese Mail wurde an ###EMAIL### gesendet.\n"
 "\n"
-"Viele Grüße\n"
+"Viele Grüsse\n"
 "von allen auf ###SITENAME###\n"
 "###SITEURL###"
 
@@ -1048,15 +1048,15 @@ msgstr "Eingefügter Text"
 
 #: wp-includes/script-loader.php:110
 msgid "Close inserted text tag"
-msgstr "Tag für eingefügten Text schließen"
+msgstr "Tag für eingefügten Text schliessen"
 
 #: wp-includes/script-loader.php:113
 msgid "Close bulleted list tag"
-msgstr "Aufzählungs-Tag schließen"
+msgstr "Aufzählungs-Tag schliessen"
 
 #: wp-includes/script-loader.php:115
 msgid "Close numbered list tag"
-msgstr "Nummerierte Liste Tag schließen"
+msgstr "Nummerierte Liste Tag schliessen"
 
 #: wp-includes/script-loader.php:116
 msgid "List item"
@@ -1064,11 +1064,11 @@ msgstr "Listenpunkt"
 
 #: wp-includes/script-loader.php:117
 msgid "Close list item tag"
-msgstr "Tag für Listeneintrag schließen"
+msgstr "Tag für Listeneintrag schliessen"
 
 #: wp-includes/script-loader.php:119
 msgid "Close code tag"
-msgstr "Code-Tag schließen"
+msgstr "Code-Tag schliessen"
 
 #: wp-includes/script-loader.php:489
 msgid ""
@@ -1094,15 +1094,15 @@ msgstr "Keine Schlagwörter"
 
 #: wp-includes/script-loader.php:101
 msgid "Close bold tag"
-msgstr "Fettgedruckt-Tag schließen"
+msgstr "Fettgedruckt-Tag schliessen"
 
 #: wp-includes/script-loader.php:103
 msgid "Close italic tag"
-msgstr "Kursiv-Tag schließen"
+msgstr "Kursiv-Tag schliessen"
 
 #: wp-includes/script-loader.php:106
 msgid "Close blockquote tag"
-msgstr "Zitat-Tag schließen"
+msgstr "Zitat-Tag schliessen"
 
 #: wp-includes/script-loader.php:107
 msgid "Deleted text (strikethrough)"
@@ -1110,7 +1110,7 @@ msgstr "Gelöschter Text (durchgestrichen)"
 
 #: wp-includes/script-loader.php:108
 msgid "Close deleted text tag"
-msgstr "Tag für gelöschten Text schließen"
+msgstr "Tag für gelöschten Text schliessen"
 
 #: wp-includes/media-template.php:1160
 msgid "Remove poster image"
@@ -1594,7 +1594,7 @@ msgstr "Individueller Link"
 #. translators: %s: table name
 #: wp-includes/ms-load.php:295
 msgid "<strong>Database tables are missing.</strong> This means that MySQL is not running, WordPress was not installed properly, or someone deleted %s. You really should look at your database now."
-msgstr "<strong>Datenbanktabellen fehlen.</strong> Das heißt, dass MySQL nicht läuft, WordPress nicht richtig installiert wurde oder %s von jemandem gelöscht wurde. Du solltest jetzt ernsthaft einen Blick in deine Datenbank werfen."
+msgstr "<strong>Datenbanktabellen fehlen.</strong> Das heisst, dass MySQL nicht läuft, WordPress nicht richtig installiert wurde oder %s von jemandem gelöscht wurde. Du solltest jetzt ernsthaft einen Blick in deine Datenbank werfen."
 
 #. translators: Do not translate USERNAME, PASSWORD, LOGINLINK, SITE_NAME:
 #. those are placeholders.
@@ -2127,15 +2127,15 @@ msgstr "Verwende zur Auswahl eines Elements die Suche oder die Hoch-/Runter-Pfei
 
 #: wp-includes/media-template.php:166
 msgid "Close media panel"
-msgstr "Medien-Bedienfeld schließen"
+msgstr "Medien-Bedienfeld schliessen"
 
 #: wp-includes/media-template.php:187
 msgid "Close uploader"
-msgstr "Bedienfeld zum Hochladen schließen"
+msgstr "Bedienfeld zum Hochladen schliessen"
 
 #: wp-includes/media-template.php:233
 msgid "Maximum upload file size: %s."
-msgstr "Maximale Dateigröße für Uploads: %s."
+msgstr "Maximale Dateigrösse für Uploads: %s."
 
 #: wp-includes/media-template.php:252
 msgid "List View"
@@ -2167,7 +2167,7 @@ msgstr "Hochgeladen am:"
 
 #: wp-includes/media-template.php:342
 msgid "File size:"
-msgstr "Dateigröße:"
+msgstr "Dateigrösse:"
 
 #: wp-includes/media-template.php:345
 msgid "Dimensions:"
@@ -2235,7 +2235,7 @@ msgstr "<strong>FEHLER</strong>: Der Kommentar konnte nicht gespeichert werden. 
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:179
 msgid "While you can crop images to your liking after clicking <strong>Add new image</strong>, your theme recommends a header size of <strong>%s &times; %s</strong> pixels."
-msgstr "Nachdem du <strong>Bild hinzufügen</strong> angeklickt hast, kannst du Bilder nach deinem Geschmack zuschneiden. Dein Theme empfiehlt jedoch eine Header-Größe von <strong>%s &times; %s</strong> Pixeln."
+msgstr "Nachdem du <strong>Bild hinzufügen</strong> angeklickt hast, kannst du Bilder nach deinem Geschmack zuschneiden. Dein Theme empfiehlt jedoch eine Header-Grösse von <strong>%s &times; %s</strong> Pixeln."
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:181
 msgid "While you can crop images to your liking after clicking <strong>Add new image</strong>, your theme recommends a header width of <strong>%s</strong> pixels."
@@ -2313,7 +2313,7 @@ msgstr "Schriftname"
 
 #: wp-includes/class-wp-editor.php:844
 msgid "Font Sizes"
-msgstr "Schriftgröße"
+msgstr "Schriftgrösse"
 
 #: wp-includes/class-wp-editor.php:981
 msgid "Split table cell"
@@ -2325,7 +2325,7 @@ msgstr "Empfohlene Bild-Abmessungen:"
 
 #: wp-includes/media-template.php:952
 msgid "Custom Size"
-msgstr "Individuelle Größe"
+msgstr "Individuelle Grösse"
 
 #: wp-includes/media-template.php:987
 msgid "Advanced Options"
@@ -2520,12 +2520,12 @@ msgstr "Kleine alphabetische Nummerierung"
 #: wp-includes/class-wp-editor.php:873
 msgctxt "list style"
 msgid "Upper Alpha"
-msgstr "Große alphabetische Nummerierung"
+msgstr "Grosse alphabetische Nummerierung"
 
 #: wp-includes/class-wp-editor.php:874
 msgctxt "list style"
 msgid "Upper Roman"
-msgstr "Große römische Zahlen"
+msgstr "Grosse römische Zahlen"
 
 #: wp-includes/class-wp-editor.php:875
 msgctxt "list style"
@@ -2631,7 +2631,7 @@ msgstr "Body"
 #: wp-includes/class-wp-editor.php:968
 msgctxt "table footer"
 msgid "Footer"
-msgstr "Fußzeile"
+msgstr "Fusszeile"
 
 #: wp-includes/class-wp-editor.php:1005
 msgctxt "TinyMCE"
@@ -2877,7 +2877,7 @@ msgstr "Der Abfrage-Parameter %s benötigt einen Platzhalter."
 
 #: wp-includes/user.php:1891
 msgid "Hint: The password should be at least twelve characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ &amp; )."
-msgstr "Tipp: Das Passwort sollte mindestens zwölf Zeichen lang sein. Für ein stärkeres Passwort verwende Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen wie ! \" ? $ % ^ &amp; )."
+msgstr "Tipp: Das Passwort sollte mindestens zwölf Zeichen lang sein. Für ein stärkeres Passwort verwende Gross- und Kleinbuchstaben, Zahlen und Sonderzeichen wie ! \" ? $ % ^ &amp; )."
 
 #: wp-includes/class-wp-editor.php:904
 msgid "Insert/edit video"
@@ -3089,7 +3089,7 @@ msgstr "Suchen und ersetzen"
 
 #: wp-includes/class-wp-editor.php:945
 msgid "Match case"
-msgstr "Auf Groß- und Kleinschreibung achten"
+msgstr "Auf Gross- und Kleinschreibung achten"
 
 #: wp-includes/class-wp-editor.php:961
 msgid "Rows"
@@ -3101,7 +3101,7 @@ msgstr "Zellen-Innenabstand"
 
 #: wp-includes/class-wp-editor.php:1002
 msgid "Cell spacing"
-msgstr "Zellen-Außenabstand"
+msgstr "Zellen-Aussenabstand"
 
 #: wp-includes/class-wp-editor.php:999
 msgid "Row type"
@@ -3165,7 +3165,7 @@ msgstr "Kaffee"
 
 #: wp-includes/class-wp-image-editor.php:286
 msgid "Attempted to set image quality outside of the range [1,100]."
-msgstr "Es wurde versucht, die Bildqualität außerhalb des Bereichs [1-100] zu setzen. "
+msgstr "Es wurde versucht, die Bildqualität ausserhalb des Bereichs [1-100] zu setzen. "
 
 #: wp-includes/widgets/class-wp-widget-pages.php:26
 msgid "A list of your site&#8217;s Pages."
@@ -3448,7 +3448,7 @@ msgstr "Die Website, die du gesucht hast, %s, existiert nicht, aber du kannst si
 
 #: wp-includes/functions.php:4945
 msgid "The login page will open in a new window. After logging in you can close it and return to this page."
-msgstr "Die Login-Seite wird sich in einem neuen Fenster öffnen. Nach dem Einloggen kannst du das Fenster schließen und zu dieser Seite zurückkehren."
+msgstr "Die Login-Seite wird sich in einem neuen Fenster öffnen. Nach dem Einloggen kannst du das Fenster schliessen und zu dieser Seite zurückkehren."
 
 #. translators: post revision title: 1: author avatar, 2: author name, 3: time
 #. ago, 4: date
@@ -3665,7 +3665,7 @@ msgstr "Spalten"
 #: wp-includes/media-template.php:689 wp-includes/media-template.php:764
 #: wp-includes/media-template.php:938 wp-includes/media.php:3040
 msgid "Large"
-msgstr "Groß"
+msgstr "Gross"
 
 #: wp-includes/media-template.php:601
 msgid "Attachment Display Settings"
@@ -3813,12 +3813,12 @@ msgstr "Datei ist kein Bild."
 #: wp-includes/class-wp-image-editor-gd.php:117
 #: wp-includes/class-wp-image-editor-imagick.php:211
 msgid "Could not read image size."
-msgstr "Bildgröße nicht lesbar."
+msgstr "Bildgrösse nicht lesbar."
 
 #: wp-includes/class-wp-image-editor-gd.php:180
 #: wp-includes/class-wp-image-editor-gd.php:205
 msgid "Image resize failed."
-msgstr "Änderung der Bildgröße fehlgeschlagen."
+msgstr "Änderung der Bildgrösse fehlgeschlagen."
 
 #: wp-includes/class-wp-image-editor-gd.php:313
 msgid "Image crop failed."
@@ -4263,7 +4263,7 @@ msgstr "Dieser Inhaltstyp kann nicht geändert werden."
 
 #: wp-includes/class-wp-xmlrpc-server.php:435
 msgid "Image default size"
-msgstr "Standard-Bildgröße"
+msgstr "Standard-Bildgrösse"
 
 #: wp-includes/class-wp-xmlrpc-server.php:430
 msgid "Image default link type"
@@ -4578,7 +4578,7 @@ msgstr "Der Arbeitsspeicher reicht nicht aus. Bitte versuche eine kleinere Datei
 
 #: wp-includes/script-loader.php:273
 msgid "This is larger than the maximum size. Please try another."
-msgstr "Die Datei ist größer als die Maximalgröße. Bitte verwende eine kleinere Datei."
+msgstr "Die Datei ist grösser als die Maximalgrösse. Bitte verwende eine kleinere Datei."
 
 #: wp-includes/script-loader.php:271
 msgid "This file is not an image. Please try another."
@@ -4834,23 +4834,23 @@ msgstr "Als Auswahlbox darstellen"
 
 #: wp-includes/class-wp-xmlrpc-server.php:532
 msgid "Large size image height"
-msgstr "Höhe für große Bilder"
+msgstr "Höhe für grosse Bilder"
 
 #: wp-includes/class-wp-xmlrpc-server.php:507
 msgid "Medium size image width"
-msgstr "Breite für mittlere Bildgröße"
+msgstr "Breite für mittlere Bildgrösse"
 
 #: wp-includes/class-wp-xmlrpc-server.php:512
 msgid "Medium size image height"
-msgstr "Höhe für mittlere Bildgröße"
+msgstr "Höhe für mittlere Bildgrösse"
 
 #: wp-includes/class-wp-xmlrpc-server.php:527
 msgid "Large size image width"
-msgstr "Breite für große Bilder"
+msgstr "Breite für grosse Bilder"
 
 #: wp-includes/class-wp-xmlrpc-server.php:502
 msgid "Crop thumbnail to exact dimensions"
-msgstr "Vorschaubild auf exakte Größe beschneiden"
+msgstr "Vorschaubild auf exakte Grösse beschneiden"
 
 #: wp-includes/class-wp-xmlrpc-server.php:497
 msgid "Thumbnail Height"
@@ -5341,7 +5341,7 @@ msgstr "Beim Versuch, dich zu dieser Website hinzufügen, trat ein Fehler auf. H
 
 #: wp-includes/ms-functions.php:1880
 msgid "This file is too big. Files must be less than %d KB in size."
-msgstr "Die Datei ist zu groß. Dateien dürfen nicht größer als %d KB sein."
+msgstr "Die Datei ist zu gross. Dateien dürfen nicht grösser als %d KB sein."
 
 #: wp-includes/comment-template.php:2111
 msgid "Your email address will not be published."
@@ -5354,7 +5354,7 @@ msgstr "Es wurde keine gültige URL übermittelt."
 #: wp-includes/class-wp-image-editor-gd.php:193
 #: wp-includes/class-wp-image-editor-imagick.php:245
 msgid "Could not calculate resized image dimensions"
-msgstr "Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden."
+msgstr "Die Abmessungen des grössenveränderten Bildes konnten nicht berechnet werden."
 
 #: wp-signup.php:120
 msgid "Must be at least 4 characters, letters and numbers only. It cannot be changed, so choose carefully!"
@@ -5838,7 +5838,7 @@ msgstr "Seiten-ID"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:139
 msgid "Exclude:"
-msgstr "Ausschließen:"
+msgstr "Ausschliessen:"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:142
 msgid "Page IDs, separated by commas."
@@ -6487,7 +6487,7 @@ msgstr "Rand"
 
 #: wp-includes/class-wp-editor.php:901
 msgid "Dimensions"
-msgstr "Größe"
+msgstr "Grösse"
 
 #: wp-includes/class-wp-editor.php:898
 msgid "Vertical space"
@@ -6907,11 +6907,11 @@ msgstr "Ein Fehler ist aufgetreten – der Feed funktioniert zur Zeit nicht. Pro
 
 #: wp-includes/script-loader.php:92
 msgid "Close all open tags"
-msgstr "Alle offenen Tags schließen"
+msgstr "Alle offenen Tags schliessen"
 
 #: wp-includes/script-loader.php:93
 msgid "close tags"
-msgstr "Tags schließen"
+msgstr "Tags schliessen"
 
 #: wp-includes/script-loader.php:94
 msgid "Enter the URL"
@@ -7530,7 +7530,7 @@ msgstr "Die Kommentarfunktion ist zur Zeit leider deaktiviert."
 
 #: wp-includes/theme-compat/comments-popup.php:112
 msgid "Close this window."
-msgstr "Dieses Fenster schließen."
+msgstr "Dieses Fenster schliessen."
 
 #: wp-includes/theme-compat/sidebar.php:110
 #: wp-includes/widgets/class-wp-widget-meta.php:66
@@ -8006,17 +8006,17 @@ msgstr "Rechts"
 #: wp-includes/media-template.php:688 wp-includes/media-template.php:763
 #: wp-includes/media-template.php:937 wp-includes/media.php:3039
 msgid "Medium"
-msgstr "Mittelgroß"
+msgstr "Mittelgross"
 
 #: wp-includes/media-template.php:690 wp-includes/media-template.php:765
 #: wp-includes/media-template.php:939 wp-includes/media.php:3041
 msgid "Full Size"
-msgstr "Vollständige Größe"
+msgstr "Vollständige Grösse"
 
 #: wp-includes/media-template.php:678 wp-includes/media-template.php:752
 #: wp-includes/media-template.php:927
 msgid "Size"
-msgstr "Größe"
+msgstr "Grösse"
 
 #: wp-includes/class-wp-editor.php:986 wp-includes/media-template.php:605
 msgid "Alignment"
@@ -8123,7 +8123,7 @@ msgstr "Seiten"
 #: wp-includes/functions.php:4932 wp-includes/script-loader.php:256
 #: wp-includes/script-loader.php:337 wp-includes/script-loader.php:439
 msgid "Close"
-msgstr "Schließen"
+msgstr "Schliessen"
 
 #: wp-includes/media.php:3282
 msgid "Select"
