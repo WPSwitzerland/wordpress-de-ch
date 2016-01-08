@@ -4,6 +4,11 @@ This is a repository for tracking changes in the formal Swiss German WordPress l
 
 We're not trying to reinvent the wheel, so therefore the de_CH language pack is based on the de_DE language pack with some minor modifications. We still think it's important that we have our own locale, because we would like to have our own Rosetta site for building the Swiss WordPress community.
 
+Differences
+-----------
+- ss instead of ß
+- ' instead of . (number_format_thousands_sep)
+
 de-ch.wordpress.org
 -------------------
 This is the new Rosetta site at http://de-ch.wordpress.org for the de_CH language pack.
