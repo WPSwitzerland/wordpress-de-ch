@@ -29,7 +29,7 @@ msgstr "Nächster Beitrag:"
 
 #: inc/customizer.php:60 inc/customizer.php:76 inc/customizer.php:81
 msgid "Applied to the header on small screens and the sidebar on wide screens."
-msgstr "Das Header-Bild wird bei diesem Theme bei kleinen Bildschirmen (Mobil-Geräte) auf den Header angewandt und bei großen Bildschirmen (Desktop) auf die Seitenleiste."
+msgstr "Das Header-Bild wird bei diesem Theme bei kleinen Bildschirmen (Mobil-Geräte) auf den Header angewandt und bei grossen Bildschirmen (Desktop) auf die Seitenleiste."
 
 #: single.php:33
 msgid "Next"
@@ -58,7 +58,7 @@ msgstr "Suchergebnisse für: %s"
 #: inc/template-tags.php:113
 msgctxt "Used before full size attachment link."
 msgid "Full size"
-msgstr "Volle Größe"
+msgstr "Volle Grösse"
 
 #: inc/template-tags.php:102
 msgctxt "Used before tag names."
