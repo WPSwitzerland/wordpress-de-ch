@@ -27,7 +27,7 @@ msgstr "ltr"
 #. is .
 #: wp-includes/locale.php:203
 msgid "number_format_decimal_point"
-msgstr ","
+msgstr "."
 
 #. translators: $thousands_sep argument for http://php.net/number_format,
 #. default is ,
