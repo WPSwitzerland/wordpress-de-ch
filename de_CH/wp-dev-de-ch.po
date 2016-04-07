@@ -33,7 +33,7 @@ msgstr ","
 #. default is ,
 #: wp-includes/locale.php:190
 msgid "number_format_thousands_sep"
-msgstr "."
+msgstr "'"
 
 #: wp-includes/class-wp-editor.php:1048
 msgid "Link options"
