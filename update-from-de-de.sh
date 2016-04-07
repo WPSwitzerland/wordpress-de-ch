@@ -1,3 +1,4 @@
+#!/bin/bash
 # export/download latest de_DE locates from dev
 curl -o de_DE/wp-dev-de.po https://translate.wordpress.org/projects/wp/dev/de/formal/export-translations
 curl -o de_DE/wp-dev-cc-de.po https://translate.wordpress.org/projects/wp/dev/cc/de/formal/export-translations

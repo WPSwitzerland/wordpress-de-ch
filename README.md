@@ -7,6 +7,7 @@ We're not trying to reinvent the wheel, so therefore the de_CH language pack is 
 Differences
 -----------
 - ss instead of ß
+- . instead of , (number_format_decimal_point)
 - ' instead of . (number_format_thousands_sep)
 
 de-ch.wordpress.org
