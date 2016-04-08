@@ -1,8 +1,8 @@
 Introduction
 ------------
-This is a repository for tracking changes in the formal Swiss German WordPress language pack, i.e. de_CH or German (Switzerland). The informal language pack (Du-Form) is still at 0%, so if you need that for a project, please ping me, then I can explain how the packaging process works.
+This is a repository for tracking changes in the formal and informal Swiss German WordPress language packs, i.e. de_CH or German (Switzerland).
 
-We're not trying to reinvent the wheel, so therefore the de_CH language pack is based on the de_DE language pack with some minor modifications. We still think it's important that we have our own locale, because we would like to have our own Rosetta site for building the Swiss WordPress community.
+We're not trying to reinvent the wheel, so therefore the de_CH language pack is based on the de_DE language pack with some minor modifications. We still think it's important that we have our own locale, because of number formating and of course because of spelling. We also now have our own Rosetta site for building the Swiss WordPress community.
 
 Differences
 -----------
