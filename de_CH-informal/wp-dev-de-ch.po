@@ -27,13 +27,13 @@ msgstr "ltr"
 #. is .
 #: wp-includes/locale.php:203
 msgid "number_format_decimal_point"
-msgstr ","
+msgstr "."
 
 #. translators: $thousands_sep argument for http://php.net/number_format,
 #. default is ,
 #: wp-includes/locale.php:190
 msgid "number_format_thousands_sep"
-msgstr "."
+msgstr "'"
 
 #: wp-includes/class-wp-editor.php:1048
 msgid "Link options"
