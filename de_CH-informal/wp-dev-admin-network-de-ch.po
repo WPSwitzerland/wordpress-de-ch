@@ -467,7 +467,7 @@ msgstr "Erlaubte Dateitypen. Getrennt durch Leerzeichen."
 
 #: wp-admin/network/settings.php:304
 msgid "Size in kilobytes"
-msgstr "Größe in Kilobyte"
+msgstr "Grösse in Kilobyte"
 
 #: wp-admin/network/settings.php:134
 msgid "New registrations settings"
@@ -867,7 +867,7 @@ msgstr "Ein bestehendes WordPress-Netzwerk wurde gefunden."
 
 #: wp-admin/includes/network.php:364
 msgid "Please complete the configuration steps. To create a new network, you will need to empty or remove the network database tables."
-msgstr "Bitte schließe die Schritte zur Einrichtung ab. Um ein neues Netzwerk anzulegen, musst du die Netzwerk-Datenbanktabellen leeren oder entfernen."
+msgstr "Bitte schliesse die Schritte zur Einrichtung ab. Um ein neues Netzwerk anzulegen, musst du die Netzwerk-Datenbanktabellen leeren oder entfernen."
 
 #: wp-admin/includes/network.php:375
 msgid "Enabling the Network"
@@ -1011,7 +1011,7 @@ msgstr "Es wird ein neuer Benutzer angelegt, sofern nicht schon ein Benutzer mit
 msgid "Deactivate, Archive, and Spam which lead to confirmation screens. These actions can be reversed later."
 msgstr ""
 "Die Möglichkeit, eine Website zu deaktivieren, zu archivieren, oder als Spam zu markieren. \n"
-"Deaktivieren entspricht dabei dem Löschen deiner Website durch seinen Besitzer. Archivieren bietet die Möglichkeit, eine Website vorübergehend nicht erreichbar zu machen und anschließend wieder zu aktivieren."
+"Deaktivieren entspricht dabei dem Löschen deiner Website durch seinen Besitzer. Archivieren bietet die Möglichkeit, eine Website vorübergehend nicht erreichbar zu machen und anschliessend wieder zu aktivieren."
 
 #: wp-admin/network/sites.php:39
 msgid "The site ID is used internally, and is not shown on the front end of the site or to users/viewers."
@@ -1035,7 +1035,7 @@ msgstr "Über die Auswahlbox „Aktion wählen“ kannst du mehrere zuvor markie
 
 #: wp-admin/network/settings.php:35
 msgid "Upload settings control the size of the uploaded files and the amount of available upload space for each site. You can change the default value for specific sites when you edit a particular site. Allowed file types are also listed (space separated only)."
-msgstr "Die &#8222;Dateiupload-Einstellungen&#8220; kontrollieren die Größe von hochgeladenen Dateien und den insgesamt zur Verfügung stehenden Speicherplatz für Uploads für jede Website. Du kannst diesen Wert für eine spezifische Website ändern, indem du diese Website bearbeitest. Zugelassene Dateitypen können ebenfalls aufgelistet werden; jeweils durch Leerzeichen getrennt."
+msgstr "Die &#8222;Dateiupload-Einstellungen&#8220; kontrollieren die Grösse von hochgeladenen Dateien und den insgesamt zur Verfügung stehenden Speicherplatz für Uploads für jede Website. Du kannst diesen Wert für eine spezifische Website ändern, indem du diese Website bearbeitest. Zugelassene Dateitypen können ebenfalls aufgelistet werden; jeweils durch Leerzeichen getrennt."
 
 #: wp-admin/network/sites.php:38
 msgid "Visit to go to the front-end site live."
@@ -1367,7 +1367,7 @@ msgstr "URL des ersten Kommentars"
 
 #: wp-admin/network/settings.php:300
 msgid "Max upload file size"
-msgstr "Maximale Dateigröße eines Uploads"
+msgstr "Maximale Dateigrösse eines Uploads"
 
 #: wp-admin/network/settings.php:318
 msgid "Default Language"

@@ -29,7 +29,7 @@ msgstr "%s weiterlesen <span class=\"meta-nav\">&rarr;</span>"
 
 #: inc/customizer.php:44 inc/customizer.php:45
 msgid "May only be visible on wide screens."
-msgstr "Nur auf großen Bildschirmen sichtbar."
+msgstr "Nur auf grossen Bildschirmen sichtbar."
 
 #: inc/customizer.php:145
 msgid "The home page features your choice of up to 6 posts prominently displayed in a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed instead."
@@ -171,7 +171,7 @@ msgstr "Twenty Fourteen setzt mindestens WordPress Version 3.6 voraus. Du nutzt 
 
 #: inc/customizer.php:47 inc/customizer.php:48
 msgid "Background may only be visible on wide screens."
-msgstr "Der Hintergrund ist möglicherweise nur auf großen Bildschirmen sichtbar."
+msgstr "Der Hintergrund ist möglicherweise nur auf grossen Bildschirmen sichtbar."
 
 #: inc/customizer.php:53 inc/featured-content.php:403
 msgid "Featured Content"
