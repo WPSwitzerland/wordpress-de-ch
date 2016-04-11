@@ -23,7 +23,7 @@ msgstr "1"
 #: wp-admin/includes/schema.php:392
 msgctxt "default GMT offset or timezone string"
 msgid "0"
-msgstr "Europe/Berlin"
+msgstr "Europe/Zurich"
 
 #. translators: %s: Codex URL
 #: wp-admin/includes/meta-boxes.php:642
