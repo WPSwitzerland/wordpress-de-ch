@@ -9,8 +9,8 @@ Differences
 - ss instead of ß
 - . instead of , (number_format_decimal_point)
 - ' instead of . (number_format_thousands_sep)
-- Time zone Europe/Zurich instead of Europe/Berlin
-- html_lang_attribute de-CH instead of de-DE
+- "Europe/Zurich" instead "Europe/Berlin"
+- `de-CH` instead of `de-DE`
 
 de-ch.wordpress.org
 -------------------
