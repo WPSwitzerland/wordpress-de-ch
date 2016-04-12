@@ -227,7 +227,7 @@ msgstr "Social-Links-Menü"
 msgid "Proudly powered by %s"
 msgstr "Stolz präsentiert von %s"
 
-#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 1.4)  #-#-#-#-#
+#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 1.5)  #-#-#-#-#
 #. Author URI of the plugin/theme
 #: footer.php:25
 msgid "https://wordpress.org/"

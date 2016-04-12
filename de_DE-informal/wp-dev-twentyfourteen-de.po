@@ -14,7 +14,7 @@ msgstr ""
 msgid "https://wordpress.org/themes/twentyfourteen/"
 msgstr "https://wordpress.org/themes/twentyfourteen/"
 
-#. #-#-#-#-#  twentyfourteen.pot (Twenty Fourteen 1.6)  #-#-#-#-#
+#. #-#-#-#-#  twentyfourteen.pot (Twenty Fourteen 1.7)  #-#-#-#-#
 #. Author URI of the plugin/theme
 #: footer.php:21
 msgid "https://wordpress.org/"
@@ -431,7 +431,7 @@ msgstr "Zitate"
 msgid "Search Results for: %s"
 msgstr "Suchergebnisse für: %s"
 
-#. #-#-#-#-#  twentyfourteen.pot (Twenty Fourteen 1.6)  #-#-#-#-#
+#. #-#-#-#-#  twentyfourteen.pot (Twenty Fourteen 1.7)  #-#-#-#-#
 #. Theme Name of the plugin/theme
 #: inc/customizer.php:142
 msgid "Twenty Fourteen"
