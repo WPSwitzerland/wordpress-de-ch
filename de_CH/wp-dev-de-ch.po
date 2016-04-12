@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Development (4.5.x) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-04-05 22:02:55+0000\n"
+"PO-Revision-Date: 2016-04-11 10:05:18+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2533,7 +2533,7 @@ msgstr "Nachdem Sie <strong>Neues Bild hinzufügen</strong> angeklickt haben, k�
 msgid "You are customizing %s"
 msgstr "Ihre Anpassungen für %s "
 
-#: wp-includes/class-wp-customize-widgets.php:417
+#: wp-includes/class-wp-customize-widgets.php:419
 msgid "Widgets are independent sections of content that can be placed into widgetized areas provided by your theme (commonly called sidebars)."
 msgstr "Widgets sind eigenständige Inhaltsabschnitte. Widgets können in vorgesehenen Bereichen platziert werden, die von Ihrem Theme zur Verfügung gestellt werden (üblicherweise Sidebar bzw. Seitenleiste genannt)."
 
@@ -2558,7 +2558,7 @@ msgstr "Wenn Sie formatierte Inhalte aus Microsoft Word einfügen möchten, vers
 #. translators: %s: header size in pixels
 #: wp-includes/customize/class-wp-customize-header-image-control.php:180
 msgid "While you can crop images to your liking after clicking <strong>Add new image</strong>, your theme recommends a header size of %s pixels."
-msgstr "Sie können Bilder nach Ihrer Vorstellungen beschneiden, nachdem Sie <strong>Neues Bild hinzufügen</strong> angeklickt habent. Ihr Theme empfiehlt jedoch eine Breite von %s Pixel für den Header."
+msgstr "Sie können Bilder nach Ihren Vorstellungen beschneiden, nachdem Sie <strong>Neues Bild hinzufügen</strong> angeklickt haben. Ihr Theme empfiehlt jedoch eine Grösse von %s Pixel für den Header."
 
 #: wp-includes/class-wp-editor.php:1051
 msgid "Keyboard Shortcuts"
@@ -7610,7 +7610,7 @@ msgstr "Trenne Schlagwörter durch Kommas"
 msgid "Website"
 msgstr "Website"
 
-#: wp-includes/admin-bar.php:734 wp-includes/class-wp-customize-widgets.php:416
+#: wp-includes/admin-bar.php:734 wp-includes/class-wp-customize-widgets.php:418
 #: wp-includes/functions.php:3539
 msgid "Widgets"
 msgstr "Widgets"
