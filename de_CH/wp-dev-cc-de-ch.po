@@ -1162,8 +1162,8 @@ msgid "Belgrade"
 msgstr "Belgrad"
 
 #: wp-admin/includes/continents-cities.php:436
-msgid "Berlin"
-msgstr "Berlin"
+msgid "Zurich"
+msgstr "Zurich"
 
 #: wp-admin/includes/continents-cities.php:437
 msgid "Bratislava"

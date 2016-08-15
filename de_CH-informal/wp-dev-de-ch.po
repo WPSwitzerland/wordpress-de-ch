@@ -15,7 +15,7 @@ msgstr ""
 #. not translate into your own language.
 #: wp-includes/general-template.php:716
 msgid "html_lang_attribute"
-msgstr "de-DE"
+msgstr "de-CH"
 
 #. translators: 'rtl' or 'ltr'. This sets the text direction for WordPress.
 #: wp-includes/class-wp-locale.php:223
@@ -27,13 +27,13 @@ msgstr "ltr"
 #. default is .
 #: wp-includes/class-wp-locale.php:215
 msgid "number_format_decimal_point"
-msgstr ","
+msgstr "."
 
 #. translators: $thousands_sep argument for
 #. https://secure.php.net/number_format, default is ,
 #: wp-includes/class-wp-locale.php:202
 msgid "number_format_thousands_sep"
-msgstr "."
+msgstr "'"
 
 #. translators: %s: Plugin name and version
 #: wp-includes/script-loader.php:620
