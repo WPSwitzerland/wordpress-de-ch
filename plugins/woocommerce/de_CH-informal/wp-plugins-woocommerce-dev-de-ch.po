@@ -8,7 +8,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: GlotPress/2.3.0-alpha\n"
-"Language: de\n"
+"Language: de-ch\n"
 "Project-Id-Version: Plugins - WooCommerce - Development (trunk)\n"
 
 #: includes/admin/class-wc-admin-menus.php:105
