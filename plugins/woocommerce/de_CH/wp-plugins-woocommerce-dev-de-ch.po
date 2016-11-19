@@ -13091,7 +13091,7 @@ msgstr "Wie möchten Sie Produktpreise eingeben?"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:429
 msgid "Yes, I will be charging sales tax"
-msgstr "Ja, "
+msgstr "Ja, ich werde Mehrwertsteuer berechnen"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:426
 msgid "Will you be charging sales tax?"
