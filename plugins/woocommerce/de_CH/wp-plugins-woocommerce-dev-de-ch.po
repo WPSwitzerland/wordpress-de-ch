@@ -13107,7 +13107,7 @@ msgstr "Werden Sie Produkte versenden? "
 
 #: includes/admin/class-wc-admin-setup-wizard.php:414
 msgid "Shipping &amp; Tax Setup"
-msgstr "Ver"
+msgstr "Versand &amp; Steuer Einrichtung"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:367
 #: includes/admin/settings/class-wc-settings-products.php:451
