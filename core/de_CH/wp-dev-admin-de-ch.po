@@ -18,7 +18,7 @@ msgstr ""
 #: wp-admin/includes/schema.php:387
 msgctxt "default GMT offset or timezone string"
 msgid "0"
-msgstr "Europe/Berlin"
+msgstr "Europe/Zurich"
 
 #. translators: default start of the week. 0 = Sunday, 1 = Monday
 #: wp-admin/includes/schema.php:402
@@ -4617,7 +4617,7 @@ msgid ""
 msgstr ""
 "Dies ist eine Beispiel-Seite. Sie unterscheidet sich von Beiträgen, da sie stets an der selben Stelle bleibt und (bei den meisten Themes) in der Navigation angezeigt wird. Die meisten Leute starten mit einem Impressum oder einer &#8222;Über uns&#8220;-Seite mit einer Vorstellung für mögliche Besucher der Website.  Dort könnte zum Beispiel stehen:\n"
 "\n"
-"<blockquote>Hallo! Tagsüber arbeite ich als Fahrradkurier, nachts bin ich ein aufstrebender Schauspieler und dies hier ist meine Website. Ich lebe in Berlin, habe einen großen Hund namens Jack, mag die Fantastischen Vier und ein kühles Bier.</blockquote>\n"
+"<blockquote>Hallo! Tagsüber arbeite ich als Fahrradkurier, nachts bin ich ein aufstrebender Schauspieler und dies hier ist meine Website. Ich lebe in Zurich, habe einen großen Hund namens Jack, mag die Fantastischen Vier und ein kühles Bier.</blockquote>\n"
 "\n"
 "...oder sowas wie:\n"
 "\n"
