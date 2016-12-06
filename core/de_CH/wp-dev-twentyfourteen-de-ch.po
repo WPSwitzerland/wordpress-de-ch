@@ -12,7 +12,7 @@
 <meta name="referrer" content="always">
 <link href="//s.w.org/wp-includes/css/dashicons.css?20160504" rel="stylesheet" type="text/css" />
 <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600&subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="//s.w.org/style/wp4.css?45" />
+<link rel="stylesheet" href="//s.w.org/style/wp4.css?53" />
 <link media="only screen and (max-device-width: 480px)" href="//s.w.org/style/iphone.css?1" type="text/css" rel="stylesheet" />
 <link rel="shortcut icon" href="//s.w.org/favicon.ico?2" type="image/x-icon" />
 
@@ -36,10 +36,9 @@ function recordOutboundLink(link, category, action) {
 @import url("//s.w.org/style/ie.css?1");
 </style>
 <![endif]-->
-<link rel="pingback" href="https://translate.wordpress.org/xmlrpc.php" /><link rel='stylesheet' id='base-css'  href='https://translate.wordpress.org/wp-content/plugins/glotpress/assets/css/style.css?ver=20150717' type='text/css' media='all' />
+<link rel="pingback" href="https://translate.wordpress.org/xmlrpc.php" /><link rel='stylesheet' id='gp-base-css'  href='https://translate.wordpress.org/wp-content/plugins/glotpress/assets/css/style.min.css?ver=20161011' type='text/css' media='all' />
 <link rel='stylesheet' id='wporg-translate-css'  href='https://translate.wordpress.org/wp-content/plugins/wporg-gp-customizations/templates/style.css?ver=20160601' type='text/css' media='all' />
-<script type='text/javascript' src='https://translate.wordpress.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='https://translate.wordpress.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type="text/javascript" src="//s.w.org/wp-includes/js/jquery/jquery.js?v=1.11.1"></script>
 <script>document.cookie='devicePixelRatio='+((window.devicePixelRatio === undefined) ? 1 : window.devicePixelRatio)+'; path=/';</script>
 <script type="text/javascript">
 var toggleMenu = function(){
@@ -52,6 +51,7 @@ var toggleMenu = function(){
 </head>
 
 <body id="wordpress-org" class="wporg-make make-polyglots no-js">
+<script type="text/javascript">document.body.className = document.body.className.replace('no-js','js');</script>
 <div id="wporg-header">
 	<div class="wrapper">
 		<a id="mobile-menu-button" class="" href="#" onclick="toggleMenu();"></a>
@@ -93,7 +93,7 @@ var toggleMenu = function(){
 </ul></div>	</div>
 	<div class="wrapper">
 		<ul class="translate-meta-nav">
-							<li><a href="https://login.wordpress.org/?redirect_to=https%3A%2F%2Ftranslate.wordpress.org%2F"><strong>Log in</strong></a></li>
+							<li><a href="https://login.wordpress.org/?redirect_to=https%3A%2F%2Ftranslate.wordpress.org%2Fprojects%2Fwp%2Fdev%2Ftwentyfourteen%2Fde%2Fformal%2Fexport-translations"><strong>Log in</strong></a></li>
 							</ul>
 	</div>
 </div>
@@ -115,7 +115,7 @@ var toggleMenu = function(){
 			});
 		</script>
 
-Not found	</div><!-- gp-content -->
+Not Found	</div><!-- gp-content -->
 	<p id="gp-footer" class="secondary">
 		Proudly powered by <a href="http://glotpress.org/" title="Found in translation">GlotPress</a>.	</p>
 <div id="wporg-footer">
@@ -187,7 +187,7 @@ Not found	</div><!-- gp-content -->
 </script>
 <script type="text/javascript">_qevents.push( { qacct:"p-18-mFEk4J448M"} );</script>
 <noscript><img src="//pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif" style="display: none;" border="0" height="1" width="1" alt=""/></noscript>
-<!-- 7 queries. 0.076 seconds -->
+<!-- 4 queries. 0.074 seconds -->
 <script type="text/javascript" src="//gravatar.com/js/gprofiles.js"></script>
 
 <script type="text/javascript">
