@@ -16,7 +16,7 @@ msgstr ""
 #. not translate into your own language.
 #: wp-includes/general-template.php:716
 msgid "html_lang_attribute"
-msgstr "de-DE"
+msgstr "de-CH"
 
 #. translators: 'rtl' or 'ltr'. This sets the text direction for WordPress.
 #: wp-includes/class-wp-locale.php:230
@@ -28,13 +28,13 @@ msgstr "ltr"
 #. https://secure.php.net/number_format, default is ,
 #: wp-includes/class-wp-locale.php:209
 msgid "number_format_thousands_sep"
-msgstr "."
+msgstr "'"
 
 #. translators: $dec_point argument for https://secure.php.net/number_format,
 #. default is .
 #: wp-includes/class-wp-locale.php:222
 msgid "number_format_decimal_point"
-msgstr ","
+msgstr "."
 
 #: wp-includes/option.php:1762
 msgid "This address is used for admin purposes, like new user notification."
