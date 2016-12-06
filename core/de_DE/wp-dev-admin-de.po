@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-12-03 10:40:28+0000\n"
+"PO-Revision-Date: 2016-12-06 10:53:49+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -32,41 +32,41 @@ msgstr ""
 
 #: wp-admin/about.php:222
 msgid "Customize Changesets"
-msgstr ""
+msgstr "Änderungs-Sets anpassen"
 
 #. translators: 1: register_setting(), 2:
 #. https://make.wordpress.org/core/2016/10/26/registering-your-settings-in-wordpress-4-7/
 #: wp-admin/about.php:215
 msgid "%1$s <a href=\"%2$s\">has been enhanced</a> to include type, description, and REST API visibility."
-msgstr ""
+msgstr "%1$s <a href=\"%2$s\">wurde verbessert</a> und beinhaltet nun Typ, Beschreibung, und Sichtbarkeit für die REST API."
 
 #: wp-admin/about.php:211
 msgid "Settings Registration API"
-msgstr ""
+msgstr "Einstellungen-Registrierungs-API"
 
 #. translators: %s:
 #. https://make.wordpress.org/core/2016/09/08/wp_hook-next-generation-actions-and-filters/
 #: wp-admin/about.php:205
 msgid "The code that lies beneath actions and filters has been overhauled and modernized, fixing bugs along the way."
-msgstr ""
+msgstr "Der Code, der für Aktionen und Filter verantwortlich ist, wurde überarbeitet und modernisiert, und bei der Gelegenheit Fehler bereinigt."
 
 #: wp-admin/about.php:195
 msgid "List tables, now with more than bulk edit and delete."
-msgstr ""
+msgstr "Listenansicht jetzt mit mehr Optionen als Mehrfachbearbeitung und Löschen."
 
 #: wp-admin/about.php:194
 msgid "Custom Bulk Actions"
-msgstr ""
+msgstr "Individuelle Mehrfachauswahl"
 
 #. translators: %s:
 #. https://make.wordpress.org/core/2016/09/09/new-functions-hooks-and-behaviour-for-theme-developers-in-wordpress-4-7/
 #: wp-admin/about.php:188
 msgid "WordPress 4.7 includes <a href=\"%s\">new functions, hooks, and behavior</a> for theme developers."
-msgstr ""
+msgstr "WordPress 4.7 beinhaltet <a href=\"%s\">neue Funktionen, Hooks und Verhalten</a> für die Entwicklung von Themes."
 
 #: wp-admin/about.php:184
 msgid "More Theme API Goodies"
-msgstr ""
+msgstr "Mehr Theme-API-Bonbons"
 
 #: wp-admin/about.php:181
 msgid "By opening up the page template functionality to all post types, theme developers have even more flexibility with the WordPress template hierarchy."
@@ -74,12 +74,12 @@ msgstr ""
 
 #: wp-admin/about.php:180
 msgid "Post Type Templates"
-msgstr ""
+msgstr "Templates für Inhaltstypen"
 
 #. translators: %s: smiling face with smiling eyes emoji
 #: wp-admin/about.php:173
 msgid "Even More Developer Happiness %s"
-msgstr ""
+msgstr "Noch mehr Erfreuliches für Entwickler %s"
 
 #. translators: %s: https://developer.wordpress.org/rest-api/
 #: wp-admin/about.php:161
@@ -88,11 +88,11 @@ msgstr ""
 
 #: wp-admin/about.php:156
 msgid "WordPress 4.7 comes with REST API endpoints for posts, comments, terms, users, meta, and settings."
-msgstr ""
+msgstr "WordPress 4.7 unterstützt REST API Endpunkte für Beiträge, Kommentare, Begriffe, Benutzer, Metadaten und Einstellungen."
 
 #: wp-admin/about.php:155
 msgid "Introducing REST API Content Endpoints"
-msgstr ""
+msgstr "Erweiterung der REST API um Inhalts-Endpunkte"
 
 #: wp-admin/about.php:148
 msgid "Just because your site is in one language doesn&#8217;t mean that everybody helping manage it prefers that language for their admin. Add more languages to your site and a user language option will show up in your user&#8217;s profiles."
@@ -100,7 +100,7 @@ msgstr ""
 
 #: wp-admin/about.php:146
 msgid "Dashboard in your language"
-msgstr ""
+msgstr "Dashboard in Ihrer Sprache"
 
 #: wp-admin/about.php:143
 msgid "Managing your document collection is easier with WordPress 4.7. Uploading PDFs will generate thumbnail images so you can more easily distinguish between all your documents."
@@ -108,7 +108,7 @@ msgstr ""
 
 #: wp-admin/about.php:141
 msgid "PDF Thumbnail Previews"
-msgstr ""
+msgstr "PDF-Voransichten"
 
 #: wp-admin/about.php:133
 msgid "Sometimes you just need a few visual tweaks to make your site perfect. WordPress 4.7 allows you to add custom CSS and instantly see how your changes affect your site. The live preview allows you to work quickly without page refreshes slowing you down."
@@ -120,7 +120,7 @@ msgstr ""
 
 #: wp-admin/about.php:126
 msgid "Smoother Menu Building"
-msgstr ""
+msgstr "Leichterer Aufbau von Menüs"
 
 #: wp-admin/about.php:120
 msgid "Sometimes a big atmospheric video as a moving header image is just what you need to showcase your wares; go ahead and try it out with Twenty Seventeen. Need some video inspiration? Try searching for sites with video headers available for download and use."
@@ -128,7 +128,7 @@ msgstr ""
 
 #: wp-admin/about.php:108
 msgid "Video Headers"
-msgstr ""
+msgstr "Video-Header"
 
 #: wp-admin/about.php:105
 msgid "Visible icons appear to show you which parts of your site can be customized while live previewing. Click on a shortcut and get straight to editing. Paired with starter content, getting started with customizing your site is faster than ever."
@@ -136,7 +136,7 @@ msgstr ""
 
 #: wp-admin/about.php:93
 msgid "Edit Shortcuts"
-msgstr ""
+msgstr "Buttons für editierbare Elemente"
 
 #: wp-admin/about.php:74
 msgid "To help give you a solid base to build from, individual themes can provide starter content that appears when you go to customize your brand new site. This can range from placing a business information widget in the best location to providing a sample menu with social icon links to a static front page complete with beautiful images. Don&#8217;t worry - nothing new will appear on the live site until you&#8217;re ready to save and publish your initial theme setup."
@@ -144,7 +144,7 @@ msgstr ""
 
 #: wp-admin/about.php:73
 msgid "Theme Starter Content"
-msgstr ""
+msgstr "Theme-Einsteiger-Inhalte"
 
 #: wp-admin/about.php:68
 msgid "WordPress 4.7 adds new features to the customizer to help take you through the initial setup of a theme, with non-destructive live previews of all your changes in one uninterrupted workflow."
@@ -152,23 +152,23 @@ msgstr ""
 
 #: wp-admin/about.php:67
 msgid "Your Site, Your Way"
-msgstr ""
+msgstr "Ihre Website, auf Ihre Art "
 
 #: wp-admin/about.php:61
 msgid "Twenty Seventeen focuses on business sites and features a customizable front page with multiple sections. Personalize it with widgets, navigation, social menus, a logo, custom colors, and more. Our default theme for 2017 works great in many languages, on any device, and for a wide range of users."
-msgstr ""
+msgstr "Twenty Seventeen konzentriert sich auf Websites für Unternehmen und unterstützt eine individualisierbare Startseite mit mehreren Bereichen. Personalisiere sie mit Widgets, Navigation, Sozialen Menüs, einem Logo, individuellen Farben, und mehr. Unser Standardtheme für 2017 läuft in vielen Sprachen, auf jedem Gerät, und für ein breites Nutzerspektrum."
 
 #: wp-admin/about.php:55
 msgid "A brand new default theme brings your site to life with immersive featured images and video headers."
-msgstr ""
+msgstr "Ein brandneues Standardtheme erweckt Ihre Website mit beeindruckenden Beitragsbildern und Video-Headern zum Leben."
 
 #: wp-admin/about.php:54
 msgid "Presenting Twenty Seventeen"
-msgstr ""
+msgstr "Vorstellung von Twenty Seventeen"
 
 #: wp-admin/about.php:37 wp-admin/credits.php:23 wp-admin/freedoms.php:22
 msgid "Thank you for updating to the latest version! WordPress %s helps you get your site set up the way you want it."
-msgstr ""
+msgstr "Danke für die Aktualisierung auf die neueste Version. WordPress %s unterstützt Sie dabei, Ihre Website nach eigenen Vorstellungen zu gestalten."
 
 #: wp-admin/users.php:167 wp-admin/users.php:207
 msgid "Sorry, you are not allowed to delete users."
@@ -5428,7 +5428,7 @@ msgstr "Wartungs- und Sicherheits-Update"
 
 #: wp-admin/options-permalink.php:22
 msgid "This screen allows you to choose your permalink structure. You can choose from common settings or create custom URL structures."
-msgstr "Auf dieser Seite können Sie Ihre gewünschte Permalink-Struktur einstellen. Sie können entweder aus üblichen Vorlagen wählen oder eine eigene URL Struktur definieren."
+msgstr "Auf dieser Seite können Sie Ihre gewünschte Permalink-Struktur einstellen. Sie können entweder aus üblichen Einstellungen wählen oder eine eigene URL-Struktur definieren."
 
 #: wp-admin/includes/update-core.php:1234 wp-admin/update-core.php:500
 msgid "Welcome to WordPress %1$s. <a href=\"%2$s\">Learn more</a>."
@@ -6552,7 +6552,7 @@ msgstr "%1$s &#8212; WordPress"
 
 #: wp-admin/media.php:75
 msgid "This screen allows you to edit five fields for metadata in a file within the media library."
-msgstr "Auf dieser Seite können Sie die Metadaten (Informationen zu einer Datei) von hochgeladenen Medien ändern."
+msgstr "Auf dieser Seite können Sie fünf Metadaten-Felder einer Datei ändern, die sich in der Mediathek befinden."
 
 #: wp-admin/edit-form-advanced.php:407 wp-admin/media.php:76
 msgid "For images only, you can click on Edit Image under the thumbnail to expand out an inline image editor with icons for cropping, rotating, or flipping the image as well as for undoing and redoing. The boxes on the right give you more options for scaling the image, for cropping it, and for cropping the thumbnail in a different way than you crop the original image. You can click on Help in those boxes to get more information."
@@ -6599,7 +6599,7 @@ msgstr[1] "Oben gehalten <span class=\"count\">(%s)</span>"
 
 #: wp-admin/update-core.php:606
 msgid "Check Again"
-msgstr "Erneut prüfen"
+msgstr "Erneut überprüfen"
 
 #. translators: %1 date, %2 time.
 #: wp-admin/update-core.php:605
@@ -10779,7 +10779,7 @@ msgstr "Header aktualisiert. <a href=\"%s\">Sieh dir das Ergebnis an</a>."
 
 #: wp-admin/custom-header.php:456 wp-admin/includes/theme.php:252
 msgid "Custom Header"
-msgstr "Header anpassen"
+msgstr "Eigener Header"
 
 #: wp-admin/includes/template.php:1948 wp-admin/nav-menus.php:657
 #: wp-admin/options.php:300
