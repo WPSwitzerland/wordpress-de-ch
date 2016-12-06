@@ -14,4 +14,3 @@ cp de_DE-informal/wp-dev-admin-de.po de_CH-informal/wp-dev-admin-de-ch.po
 cp de_DE-informal/wp-dev-admin-network-de.po de_CH-informal/wp-dev-admin-network-de-ch.po
 cp de_DE-informal/wp-dev-twentyfifteen-de.po de_CH-informal/wp-dev-twentyfifteen-de-ch.po
 cp de_DE-informal/wp-dev-twentyfourteen-de.po de_CH-informal/wp-dev-twentyfourteen-de-ch.po
-cp de_DE-informal/wp-dev-twentythirteen-de.po de_CH-informal/wp-dev-twentythirteen-de-ch.po
