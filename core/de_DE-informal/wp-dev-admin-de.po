@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-12-06 08:16:22+0000\n"
+"PO-Revision-Date: 2016-12-06 14:56:45+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -84,7 +84,7 @@ msgstr "Noch mehr Erfreuliches für Entwickler %s"
 #. translators: %s: https://developer.wordpress.org/rest-api/
 #: wp-admin/about.php:161
 msgid "Content endpoints provide machine-readable external access to your WordPress site with a clear, standards-driven interface, paving the way for new and innovative methods of interacting with sites through plugins, themes, apps, and beyond. Ready to get started with development? <a href=\"%s\">Check out the REST API reference.</a>"
-msgstr "Inhalts-Endpunkte bieten externen, maschinenlesbaren Zugriff auf deine WordPress-Website mit einer klaren, Standard-konformen Schnittstelle, die den Weg für neue und innovative Methoden der Interaktion mit Websites ebnet, durch Plugins, Themes, Apps und darüber hinaus. Bist du bereit, mit der Entwicklung loszulegen? <a href=\"%s\">Weitere Informationen findest du in der REST-API-Dokumentation.</a>"
+msgstr "Inhalts-Endpunkte bieten externen, maschinenlesbaren Zugriff auf deine WordPress-Website mit einer klaren, standardkonformen Schnittstelle, die den Weg ebnet für neue und innovative Methoden der Interaktion mit Websites, durch Plugins, Themes, Apps und darüber hinaus. Bist du bereit, mit der Entwicklung loszulegen? <a href=\"%s\">Weitere Informationen findest du in der REST-API-Dokumentation.</a>"
 
 #: wp-admin/about.php:156
 msgid "WordPress 4.7 comes with REST API endpoints for posts, comments, terms, users, meta, and settings."
@@ -112,7 +112,7 @@ msgstr "PDF-Voransichten"
 
 #: wp-admin/about.php:133
 msgid "Sometimes you just need a few visual tweaks to make your site perfect. WordPress 4.7 allows you to add custom CSS and instantly see how your changes affect your site. The live preview allows you to work quickly without page refreshes slowing you down."
-msgstr "Manchmal bedarf es nur weniger visueller Anpassung damit deine Website perfekt aussieht. WordPress 4.7 ermöglicht das Hinzufügen von individuellem CSS und du siehst augenblicklich deine Änderungen auf der Website. Die direkte Vorschau ermöglicht dir das zügige Arbeiten ohne, dass das Neuladen von Seiten dich ausbremst."
+msgstr "Manchmal bedarf es nur weniger visueller Anpassungen damit deine Website perfekt aussieht. WordPress 4.7 ermöglicht das Hinzufügen von individuellem CSS und du siehst augenblicklich deine Änderungen auf der Website. Die direkte Vorschau ermöglicht dir das zügige Arbeiten ohne, dass das Neuladen von Seiten dich ausbremst."
 
 #: wp-admin/about.php:128
 msgid "Many menus for sites contain links to the pages of your site, but what happens when you don&#8217;t have any pages yet? Now you can add new pages while building menus instead of leaving the customizer and abandoning your changes. Once you&#8217;ve published your customizations, you&#8217;ll have new pages ready for you to fill with content."
@@ -124,7 +124,7 @@ msgstr "Leichterer Aufbau von Menüs"
 
 #: wp-admin/about.php:120
 msgid "Sometimes a big atmospheric video as a moving header image is just what you need to showcase your wares; go ahead and try it out with Twenty Seventeen. Need some video inspiration? Try searching for sites with video headers available for download and use."
-msgstr ""
+msgstr "Manchmal ist ein großes, atmosphärisches Video als bewegtes Header-Bild genau das Richtige, um deine Waren zu präsentieren; probier es aus mit Twenty Seventeen. Du findest Inspiration zur Nutzung von Videos, wenn du nach Websites suchst, die gebrauchsfertige Video-Header zum Download und Nutzung anbieten."
 
 #: wp-admin/about.php:108
 msgid "Video Headers"
@@ -144,7 +144,7 @@ msgstr "Um dir eine solide Ausgangsbasis zu bieten, können einzelne Themes beis
 
 #: wp-admin/about.php:73
 msgid "Theme Starter Content"
-msgstr "Theme-Einsteiger-Inhalte"
+msgstr "Beispielhafte Theme-Inhalte"
 
 #: wp-admin/about.php:68
 msgid "WordPress 4.7 adds new features to the customizer to help take you through the initial setup of a theme, with non-destructive live previews of all your changes in one uninterrupted workflow."
