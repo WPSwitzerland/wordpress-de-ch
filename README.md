@@ -12,6 +12,10 @@ Differences
 - "Europe/Zurich" instead "Europe/Berlin"
 - `de-CH` instead of `de-DE`
 
+How it works
+-------------
+Replacing is (partly) done with various shell scripts which can be run by changing directory and then running e.g. `sh replace-ss-in-de-ch.sh`. Some of the differences mentioned above are still done manually, but eventually it could be only one main script which would run everything automatically, but this is work in progress.
+
 de-ch.wordpress.org
 -------------------
 This is the new Rosetta site at http://de-ch.wordpress.org for the de_CH language pack.
