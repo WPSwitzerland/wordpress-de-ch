@@ -7,10 +7,10 @@ We're not trying to reinvent the wheel, so therefore the de_CH language pack is 
 Differences
 -----------
 - ss instead of ß
-- . instead of , (number_format_decimal_point)
+- de-CH instead of de-DE (html_lang_attribute)
 - ' instead of . (number_format_thousands_sep)
+- . instead of , (number_format_decimal_point)
 - "Europe/Zurich" instead "Europe/Berlin"
-- `de-CH` instead of `de-DE`
 
 How it works
 -------------
