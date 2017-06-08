@@ -28,7 +28,7 @@ msgstr "1"
 
 #: wp-admin/about.php:196
 msgid "New capabilities have been introduced to 4.8 with an eye towards removing calls to <code>is_super_admin()</code>. Additionally, new hooks and tweaks to more granularly control site and user counts per network have been added."
-msgstr "In 4.8 wurden neue Berechtigungen eingeführt – mit dem Blick darauf, Aufrufe von <code>is_super_admin()</code> zu entfernen. Außerdem wurden neue Hooks und Verbesserungen für eine noch feinere Kontrolle von Website- und Benutzer-Anzahlen pro Netzwerk hinzugefügt."
+msgstr "In 4.8 wurden neue Berechtigungen eingeführt – mit dem Blick darauf, Aufrufe von <code>is_super_admin()</code> zu entfernen. Ausserdem wurden neue Hooks und Verbesserungen für eine noch feinere Kontrolle von Website- und Benutzer-Anzahlen pro Netzwerk hinzugefügt."
 
 #: wp-admin/about.php:151
 msgid "Being part of the community can help you improve your WordPress skills and network with people you wouldn&#8217;t otherwise meet. Now you can easily find your local events just by logging in to your dashboard and looking at the new Events and News dashboard widget."
@@ -40,19 +40,19 @@ msgstr "Das wird schnell eine unserer Lieblingsfunktionen. Während du im Dashbo
 
 #: wp-admin/about.php:147
 msgid "Did you know that WordPress has a thriving offline community with groups meeting regularly in more than 400 cities around the world? WordPress now draws your attention to the events that help you continue improving your WordPress skills, meet friends, and, of course, publish!"
-msgstr "Wusstest du, dass WordPress eine immer größer werdende Offline-Community mit regelmäßigen Treffen in mehr als 400 Städten auf der Welt hat? WordPress weist dich nun auf diese Events hin, die dir helfen, deine WordPress-Fähigkeiten zu verbessern, Freunde zu treffen und Inhalte zu veröffentlichen. "
+msgstr "Wusstest du, dass WordPress eine immer grösser werdende Offline-Community mit regelmässigen Treffen in mehr als 400 Städten auf der Welt hat? WordPress weist dich nun auf diese Events hin, die dir helfen, deine WordPress-Fähigkeiten zu verbessern, Freunde zu treffen und Inhalte zu veröffentlichen. "
 
 #: wp-admin/about.php:126
 msgid "Have you ever tried updating a link, or the text around a link, and found you can&#8217;t seem to edit it correctly? When you edit the text after the link, your new text also ends up linked. Or you edit the text in the link, but your text ends up outside of it. This can be frustrating! With link boundaries, a great new feature, the process is streamlined and your links will work well. You’ll be happier. We promise."
-msgstr "Ist es dir auch schon passiert, dass sich ein Link (oder der Text in der Nähe) einfach nicht korrekt hat bearbeiten lassen? Du bearbeitest den Text nach dem Link und er wird mit verlinkt. Oder: du möchtest den verlinkten Text bearbeiten, aber die Änderung landet außerhalb. Das kann so frustrierend sein! Mit dem neuen Feature „link boundaries“ wird dieser Prozess deutlich verbessert. Du wirst froh sein. Versprochen."
+msgstr "Ist es dir auch schon passiert, dass sich ein Link (oder der Text in der Nähe) einfach nicht korrekt hat bearbeiten lassen? Du bearbeitest den Text nach dem Link und er wird mit verlinkt. Oder: du möchtest den verlinkten Text bearbeiten, aber die Änderung landet ausserhalb. Das kann so frustrierend sein! Mit dem neuen Feature „link boundaries“ wird dieser Prozess deutlich verbessert. Du wirst froh sein. Versprochen."
 
 #: wp-admin/about.php:117
 msgid "This feature deserves a parade down the center of town! Rich-text editing capabilities are now native for Text widgets. Add a widget anywhere and format away. Create lists, add emphasis, and quickly and easily insert links. Have fun with your newfound formatting powers, and watch what you can accomplish in a short amount of time."
-msgstr "Diese Funktion verdient eine Parade durch die Stadt! Die Möglichkeit zur visuellen Textbearbeitung ist jetzt im Text-Widget integriert. Füge irgendwo ein Widget ein und formatiere los. Erstelle Listen, Hervorhebungen und füge einfach Links ein. Viel Spaß mit deinen neuen Formatierungskräften. Du wirst sehen, was du damit in kürzester Zeit verwirklichen kannst."
+msgstr "Diese Funktion verdient eine Parade durch die Stadt! Die Möglichkeit zur visuellen Textbearbeitung ist jetzt im Text-Widget integriert. Füge irgendwo ein Widget ein und formatiere los. Erstelle Listen, Hervorhebungen und füge einfach Links ein. Viel Spass mit deinen neuen Formatierungskräften. Du wirst sehen, was du damit in kürzester Zeit verwirklichen kannst."
 
 #: wp-admin/about.php:109
 msgid "A welcome video is a great way to humanize the branding of your website. You can now add any video from the Media Library to a sidebar on your site with the new Video widget. Use this to showcase a welcome video to introduce visitors to your site or promote your latest and greatest content."
-msgstr "Ein Begrüßungsvideo ist ein großartiger Weg, deine Marke noch freundlicher auf deiner Website zu präsentieren. Mit dem neuen Video-Widget kannst du jedes Video aus deiner Mediathek zu einer Seitenleiste hinzufügen. Präsentiere auf diese Weise ein Willkommensvideo für die Besucher deiner Website oder hebe deine neuesten oder interessantesten Inhalte hervor."
+msgstr "Ein Begrüssungsvideo ist ein grossartiger Weg, deine Marke noch freundlicher auf deiner Website zu präsentieren. Mit dem neuen Video-Widget kannst du jedes Video aus deiner Mediathek zu einer Seitenleiste hinzufügen. Präsentiere auf diese Weise ein Willkommensvideo für die Besucher deiner Website oder hebe deine neuesten oder interessantesten Inhalte hervor."
 
 #: wp-admin/about.php:105
 msgid "Adding an image to a widget is now a simple task that is achievable for any WordPress user without needing to know code. Simply insert your image right within the widget settings. Try adding something like a headshot or a photo of your latest weekend adventure &mdash; and see it appear automatically."
@@ -60,7 +60,7 @@ msgstr "Ein Bild in ein Widget einzufügen ist jetzt eine einfache Aufgabe, die 
 
 #: wp-admin/about.php:50
 msgid "Though some updates seem minor, they&#8217;ve been built by hundreds of contributors with <em>you</em> in mind. Get ready for new features you&#8217;ll welcome like an old friend: link improvements, <em>three</em> new media widgets covering images, audio, and video, an updated text widget that supports visual editing, and an upgraded news section in your dashboard which brings in nearby and upcoming WordPress events."
-msgstr "Auch wenn manche Aktualisierungen winzig erscheinen, werden sie doch von Hunderten Mitwirkenden entwickelt, die dabei an <em>dich</em> denken. Mach dich bereit für neue Funktionen, die du wie einen alten Freund begrüßen wirst: Link-Verbesserungen, <em>drei</em> neue Medien-Widgets für Bilder, Audio und Video, ein aktualisiertes Text-Widget mit Unterstützung für visuelles Formatieren und einen aktualisierten Bereich für Neuigkeiten in deinem Dashboard, der dir bevorstehende regionale WordPress-Veranstaltungen anzeigt."
+msgstr "Auch wenn manche Aktualisierungen winzig erscheinen, werden sie doch von Hunderten Mitwirkenden entwickelt, die dabei an <em>dich</em> denken. Mach dich bereit für neue Funktionen, die du wie einen alten Freund begrüssen wirst: Link-Verbesserungen, <em>drei</em> neue Medien-Widgets für Bilder, Audio und Video, ein aktualisiertes Text-Widget mit Unterstützung für visuelles Formatieren und einen aktualisierten Bereich für Neuigkeiten in deinem Dashboard, der dir bevorstehende regionale WordPress-Veranstaltungen anzeigt."
 
 #: wp-admin/about.php:37 wp-admin/credits.php:23 wp-admin/freedoms.php:22
 msgid "Thank you for updating to the latest version! WordPress %s adds more ways for you to express yourself and represent your brand."
@@ -84,7 +84,7 @@ msgstr "Variable Breite für den Customizer"
 
 #: wp-admin/about.php:200
 msgid "With the addition of TinyMCE to the text widget in 4.8 comes a new JavaScript API for instantiating the editor after page load. This can be used to add an editor instance to any text area, and customize it with buttons and functions. Great for plugin authors!"
-msgstr "Mit dem Hinzufügen des TinyMCE zum Text-Widget in 4.8 kommt eine neue JavaScript-API für die Instanziierung des Editors, nachdem die Seite geladen wurde. Dies ermöglicht es, jedem Textbereich eine Editor-Instanz hinzuzufügen und diese mit Buttons und Funktionen anzupassen. Großartig für Plugin-Autoren!"
+msgstr "Mit dem Hinzufügen des TinyMCE zum Text-Widget in 4.8 kommt eine neue JavaScript-API für die Instanziierung des Editors, nachdem die Seite geladen wurde. Dies ermöglicht es, jedem Textbereich eine Editor-Instanz hinzuzufügen und diese mit Buttons und Funktionen anzupassen. Grossartig für Plugin-Autoren!"
 
 #: wp-admin/about.php:199
 msgid "Text-Editor JavaScript API"
@@ -116,7 +116,7 @@ msgstr "Spannende Widget-Neuerungen"
 
 #: wp-admin/about.php:49
 msgid "WordPress 4.8 adds some great new features. Gear up for a more intuitive WordPress!"
-msgstr "WordPress 4.8 bietet einige großartige neue Funktionen &ndash; mach dich bereit für ein intuitiveres WordPress!"
+msgstr "WordPress 4.8 bietet einige grossartige neue Funktionen &ndash; mach dich bereit für ein intuitiveres WordPress!"
 
 #: wp-admin/about.php:48
 msgid "An Update with You in Mind"
@@ -137,7 +137,7 @@ msgstr "Rich Text Widget"
 
 #: wp-admin/about.php:113
 msgid "Are you a podcaster, musician, or avid blogger? Adding a widget with your audio file has never been easier. Upload your audio file to the Media Library, go to the widget settings, select your file, and you&#8217;re ready for listeners. This would be a easy way to add a more personal welcome message, too!"
-msgstr "Bist du ein Podcaster, Musiker oder passionierter Blogger? Ein Widget mit deiner Audiodatei hinzuzufügen war noch nie so einfach. Lade deine Audiodatei in die Mediathek hoch, gehe zu den Widget-Einstellungen, wähle deine Datei aus, und du bist auf Sendung. Dies könnte auch ein großartiger Weg sein, eine persönlichere Willkommensnachricht hinzuzufügen!"
+msgstr "Bist du ein Podcaster, Musiker oder passionierter Blogger? Ein Widget mit deiner Audiodatei hinzuzufügen war noch nie so einfach. Lade deine Audiodatei in die Mediathek hoch, gehe zu den Widget-Einstellungen, wähle deine Datei aus, und du bist auf Sendung. Dies könnte auch ein grossartiger Weg sein, eine persönlichere Willkommensnachricht hinzuzufügen!"
 
 #: wp-admin/about.php:125
 msgid "Link Boundaries"
@@ -446,7 +446,7 @@ msgstr "%s im gesamten Netzwerk deaktivieren"
 
 #: wp-admin/user-new.php:187
 msgid "By default, new users will receive an email letting them know they&#8217;ve been added as a user for your site. This email will also contain a password reset link. Uncheck the box if you don&#8217;t want to send the new user a welcome email."
-msgstr "Neue Benutzer erhalten standardmäßig eine E-Mail, die ihnen mitteilt, dass sie als Benutzer deiner Website hinzugefügt wurden. Diese E-Mail enthält auch einen Link zum Zurücksetzen des Passworts. Wähle diese Option ab, wenn du einem neuen Benutzer keine Willkommens-E-Mail senden möchtest."
+msgstr "Neue Benutzer erhalten standardmässig eine E-Mail, die ihnen mitteilt, dass sie als Benutzer deiner Website hinzugefügt wurden. Diese E-Mail enthält auch einen Link zum Zurücksetzen des Passworts. Wähle diese Option ab, wenn du einem neuen Benutzer keine Willkommens-E-Mail senden möchtest."
 
 #: wp-admin/user-new.php:185
 msgid "New users are automatically assigned a password, which they can change after logging in. You can view or edit the assigned password by clicking the Show Password button. The username cannot be changed once the user has been added."
@@ -659,7 +659,7 @@ msgstr "Das wird den aktuellen Editor-Inhalt mit dem Inhalt der letzten gespeich
 
 #: wp-admin/includes/template.php:1523
 msgid "Close media attachment panel"
-msgstr "„Medien hinzufügen“-Bedienfeld schließen"
+msgstr "„Medien hinzufügen“-Bedienfeld schliessen"
 
 #: wp-admin/users.php:317 wp-admin/users.php:348
 msgid "Sorry, you are not allowed to remove users."
@@ -779,7 +779,7 @@ msgstr "&larr; Zurück zu %s"
 
 #: wp-admin/customize.php:149
 msgid "Close the Customizer and go back to the previous page"
-msgstr "Schließe den Customizer und gehe zur vorherigen Seite zurück"
+msgstr "Schliesse den Customizer und gehe zur vorherigen Seite zurück"
 
 #: wp-admin/custom-header.php:969
 msgid "Sorry, you are not allowed to customize headers."
@@ -814,7 +814,7 @@ msgstr "Benutzerdefinierte Felder können verwendet werden, um zusätzliche Meta
 #. translators: %s: Codex URL
 #: wp-admin/includes/meta-boxes.php:627
 msgid "Trackbacks are a way to notify legacy blog systems that you&#8217;ve linked to them. If you link other WordPress sites, they&#8217;ll be notified automatically using <a href=\"%s\">pingbacks</a>, no other action necessary."
-msgstr "Trackbacks sind eine Möglichkeit, Blog-Systeme zu informieren, dass du diese verlinkt hast. Wenn zu anderen WordPress-Websites verlinkt wird, werden diese automatisch mittels <a href=\"%s\">Pingbacks</a> informiert, es sind keine weiteren Maßnahmen erforderlich."
+msgstr "Trackbacks sind eine Möglichkeit, Blog-Systeme zu informieren, dass du diese verlinkt hast. Wenn zu anderen WordPress-Websites verlinkt wird, werden diese automatisch mittels <a href=\"%s\">Pingbacks</a> informiert, es sind keine weiteren Massnahmen erforderlich."
 
 #. translators: %s: Codex URL
 #: wp-admin/includes/meta-boxes.php:592
@@ -979,7 +979,7 @@ msgstr "Eine Änderung der Administratoren-E-Mail-Adresse in %s steht noch aus."
 
 #: wp-admin/install.php:376
 msgid "WordPress has been installed. Thank you, and enjoy!"
-msgstr "WordPress wurde installiert. Vielen Dank, und nun viel Spaß!"
+msgstr "WordPress wurde installiert. Vielen Dank, und nun viel Spass!"
 
 #. translators: %s: DO_NOT_UPGRADE_GLOBAL_TABLES
 #: wp-admin/install.php:270
@@ -1864,7 +1864,7 @@ msgstr "Kommentare (%1$s) zu &#8222;%2$s&#8220;"
 
 #: wp-admin/custom-header.php:893
 msgid "The current theme does not support a flexible sized header image."
-msgstr "Das aktuelle Theme unterstützt kein Header-Bild in flexibler Größe."
+msgstr "Das aktuelle Theme unterstützt kein Header-Bild in flexibler Grösse."
 
 #: wp-admin/custom-header.php:727 wp-admin/custom-header.php:885
 msgid "The current theme does not support uploading a custom header image."
@@ -2448,7 +2448,7 @@ msgstr "Du bearbeitest gerade die Seite, die deine letzten Beiträge anzeigt."
 
 #: wp-admin/includes/theme.php:643 wp-admin/themes.php:438
 msgid "Close details dialog"
-msgstr "Dialogfenster mit Detailansicht schließen"
+msgstr "Dialogfenster mit Detailansicht schliessen"
 
 #. translators: Do not translate USERNAME, URL_DELETE, SITE_NAME: those are
 #. placeholders.
@@ -2675,7 +2675,7 @@ msgstr ""
 "\n"
 "Diese E-Mail wurde an die Adresse ###EMAIL### versandt. \n"
 "\n"
-"Viele Grüße, \n"
+"Viele Grüsse, \n"
 "Alle bei ###SITENAME### \n"
 "###SITEURL###"
 
@@ -2710,7 +2710,7 @@ msgstr ""
 "\n"
 "Diese E-Mail wurde an die Adresse ###EMAIL### versandt.\n"
 "\n"
-"Viele Grüße,\n"
+"Viele Grüsse,\n"
 "Alle bei ###SITENAME###\n"
 "###SITEURL###"
 
@@ -2720,7 +2720,7 @@ msgstr "Speicher-Quota für Uploads der Website"
 
 #: wp-admin/includes/ms.php:532
 msgid "Size in megabytes"
-msgstr "Größe in Megabyte"
+msgstr "Grösse in Megabyte"
 
 #: wp-admin/includes/class-wp-press-this.php:106
 msgid "Missing post ID."
@@ -2944,7 +2944,7 @@ msgstr "Alle Dateien, die du hochgeladen hast, werden in der Mediathek aufgelist
 
 #: wp-admin/plugin-install.php:91
 msgid "If you just want to get an idea of what&#8217;s available, you can browse Featured and Popular plugins by using the links above the plugins list. These sections rotate regularly."
-msgstr "Wenn Du eine Vorstellung davon bekommen möchtest, welche Plugins verfügbar sind, kannst du mit den Links am oberen linken Bildschirmrand eine Auswahl an vorgestellten und populären Plugins durchstöbern. Diese Abschnitte werden regelmäßig neu bestückt."
+msgstr "Wenn Du eine Vorstellung davon bekommen möchtest, welche Plugins verfügbar sind, kannst du mit den Links am oberen linken Bildschirmrand eine Auswahl an vorgestellten und populären Plugins durchstöbern. Diese Abschnitte werden regelmässig neu bestückt."
 
 #: wp-admin/plugin-install.php:123
 msgid "Browse Plugins"
@@ -3131,11 +3131,11 @@ msgstr "Du kannst das Bild unter Beibehaltung der Miniaturansicht bearbeiten. Zu
 
 #: wp-admin/includes/image-edit.php:111
 msgid "Once you have made your selection, you can adjust it by entering the size in pixels. The minimum selection size is the thumbnail size as set in the Media settings."
-msgstr "Sobald du deine Auswahl getroffen hast, kannst du sie anpassen, indem du die Größe in Pixel angibst. Die kleinste Auswahlgröße ist die Größe der Vorschaubilder, sowie sie in den Medien-Einstellungen festgelegt ist."
+msgstr "Sobald du deine Auswahl getroffen hast, kannst du sie anpassen, indem du die Grösse in Pixel angibst. Die kleinste Auswahlgrösse ist die Grösse der Vorschaubilder, sowie sie in den Medien-Einstellungen festgelegt ist."
 
 #: wp-admin/includes/image-edit.php:108
 msgid "The aspect ratio is the relationship between the width and height. You can preserve the aspect ratio by holding down the shift key while resizing your selection. Use the input box to specify the aspect ratio, e.g. 1:1 (square), 4:3, 16:9, etc."
-msgstr "Das Seitenverhältnis ist die Bildhöhe in Relation zur Bildbreite. Du kannst das Seitenverhältnis beibehalten, indem du die Steuerungstaste gedrückt hältst wenn du eine Größenänderung vornimmst. Verwende das Eingabefeld, um ein Seitenverhältnis festzulegen, z. B. 1:1 (quadratisch), 4:3, 16:9 usw."
+msgstr "Das Seitenverhältnis ist die Bildhöhe in Relation zur Bildbreite. Du kannst das Seitenverhältnis beibehalten, indem du die Steuerungstaste gedrückt hältst wenn du eine Grössenänderung vornimmst. Verwende das Eingabefeld, um ein Seitenverhältnis festzulegen, z. B. 1:1 (quadratisch), 4:3, 16:9 usw."
 
 #: wp-admin/edit-form-advanced.php:370
 msgid "Keyboard users: When you&#8217;re working in the visual editor, you can use <kbd>Alt + F10</kbd> to access the toolbar."
@@ -3472,7 +3472,7 @@ msgstr "Bist du sicher, dass du dieses Theme löschen willst?"
 
 #: wp-admin/index.php:72
 msgid "<strong>Quick Draft</strong> &mdash; Allows you to create a new post and save it as a draft. Also displays links to the 5 most recent draft posts you've started."
-msgstr "<strong>Schneller Entwurf</strong> &mdash; Ermöglicht dir, neue Beiträge zu erstellen und als Entwurf zu speichern. Außerdem werden dir Links zu den letzten fünf Entwürfen angezeigt, die du begonnen hast."
+msgstr "<strong>Schneller Entwurf</strong> &mdash; Ermöglicht dir, neue Beiträge zu erstellen und als Entwurf zu speichern. Ausserdem werden dir Links zu den letzten fünf Entwürfen angezeigt, die du begonnen hast."
 
 #: wp-admin/index.php:70
 msgid "<strong>Activity</strong> &mdash; Shows the upcoming scheduled posts, recently published posts, and the most recent comments on your posts and allows you to moderate them."
@@ -3740,7 +3740,7 @@ msgstr "Bei einer Aktualisierung auf eine neuere Version dieses Themes, werden h
 
 #: wp-admin/options-media.php:49
 msgid "The sizes listed below determine the maximum dimensions in pixels to use when adding an image to the Media Library."
-msgstr "Die unten aufgeführten Größen bestimmen die maximalen Abmessungen in Pixel, die beim Hinzufügen von Bildern zur Mediathek verwendet werden."
+msgstr "Die unten aufgeführten Grössen bestimmen die maximalen Abmessungen in Pixel, die beim Hinzufügen von Bildern zur Mediathek verwendet werden."
 
 #: wp-admin/options-discussion.php:150
 msgid "Comment must be manually approved"
@@ -4365,7 +4365,7 @@ msgstr "Veröffentlichungs-Einstellungen"
 
 #: wp-admin/edit-form-advanced.php:430
 msgid "Several boxes on this screen contain settings for how your content will be published, including:"
-msgstr "Einige Kästen in dieser Ansicht enthalten Einstellungen, wie der Inhalt veröffentlicht wird, einschließlich: "
+msgstr "Einige Kästen in dieser Ansicht enthalten Einstellungen, wie der Inhalt veröffentlicht wird, einschliesslich: "
 
 #: wp-admin/edit-form-advanced.php:424
 msgid "Inserting Media"
@@ -4373,7 +4373,7 @@ msgstr "Dateien hinzufügen"
 
 #: wp-admin/edit-form-advanced.php:356
 msgid "The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop. You can also minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
-msgstr "Das Titel Feld und das große Feld für den Inhalt sind fest positioniert, aber alle anderen Boxen können per Drag &#38; Drop neu angeordnet werden. Du kannst diese auch minimieren oder maximieren durch Klicken auf die Titelleiste jeder Box. Nutze &#8222;Ansicht anpassen&#8220;, um weitere Boxen zu aktivieren oder deaktivieren (Ausschnitt, Trackbacks senden, benutzerdefinierte Felder, Diskussionen, Slug und Autor) oder wähle das 1- oder 2-Spalten Layout für diese Ansicht."
+msgstr "Das Titel Feld und das grosse Feld für den Inhalt sind fest positioniert, aber alle anderen Boxen können per Drag &#38; Drop neu angeordnet werden. Du kannst diese auch minimieren oder maximieren durch Klicken auf die Titelleiste jeder Box. Nutze &#8222;Ansicht anpassen&#8220;, um weitere Boxen zu aktivieren oder deaktivieren (Ausschnitt, Trackbacks senden, benutzerdefinierte Felder, Diskussionen, Slug und Autor) oder wähle das 1- oder 2-Spalten Layout für diese Ansicht."
 
 #: wp-admin/custom-header.php:122
 msgid "Don&#8217;t forget to click &#8220;Save Changes&#8221; when you&#8217;re done!"
@@ -4495,7 +4495,7 @@ msgstr "Du kannst auch nach Plugins, die bestimmte WordPress.org Benutzer favori
 
 #: wp-admin/plugin-install.php:90
 msgid "If you know what you&#8217;re looking for, Search is your best bet. The Search screen has options to search the WordPress Plugin Directory for a particular Term, Author, or Tag. You can also search the directory by selecting popular tags. Tags in larger type mean more plugins have been labeled with that tag."
-msgstr "Wenn du weißt, wonach du suchst, dann nutze die Suchfunktion. Damit kannst du im offiziellen WordPress.org Plugin-Verzeichnis nach bestimmten Begriffen, Autoren oder (englischen) Schlagwörtern suchen. Du kannst dich auch von der Liste populärer Schlagwörter inspirieren lassen. Die Schlagwörter erscheinen umso größer, je häufiger sie vergeben wurden."
+msgstr "Wenn du weisst, wonach du suchst, dann nutze die Suchfunktion. Damit kannst du im offiziellen WordPress.org Plugin-Verzeichnis nach bestimmten Begriffen, Autoren oder (englischen) Schlagwörtern suchen. Du kannst dich auch von der Liste populärer Schlagwörter inspirieren lassen. Die Schlagwörter erscheinen umso grösser, je häufiger sie vergeben wurden."
 
 #: wp-admin/install.php:199 wp-admin/options-reading.php:138
 msgid "It is up to search engines to honor this request."
@@ -4667,7 +4667,7 @@ msgstr "Du kannst ein Bild auswählen, welches im oberen Bereich deiner Website 
 
 #: wp-admin/edit-form-advanced.php:386
 msgid "Creating a Page is very similar to creating a Post, and the screens can be customized in the same way using drag and drop, the Screen Options tab, and expanding/collapsing boxes as you choose. This screen also has the distraction-free writing space, available in both the Visual and Text modes via the Fullscreen buttons. The Page editor mostly works the same as the Post editor, but there are some Page-specific features in the Page Attributes box."
-msgstr "Eine Seite zu erstellen, ist sehr ähnlich wie das Erstellen eines Beitrags und der Bildschirm kann genauso per Drag &#38; Drop (Ziehen und Ablegen), den Tab &#8222;Ansicht anpassen&#8220; und das beliebige Vergrößern der Kästchen an die Bedürfnisse angepasst werden. Über den Button Vollbildschirm gelangst du in den ablenkungsfreien Schreibmodus, bei dem du sowohl den visuellen als auch den Text-Editor verwenden kannst. Der Seiten-Editor funktioniert im Wesentlichen wie der Beitrags-Editor, aber unter Attribute gibt es einige seitenspezifische Einstellungsmöglichkeiten."
+msgstr "Eine Seite zu erstellen, ist sehr ähnlich wie das Erstellen eines Beitrags und der Bildschirm kann genauso per Drag &#38; Drop (Ziehen und Ablegen), den Tab &#8222;Ansicht anpassen&#8220; und das beliebige Vergrössern der Kästchen an die Bedürfnisse angepasst werden. Über den Button Vollbildschirm gelangst du in den ablenkungsfreien Schreibmodus, bei dem du sowohl den visuellen als auch den Text-Editor verwenden kannst. Der Seiten-Editor funktioniert im Wesentlichen wie der Beitrags-Editor, aber unter Attribute gibt es einige seitenspezifische Einstellungsmöglichkeiten."
 
 #: wp-admin/edit-tags.php:227
 msgid "You can delete Link Categories in the Bulk Action pull-down, but that action does not delete the links within the category. Instead, it moves them to the default Link Category."
@@ -4763,7 +4763,7 @@ msgstr "Vorschau %s"
 
 #: wp-admin/tools.php:23
 msgid "The Categories and Tags Converter link on this screen will take you to the Import screen, where that Converter is one of the plugins you can install. Once that plugin is installed, the Activate Plugin &amp; Run Importer link will take you to a screen where you can choose to convert tags into categories or vice versa."
-msgstr "Wenn du auf den Link des Kategorie- und Schlagwort-Konverters klickst, wirst du auf eine Seite geleitet, auf welcher du den Konverter als Plugin installieren kannst. Sobald der Konverter als Plugin installiert wurde, kannst du ihn benutzen, indem du auf dieser Seite erneut auf den Link des Konverters klickst. Anschließend kannst du Kategorien in Schlagwörter umwandeln (oder umgekehrt)."
+msgstr "Wenn du auf den Link des Kategorie- und Schlagwort-Konverters klickst, wirst du auf eine Seite geleitet, auf welcher du den Konverter als Plugin installieren kannst. Sobald der Konverter als Plugin installiert wurde, kannst du ihn benutzen, indem du auf dieser Seite erneut auf den Link des Konverters klickst. Anschliessend kannst du Kategorien in Schlagwörter umwandeln (oder umgekehrt)."
 
 #: wp-admin/tools.php:22
 msgid "Categories have hierarchy, meaning that you can nest sub-categories. Tags do not have hierarchy and cannot be nested. Sometimes people start out using one on their posts, then later realize that the other would work better for their content."
@@ -4779,7 +4779,7 @@ msgstr "Falls dein Theme mehr als ein Standard-Header-Bild hat oder du mehr als 
 
 #: wp-admin/custom-header.php:111
 msgid "Some themes come with additional header images bundled. If you see multiple images displayed, select the one you&#8217;d like and click the &#8220;Save Changes&#8221; button."
-msgstr "Manche Themes bringen mehrere verschiedene Bilder mit, aus denen du wählen kannst. Klicke anschließend auf den Button &#8222;Speichern&#8220;, um ein gewähltes Bild zu übernehmen."
+msgstr "Manche Themes bringen mehrere verschiedene Bilder mit, aus denen du wählen kannst. Klicke anschliessend auf den Button &#8222;Speichern&#8220;, um ein gewähltes Bild zu übernehmen."
 
 #: wp-admin/custom-header.php:103
 msgid "You can choose from the theme&#8217;s default header images, or use one of your own. You can also customize how your Site Title and Tagline are displayed."
@@ -5155,7 +5155,7 @@ msgstr "Du hast deinen Speicherplatz verbraucht. Bitte lösche Dateien vor dem H
 #. translators: 1: Maximum allowed file size in kilobytes
 #: wp-admin/includes/ms.php:38
 msgid "This file is too big. Files must be less than %1$s KB in size."
-msgstr "Diese Datei ist zu groß. Dateien dürfen maximal %1$s KB groß sein."
+msgstr "Diese Datei ist zu gross. Dateien dürfen maximal %1$s KB gross sein."
 
 #: wp-admin/my-sites.php:31
 msgid "The primary site you chose does not exist."
@@ -5323,7 +5323,7 @@ msgstr "Die Einstellungen „Via E-Mail schreiben“ geben dir die Möglichkeit,
 
 #: wp-admin/users.php:42
 msgid "You can filter the list of users by User Role using the text links above the users list to show All, Administrator, Editor, Author, Contributor, or Subscriber. The default view is to show all users. Unused User Roles are not listed."
-msgstr "Du kannst die Liste der Benutzer nach ihrer Rolle filtern. Benutze die Links über der Liste, um alle Benutzer, Administratoren, Editoren, Autoren, Beitragende oder Abonnenten anzuzeigen. Standardmäßig werden alle Benutzer angezeigt. Unbenutzte Rollen werden nicht aufgezählt."
+msgstr "Du kannst die Liste der Benutzer nach ihrer Rolle filtern. Benutze die Links über der Liste, um alle Benutzer, Administratoren, Editoren, Autoren, Beitragende oder Abonnenten anzuzeigen. Standardmässig werden alle Benutzer angezeigt. Unbenutzte Rollen werden nicht aufgezählt."
 
 #: wp-admin/user-new.php:317
 msgid "Enter the email address of an existing user on this network to invite them to this site. That person will be sent an email asking them to confirm the invite."
@@ -5478,7 +5478,7 @@ msgstr "Plugins hinzufügen"
 
 #: wp-admin/edit.php:222
 msgid "You can also edit or move multiple posts to the trash at once. Select the posts you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
-msgstr "Es können auch mehrere Beiträge auf einmal bearbeitet werden. Markiere dazu die gewünschten Beiträge, wähle im Auswahlmenü &#8222;Aktion wählen&#8220; die gewünschte Aktion und klicke anschließend auf den Button &#8222;Übernehmen&#8220;."
+msgstr "Es können auch mehrere Beiträge auf einmal bearbeitet werden. Markiere dazu die gewünschten Beiträge, wähle im Auswahlmenü &#8222;Aktion wählen&#8220; die gewünschte Aktion und klicke anschliessend auf den Button &#8222;Übernehmen&#8220;."
 
 #: wp-admin/edit.php:192
 msgid "This screen provides access to all of your posts. You can customize the display of this screen to suit your workflow."
@@ -5616,7 +5616,7 @@ msgstr "Du kannst Links in einzelne Gruppen ordnen, indem du Linkkategorien verw
 
 #: wp-admin/media-new.php:50
 msgid "Clicking <strong>Select Files</strong> opens a navigation window showing you files in your operating system. Selecting <strong>Open</strong> after clicking on the file you want activates a progress bar on the uploader screen."
-msgstr "Klicke auf <strong>Dateien auswählen</strong>, um Dateien von deinem Computer auszuwählen, die du hochladen möchtest, indem du nach dem Auswählen im Dateidialog auf <strong>Öffnen</strong> klickst. Anschließend werden die Dateien hochgeladen (<em>Verarbeiten …</em>), verarbeitet und Vorschaubilder erstellt."
+msgstr "Klicke auf <strong>Dateien auswählen</strong>, um Dateien von deinem Computer auszuwählen, die du hochladen möchtest, indem du nach dem Auswählen im Dateidialog auf <strong>Öffnen</strong> klickst. Anschliessend werden die Dateien hochgeladen (<em>Verarbeiten …</em>), verarbeitet und Vorschaubilder erstellt."
 
 #: wp-admin/media-new.php:49
 msgid "<strong>Drag and drop</strong> your files into the area below. Multiple files are allowed."
@@ -5632,7 +5632,7 @@ msgstr "Seiten sind Beiträgen recht ähnlich. Sie haben einen Titel, Inhalt und
 
 #: wp-admin/upload.php:193
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."
-msgstr "Alle über die Oberfläche von WordPress hochgeladenen Dateien werden in der Mediathek angezeigt. Standardmäßig werden die zuletzt hochgeladenen Dateien zuerst angezeigt. Verwende den Tab &#8222;Ansicht anpassen&#8220;, um diese Seite für dich einzurichten."
+msgstr "Alle über die Oberfläche von WordPress hochgeladenen Dateien werden in der Mediathek angezeigt. Standardmässig werden die zuletzt hochgeladenen Dateien zuerst angezeigt. Verwende den Tab &#8222;Ansicht anpassen&#8220;, um diese Seite für dich einzurichten."
 
 #: wp-admin/upload.php:207
 msgid "If a media file has not been attached to any content, you will see that in the Uploaded To column, and can click on Attach to launch a small popup that will allow you to search for existing content and attach the file."
@@ -5840,7 +5840,7 @@ msgstr "<a href=\"%1$s\" class=\"update-browser-link\">Aktualisiere %2$s</a> ode
 #. %4$d is height
 #: wp-admin/includes/media.php:2697
 msgid "Scale images to match the large size selected in %1$simage options%2$s (%3$d &times; %4$d)."
-msgstr "Bilder skalieren, um die Maximale Bildgröße aus %1$sBildoptionen%2$s (%3$d &times; %4$d) zu erfüllen."
+msgstr "Bilder skalieren, um die Maximale Bildgrösse aus %1$sBildoptionen%2$s (%3$d &times; %4$d) zu erfüllen."
 
 #: wp-admin/includes/media.php:2084
 msgid "Insert media from another website"
@@ -6212,11 +6212,11 @@ msgstr "Erneut installieren"
 
 #: wp-admin/includes/file.php:296
 msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form."
-msgstr "Die hochgeladene Datei überschreitet die maximale Größe von <em>MAX_FILE_SIZE</em>, die im HTML-Formular angegeben ist."
+msgstr "Die hochgeladene Datei überschreitet die maximale Grösse von <em>MAX_FILE_SIZE</em>, die im HTML-Formular angegeben ist."
 
 #: wp-admin/includes/file.php:295
 msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
-msgstr "Die hochgeladene Datei überschreitet die maximale Größe von <code>upload_max_filesize</code>, die in der Datei <code>php.ini</code> eingetragen ist."
+msgstr "Die hochgeladene Datei überschreitet die maximale Grösse von <code>upload_max_filesize</code>, die in der Datei <code>php.ini</code> eingetragen ist."
 
 #: wp-admin/credits.php:125
 msgid "External Libraries"
@@ -6237,7 +6237,7 @@ msgstr "Übersetzung ins Deutsche:"
 
 #: wp-admin/freedoms.php:48
 msgid "Every plugin and theme in WordPress.org&#8217;s directory is 100%% GPL or a similarly free and compatible license, so you can feel safe finding <a href=\"%1$s\">plugins</a> and <a href=\"%2$s\">themes</a> there. If you get a plugin or theme from another source, make sure to <a href=\"%3$s\">ask them if it&#8217;s GPL</a> first. If they don&#8217;t respect the WordPress license, we don&#8217;t recommend them."
-msgstr "Jedes Plugin und Theme, das von WordPress.org heruntergeladen werden kann, ist zu 100%% unter der GPL oder einer ähnlichen, kompatiblen Lizenz lizenziert. So kannst du von dort unbesorgt <a href=\"%1$s\">Plugins</a> und <a href=\"%2$s\">Themes</a> suchen und verwenden. Solltest du ein Plugin oder Theme aus einer anderen Quelle verwenden, so solltest du vorher erfragen <a href=\"%3$s\">ob das Produkt gemäß der GPL lizenziert ist</a>. Falls dieses Produkt die WordPress Lizenz nicht respektiert, können wir es nicht empfehlen."
+msgstr "Jedes Plugin und Theme, das von WordPress.org heruntergeladen werden kann, ist zu 100%% unter der GPL oder einer ähnlichen, kompatiblen Lizenz lizenziert. So kannst du von dort unbesorgt <a href=\"%1$s\">Plugins</a> und <a href=\"%2$s\">Themes</a> suchen und verwenden. Solltest du ein Plugin oder Theme aus einer anderen Quelle verwenden, so solltest du vorher erfragen <a href=\"%3$s\">ob das Produkt gemäss der GPL lizenziert ist</a>. Falls dieses Produkt die WordPress Lizenz nicht respektiert, können wir es nicht empfehlen."
 
 #: wp-admin/freedoms.php:41
 msgid "WordPress grows when people like you tell their friends about it, and the thousands of businesses and services that are built on and around WordPress share that fact with their users. We&#8217;re flattered every time someone spreads the good word, just make sure to <a href=\"%s\">check out our trademark guidelines</a> first."
@@ -6245,7 +6245,7 @@ msgstr "WordPress entwickelt sich weiter, wenn Menschen wie du ihren Freunden un
 
 #: wp-admin/freedoms.php:32
 msgid "WordPress is Free and open source software, built by a distributed community of mostly volunteer developers from around the world. WordPress comes with some awesome, worldview-changing rights courtesy of its <a href=\"%s\">license</a>, the GPL."
-msgstr "WordPress ist eine freie, kostenlose und quelloffene (<em>Open Source</em>) Software, programmiert von größtenteils freiwilligen Personen auf der ganzen Welt. WordPress steht unter einer sehr großzügigen und viele Freiheiten gewährenden <a href=\"%s\">Lizenz (engl.)</a>, der GPL."
+msgstr "WordPress ist eine freie, kostenlose und quelloffene (<em>Open Source</em>) Software, programmiert von grösstenteils freiwilligen Personen auf der ganzen Welt. WordPress steht unter einer sehr grosszügigen und viele Freiheiten gewährenden <a href=\"%s\">Lizenz (engl.)</a>, der GPL."
 
 #: wp-admin/credits.php:116
 msgid "Project Leaders"
@@ -6451,7 +6451,7 @@ msgstr ""
 "\n"
 "Du kannst entweder beliebig viele Hauptseiten (wie diese hier) anlegen – oder auch Unterseiten, die sich in der Hierachiestruktur den Hauptseiten unterordnen. Du kannst diese alle innerhalb von WordPress ändern und verwalten.\n"
 "\n"
-"Als stolzer Besitzer einer neuen WordPress-Seite solltest du jetzt zur Übersichtsseite, dem <a href=\"%s\">Dashboard</a> gehen, diese Seite hier löschen und damit loslegen, eigene Inhalte zu erstellen. Viel Spaß!"
+"Als stolzer Besitzer einer neuen WordPress-Seite solltest du jetzt zur Übersichtsseite, dem <a href=\"%s\">Dashboard</a> gehen, diese Seite hier löschen und damit loslegen, eigene Inhalte zu erstellen. Viel Spass!"
 
 #: wp-admin/user-edit.php:380
 msgid "Super admin privileges cannot be removed because this user has the network admin email."
@@ -6503,7 +6503,7 @@ msgstr "Die Aktualisierung der Datenbank könnte etwas dauern, bitte hab einen M
 
 #: wp-admin/update-core.php:113
 msgid "You are about to install WordPress %s <strong>in English (US).</strong> There is a chance this update will break your translation. You may prefer to wait for the localized version to be released."
-msgstr "Du bist dabei, WordPress %s in <strong>englisch (US)</strong> zu installieren. Es kann sein, dass die Aktualisierung deine Installation beschädigt. Außerdem solltest du vielleicht warten, bis eine übersetzte Version erschienen ist."
+msgstr "Du bist dabei, WordPress %s in <strong>englisch (US)</strong> zu installieren. Es kann sein, dass die Aktualisierung deine Installation beschädigt. Ausserdem solltest du vielleicht warten, bis eine übersetzte Version erschienen ist."
 
 #: wp-admin/upgrade.php:99
 msgid "Update WordPress Database"
@@ -6809,11 +6809,11 @@ msgstr "Der Titel der Website ist wichtig, da er zum Beispiel in der Titelleiste
 
 #: wp-admin/options-media.php:18
 msgid "You can set maximum sizes for images inserted into your written content; you can also insert an image as Full Size."
-msgstr "Du kannst auf dieser Seite einstellen, welche Größe Bilder maximal haben sollen, wenn sie eingefügt werden. Dir bleibt aber unabhängig davon immer noch die Möglichkeit, ein Bild auch in seiner ursprünglichen Größe einzufügen."
+msgstr "Du kannst auf dieser Seite einstellen, welche Grösse Bilder maximal haben sollen, wenn sie eingefügt werden. Dir bleibt aber unabhängig davon immer noch die Möglichkeit, ein Bild auch in seiner ursprünglichen Grösse einzufügen."
 
 #: wp-admin/edit-form-advanced.php:463
 msgid "<strong>Order</strong> &mdash; Pages are usually ordered alphabetically, but you can choose your own order by entering a number (1 for first, etc.) in this field."
-msgstr "<strong>Reihenfolge</strong> &mdash; Falls du nicht die Funktion des individuellen Menüs nutzt, kannst du hier festlegen, in welcher Reihenfolge die Seiten in der Seitenauflistung angezeigt werden sollen. Je größer die Zahl, desto weiter hinten wird die Seite angezeigt. Beachte, dass dies eventuell nicht bei allen Themes funktioniert."
+msgstr "<strong>Reihenfolge</strong> &mdash; Falls du nicht die Funktion des individuellen Menüs nutzt, kannst du hier festlegen, in welcher Reihenfolge die Seiten in der Seitenauflistung angezeigt werden sollen. Je grösser die Zahl, desto weiter hinten wird die Seite angezeigt. Beachte, dass dies eventuell nicht bei allen Themes funktioniert."
 
 #: wp-admin/includes/file.php:1217
 msgid "If you do not remember your credentials, you should contact your web host."
@@ -6848,7 +6848,7 @@ msgstr "Wenn du einen Link löschst, dann wird er dauerhaft entfernt, da es noch
 msgid "You can add links here to be displayed on your site, usually using <a href=\"%s\">Widgets</a>. By default, links to several sites in the WordPress community are included as examples."
 msgstr ""
 "Auf dieser Seite kannst du deine Links verwalten und neue hinzufügen. Die Links kannst du auf deiner Website zum Beispiel mittels eines <a href=\"%s\">Widgets</a> anzeigen lassen. \n"
-"Standardmäßig sind bereits einige Links aus der WordPress-Community als Beispiele eingetragen. Du darfst diese aber auch selbstverständlich löschen."
+"Standardmässig sind bereits einige Links aus der WordPress-Community als Beispiele eingetragen. Du darfst diese aber auch selbstverständlich löschen."
 
 #: wp-admin/plugin-editor.php:145
 msgid "You can use the editor to make changes to any of your plugins&#8217; individual PHP files. Be aware that if you make changes, plugins updates will overwrite your customizations."
@@ -6892,7 +6892,7 @@ msgstr "Obligatorisch auszufüllende Eingabefelder werden als solche markiert. D
 
 #: wp-admin/user-edit.php:48
 msgid "Your username cannot be changed, but you can use other fields to enter your real name or a nickname, and change which name to display on your posts."
-msgstr "Der Benutzername kann nicht geändert werden. Jedoch können die anderen Felder ausgefüllt und anschließend ausgewählt werden, welcher Name (Benutzername, Realname, Spitzname) öffentlich – zum Beispiel in Beiträgen – angezeigt werden soll."
+msgstr "Der Benutzername kann nicht geändert werden. Jedoch können die anderen Felder ausgefüllt und anschliessend ausgewählt werden, welcher Name (Benutzername, Realname, Spitzname) öffentlich – zum Beispiel in Beiträgen – angezeigt werden soll."
 
 #: wp-admin/comment.php:45
 msgid "You can edit the information left in a comment if needed. This is often useful when you notice that a commenter has made a typographical error."
@@ -6988,7 +6988,7 @@ msgstr "Hier findest du eine Liste von Plugins, mit denen du Daten aus anderen B
 
 #: wp-admin/plugin-editor.php:146
 msgid "Choose a plugin to edit from the dropdown menu and click the Select button. Click once on any file name to load it in the editor, and make your changes. Don&#8217;t forget to save your changes (Update File) when you&#8217;re finished."
-msgstr "Wähle zuerst in der Auswahlbox das zu bearbeitende Plugin und klicke dann auf &#8222;-Wähle-&#8220;. Anschließend werden auf der rechten Seite alle zum Plugin zugehörigen Dateien angezeigt, die du mit einem Klick auf den jeweiligen Dateinamen bearbeiten kannst. Vergiss nicht, zum Schluss auch die Änderungen mit einem Klick auf &#8222;Datei aktualisieren&#8220; zu speichern."
+msgstr "Wähle zuerst in der Auswahlbox das zu bearbeitende Plugin und klicke dann auf &#8222;-Wähle-&#8220;. Anschliessend werden auf der rechten Seite alle zum Plugin zugehörigen Dateien angezeigt, die du mit einem Klick auf den jeweiligen Dateinamen bearbeiten kannst. Vergiss nicht, zum Schluss auch die Änderungen mit einem Klick auf &#8222;Datei aktualisieren&#8220; zu speichern."
 
 #: wp-admin/link-manager.php:55
 msgid "You can customize the display of this screen using the Screen Options tab and/or the dropdown filters above the links table."
@@ -7010,11 +7010,11 @@ msgstr "<strong>Hinweis:</strong> Sei vorsichtig, wenn du ein Theme bearbeitest,
 
 #: wp-admin/widgets.php:55
 msgid "Widgets are independent sections of content that can be placed into any widgetized area provided by your theme (commonly called sidebars). To populate your sidebars/widget areas with individual widgets, drag and drop the title bars into the desired area. By default, only the first widget area is expanded. To populate additional widget areas, click on their title bars to expand them."
-msgstr "Widgets sind eigenständige Module mit Inhalt, die in allen für Wigdets vorgesehene Bereiche deines Themes platziert werden können. (Dies ist meistens die Seitenleiste.) Um diese Widget-Bereiche, wie Seitenleiste oder Footer, individuell mit Widgets zu gestalten, ziehe einfach per Drag &#38; Drop vom Titel des Widget dieses in den entsprechenden Bereich. Standardmäßig ist nur der erste Widget-Bereich aufgeklappt. Um weitere Inhalte in Widget-Bereiche einzupflegen, klicke auf den Pfeil im Titel des Widget-Bereichs, um diesen aufzuklappen, die enthaltenen Widgets zu sehen und neue hinzuzufügen oder zu entfernen."
+msgstr "Widgets sind eigenständige Module mit Inhalt, die in allen für Wigdets vorgesehene Bereiche deines Themes platziert werden können. (Dies ist meistens die Seitenleiste.) Um diese Widget-Bereiche, wie Seitenleiste oder Footer, individuell mit Widgets zu gestalten, ziehe einfach per Drag &#38; Drop vom Titel des Widget dieses in den entsprechenden Bereich. Standardmässig ist nur der erste Widget-Bereich aufgeklappt. Um weitere Inhalte in Widget-Bereiche einzupflegen, klicke auf den Pfeil im Titel des Widget-Bereichs, um diesen aufzuklappen, die enthaltenen Widgets zu sehen und neue hinzuzufügen oder zu entfernen."
 
 #: wp-admin/theme-editor.php:28
 msgid "Begin by choosing a theme to edit from the dropdown menu and clicking the Select button. A list then appears of the theme&#8217;s template files. Clicking once on any file name causes the file to appear in the large Editor box."
-msgstr "Wähle zuerst in der Auswahlbox das zu bearbeitende Theme und klicke dann auf &#8222;-Wähle-&#8220;. Anschließend werden auf der rechten Seite alle zum Theme zugehörigen Dateien angezeigt, die du mit einem Klick auf den jeweiligen Dateinamen bearbeiten kannst."
+msgstr "Wähle zuerst in der Auswahlbox das zu bearbeitende Theme und klicke dann auf &#8222;-Wähle-&#8220;. Anschliessend werden auf der rechten Seite alle zum Theme zugehörigen Dateien angezeigt, die du mit einem Klick auf den jeweiligen Dateinamen bearbeiten kannst."
 
 #: wp-admin/theme-editor.php:27
 msgid "You can use the Theme Editor to edit the individual CSS and PHP files which make up your theme."
@@ -7034,7 +7034,7 @@ msgstr "Hauptseite (keine Übergeordnete)"
 
 #: wp-admin/edit-form-advanced.php:461
 msgid "<strong>Parent</strong> &mdash; You can arrange your pages in hierarchies. For example, you could have an &#8220;About&#8221; page that has &#8220;Life Story&#8221; and &#8220;My Dog&#8221; pages under it. There are no limits to how many levels you can nest pages."
-msgstr "<strong>Eltern</strong> &mdash; Wähle eine andere Seite aus, der diese Seite untergeordnet werden soll, um verschachtelte Seitenstrukturen aufzubauen. Zum Beispiel kannst du eine Seite &#8222;Über mich&#8220; erstellen und dieser anschließend die Seiten &#8222;Mein Haus&#8220;, &#8222;Meine Familie&#8220; und &#8222;Mein Auto&#8220; unterordnen, indem du jeweils &#8222;Über mich&#8220; als Eltern-Seite angibst."
+msgstr "<strong>Eltern</strong> &mdash; Wähle eine andere Seite aus, der diese Seite untergeordnet werden soll, um verschachtelte Seitenstrukturen aufzubauen. Zum Beispiel kannst du eine Seite &#8222;Über mich&#8220; erstellen und dieser anschliessend die Seiten &#8222;Mein Haus&#8220;, &#8222;Meine Familie&#8220; und &#8222;Mein Auto&#8220; unterordnen, indem du jeweils &#8222;Über mich&#8220; als Eltern-Seite angibst."
 
 #: wp-admin/edit-form-advanced.php:462
 msgid "<strong>Template</strong> &mdash; Some themes have custom templates you can use for certain pages that might have additional features or custom layouts. If so, you&#8217;ll see them in this dropdown menu."
@@ -7064,7 +7064,7 @@ msgstr "Du kannst über den Tab &#8222;Ansicht anpassen&#8220; steuern, wieviele
 msgid "What&#8217;s the difference between categories and tags? Normally, tags are ad-hoc keywords that identify important information in your post (names, subjects, etc) that may or may not recur in other posts, while categories are pre-determined sections. If you think of your site like a book, the categories are like the Table of Contents and the tags are like the terms in the index."
 msgstr ""
 "Worin besteht der Unterschied zwischen Schlagwörtern und Kategorien? \n"
-"Kategorien können hierarchisch angeordnet und verschachtelt werden und dienen der generellen und eher groben Einordnung von Beiträgen. Schlagwörter werden direkt beim Erstellen des Beitrags eingegeben – und nicht bloß ausgewählt – und schlüsseln viel feiner den Inhalt eines Beitrags in Stichworten auf. Verglichen mit einem Buch, entsprechen Kategorien dem Inhaltsverzeichnis und Schlagwörter dem Stichwortverzeichnis."
+"Kategorien können hierarchisch angeordnet und verschachtelt werden und dienen der generellen und eher groben Einordnung von Beiträgen. Schlagwörter werden direkt beim Erstellen des Beitrags eingegeben – und nicht bloss ausgewählt – und schlüsseln viel feiner den Inhalt eines Beitrags in Stichworten auf. Verglichen mit einem Buch, entsprechen Kategorien dem Inhaltsverzeichnis und Schlagwörter dem Stichwortverzeichnis."
 
 #: wp-admin/edit-tags.php:220
 msgid "You can use categories to define sections of your site and group related posts. The default category is &#8220;Uncategorized&#8221; until you change it in your <a href=\"%s\">writing settings</a>."
@@ -7135,7 +7135,7 @@ msgstr "Zurück zu WordPress-Aktualisierungen gehen"
 
 #: wp-admin/edit-form-advanced.php:453
 msgid "<strong>Discussion</strong> &mdash; You can turn comments and pings on or off, and if there are comments on the post, you can see them here and moderate them."
-msgstr "<strong>Diskussion</strong> &mdash; Hier kannst du Kommentare und Ping-/Trackbacks für diesen Beitrag aus- oder einschalten. Bereits abgegebene Kommentare werden hier außerdem angezeigt."
+msgstr "<strong>Diskussion</strong> &mdash; Hier kannst du Kommentare und Ping-/Trackbacks für diesen Beitrag aus- oder einschalten. Bereits abgegebene Kommentare werden hier ausserdem angezeigt."
 
 #: wp-admin/edit-form-advanced.php:364
 msgid "<strong>Title</strong> &mdash; Enter a title for your post. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
@@ -7512,7 +7512,7 @@ msgstr "Aktualisiere Theme %1$s (%2$d/%3$d)"
 
 #: wp-admin/includes/schema.php:1104
 msgid "You can still use your site but any subdomain you create may not be accessible. If you know your DNS is correct, ignore this message."
-msgstr "Du kannst deine Website weiterhin benutzen, nur wird jede angelegte Subdomain möglicherweise nicht erreichbar sein. Wenn du weißt, dass deine DNS-Einstellungen korrekt sind, kannst du diesen Hinweis ignorieren."
+msgstr "Du kannst deine Website weiterhin benutzen, nur wird jede angelegte Subdomain möglicherweise nicht erreichbar sein. Wenn du weisst, dass deine DNS-Einstellungen korrekt sind, kannst du diesen Hinweis ignorieren."
 
 #. translators: %s: error message
 #: wp-admin/includes/schema.php:1094
@@ -8149,7 +8149,7 @@ msgstr "Wenn etwas mit einem Plugin falsch läuft und du WordPress nicht mehr ei
 
 #: wp-admin/plugins.php:395
 msgid "Plugins extend and expand the functionality of WordPress. Once a plugin is installed, you may activate it or deactivate it here."
-msgstr "Plugins vergrößern und erweitern den Funktionsumfang von WordPress. Sobald ein Plugin installiert ist, kannst du es auf dieser Seite aktivieren oder auch wieder deaktivieren."
+msgstr "Plugins vergrössern und erweitern den Funktionsumfang von WordPress. Sobald ein Plugin installiert ist, kannst du es auf dieser Seite aktivieren oder auch wieder deaktivieren."
 
 #: wp-admin/plugins.php:344
 msgid "No, return me to the plugin list"
@@ -8377,7 +8377,7 @@ msgstr "Organisiere Uploads in monats- und jahresbasierten Ordnern"
 
 #: wp-admin/options-media.php:118
 msgid "Configuring this is optional. By default, it should be blank."
-msgstr "Diese Einstellung ist optional. Standardmäßig sollte sie leer sein"
+msgstr "Diese Einstellung ist optional. Standardmässig sollte sie leer sein"
 
 #: wp-admin/options-media.php:116
 msgid "Full URL path to files"
@@ -8397,7 +8397,7 @@ msgstr "Einbettungen"
 
 #: wp-admin/options-media.php:75 wp-admin/options-media.php:76
 msgid "Large size"
-msgstr "Groß"
+msgstr "Gross"
 
 #: wp-admin/options-media.php:69 wp-admin/options-media.php:79
 msgid "Max Height"
@@ -8409,11 +8409,11 @@ msgstr "Maximale Breite"
 
 #: wp-admin/options-media.php:65 wp-admin/options-media.php:66
 msgid "Medium size"
-msgstr "Mittelgroß"
+msgstr "Mittelgross"
 
 #: wp-admin/options-media.php:60
 msgid "Crop thumbnail to exact dimensions (normally thumbnails are proportional)"
-msgstr "Beschneide das Vorschaubild auf die exakte Größe (Vorschaubilder sind normalerweise proportional)"
+msgstr "Beschneide das Vorschaubild auf die exakte Grösse (Vorschaubilder sind normalerweise proportional)"
 
 #: wp-admin/options-media.php:53
 msgid "Thumbnail size"
@@ -8421,7 +8421,7 @@ msgstr "Vorschaubilder"
 
 #: wp-admin/options-media.php:48
 msgid "Image sizes"
-msgstr "Bildgröße"
+msgstr "Bildgrösse"
 
 #: wp-admin/options-media.php:15
 msgid "Media Settings"
@@ -8513,7 +8513,7 @@ msgstr "G &#8212; Jugendfrei"
 
 #: wp-admin/options-discussion.php:199 wp-admin/options-discussion.php:200
 msgid "Maximum Rating"
-msgstr "Avatare anzeigen mit der Einstufung bis einschließlich"
+msgstr "Avatare anzeigen mit der Einstufung bis einschliesslich"
 
 #: wp-admin/options-discussion.php:194
 msgid "Show Avatars"
@@ -8583,7 +8583,7 @@ msgstr "ältesten"
 #. page, 2: Form field control for the 'first' or 'last' page
 #: wp-admin/options-discussion.php:114
 msgid "Break comments into pages with %1$s top level comments per page and the %2$s page displayed by default"
-msgstr "Breche Kommentare in Seiten um, mit %1$s Top-Level-Kommentaren pro Seite und zeige die %2$s Seite standardmäßig an."
+msgstr "Breche Kommentare in Seiten um, mit %1$s Top-Level-Kommentaren pro Seite und zeige die %2$s Seite standardmässig an."
 
 #: wp-admin/options-discussion.php:111
 msgid "first"
@@ -8599,7 +8599,7 @@ msgstr "Verschachtelte Kommentare in %s Ebenen organisieren"
 
 #: wp-admin/options-discussion.php:75
 msgid "Automatically close comments on articles older than %s days"
-msgstr "Kommentare zu Beiträgen, die älter als %s Tage sind, automatisch schließen"
+msgstr "Kommentare zu Beiträgen, die älter als %s Tage sind, automatisch schliessen"
 
 #: wp-admin/options-discussion.php:67
 msgid "Users must be registered and logged in to comment"
@@ -9002,7 +9002,7 @@ msgstr "Datei aktualisieren und importieren"
 
 #: wp-admin/includes/template.php:869
 msgid "Maximum size: %s"
-msgstr "Maximale Größe: %s"
+msgstr "Maximale Grösse: %s"
 
 #: wp-admin/includes/template.php:869
 msgid "Choose a file from your computer:"
@@ -9788,11 +9788,11 @@ msgstr "Die Bild-Metadaten konnten nicht geladen werden."
 
 #: wp-admin/includes/image-edit.php:173
 msgid "All sizes except thumbnail"
-msgstr "Alle Größen außer dem Vorschaubild"
+msgstr "Alle Grössen ausser dem Vorschaubild"
 
 #: wp-admin/includes/image-edit.php:165
 msgid "All image sizes"
-msgstr "Alle Bildgrößen"
+msgstr "Alle Bildgrössen"
 
 #: wp-admin/includes/image-edit.php:161
 msgid "Apply changes to:"
@@ -9845,7 +9845,7 @@ msgstr "Originalbild wiederherstellen"
 
 #: wp-admin/includes/image-edit.php:55
 msgid "Original dimensions %s"
-msgstr "Originalgröße %s"
+msgstr "Originalgrösse %s"
 
 #: wp-admin/includes/image-edit.php:49
 msgid "Scale Image"

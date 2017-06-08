@@ -18,7 +18,7 @@ msgstr ""
 #: wp-admin/includes/schema.php:387
 msgctxt "default GMT offset or timezone string"
 msgid "0"
-msgstr "Europe/Berlin"
+msgstr "Europe/Zurich"
 
 #. translators: default start of the week. 0 = Sunday, 1 = Monday
 #: wp-admin/includes/schema.php:402

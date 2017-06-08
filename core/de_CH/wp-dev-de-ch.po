@@ -84,7 +84,7 @@ msgstr "Stadt aktualisiert. Zeige Veranstaltungen in der Nähe von %s."
 #. instead of the English name if possible.
 #: wp-includes/script-loader.php:1058
 msgid "We couldn&#8217;t locate %s. Please try another nearby city. For example: Kansas City; Springfield; Portland."
-msgstr "Wir konnten %s nicht finden. Bitte versuchen Sie eine andere nahe gelegene Stadt. Zum Beispiel: Berlin; Köln; München."
+msgstr "Wir konnten %s nicht finden. Bitte versuchen Sie eine andere nahe gelegene Stadt. Zum Beispiel: Zurich; Köln; München."
 
 #: wp-includes/script-loader.php:1041
 msgid "Attend an upcoming event near you."
