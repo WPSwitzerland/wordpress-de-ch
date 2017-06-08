@@ -12,7 +12,7 @@
 <meta name="referrer" content="always">
 <link href="//s.w.org/wp-includes/css/dashicons.css?20160504" rel="stylesheet" type="text/css" />
 <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600&subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="//s.w.org/style/wp4.css?53" />
+<link rel="stylesheet" href="//s.w.org/style/wp4.css?58" />
 <link media="only screen and (max-device-width: 480px)" href="//s.w.org/style/iphone.css?1" type="text/css" rel="stylesheet" />
 <link rel="shortcut icon" href="//s.w.org/favicon.ico?2" type="image/x-icon" />
 
@@ -36,9 +36,21 @@ function recordOutboundLink(link, category, action) {
 @import url("//s.w.org/style/ie.css?1");
 </style>
 <![endif]-->
-<link rel="pingback" href="https://translate.wordpress.org/xmlrpc.php" /><link rel='stylesheet' id='gp-base-css'  href='https://translate.wordpress.org/wp-content/plugins/glotpress/assets/css/style.min.css?ver=20161011' type='text/css' media='all' />
-<link rel='stylesheet' id='wporg-translate-css'  href='https://translate.wordpress.org/wp-content/plugins/wporg-gp-customizations/templates/style.css?ver=20160601' type='text/css' media='all' />
-<script type="text/javascript" src="//s.w.org/wp-includes/js/jquery/jquery.js?v=1.11.1"></script>
+<link rel="pingback" href="https://translate.wordpress.org/xmlrpc.php" /><link rel='stylesheet' id='dashicons-css'  href='https://translate.wordpress.org/wp-includes/css/dashicons.min.css?ver=4.9-alpha-40882' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='https://translate.wordpress.org/wp-includes/css/admin-bar.min.css?ver=4.9-alpha-40882' type='text/css' media='all' />
+<link rel='stylesheet' id='gp-base-css'  href='https://translate.wordpress.org/wp-content/plugins/glotpress/assets/css/style.min.css?ver=20170110' type='text/css' media='all' />
+<link rel='stylesheet' id='wporg-translate-css'  href='https://translate.wordpress.org/wp-content/plugins/wporg-gp-customizations/templates/style.css?ver=20170302' type='text/css' media='all' />
+<script type='text/javascript' src='https://translate.wordpress.org/wp-includes/js/admin-bar.min.js?ver=4.9-alpha-40882'></script>
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+<style type='text/css'>img#wpstats{display:none}</style><script type="text/javascript" src="//s.w.org/wp-includes/js/jquery/jquery.js?v=1.11.1"></script>
 <script>document.cookie='devicePixelRatio='+((window.devicePixelRatio === undefined) ? 1 : window.devicePixelRatio)+'; path=/';</script>
 <script type="text/javascript">
 var toggleMenu = function(){
@@ -50,7 +62,7 @@ var toggleMenu = function(){
 
 </head>
 
-<body id="wordpress-org" class="wporg-make make-polyglots no-js">
+<body id="wordpress-org" class="admin-bar no-customize-support wporg-make make-polyglots no-js">
 <script type="text/javascript">document.body.className = document.body.className.replace('no-js','js');</script>
 <div id="wporg-header">
 	<div class="wrapper">
@@ -82,27 +94,26 @@ var toggleMenu = function(){
 
 <script type="text/javascript">document.body.className = document.body.className.replace('no-js','js');</script>
 
-<div id="headline">
-	<div class="wrapper">
-		<h2><a href="https://translate.wordpress.org/">Translating WordPress</a></h2>
-		<div class="menu-headline-nav-container"><ul id="menu-headline-nav" class="menu"><li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a href="https://make.wordpress.org/polyglots/teams/">Teams</a></li>
+<header id="masthead" class="site-header " role="banner">
+	<div class="site-branding">
+					<p class="site-title"><a href="https://translate.wordpress.org/" rel="home">Translating WordPress</a></p>
+
+			<nav id="site-navigation" class="navigation-main clear" role="navigation">
+				<button type="button" class="menu-toggle dashicons dashicons-arrow-down-alt2"></button>
+				<div class="menu-headline-nav-container"><ul id="menu-headline-nav" class="menu"><li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a href="https://make.wordpress.org/polyglots/teams/">Teams</a></li>
 <li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="https://make.wordpress.org/polyglots/?resolved=unresolved">Requests</a></li>
-<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="https://make.wordpress.org/polyglots/handbook/">Translator Handbook</a></li>
 <li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="https://make.wordpress.org/polyglots/category/weekly-chats/">Weekly Chats</a></li>
-<li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="https://make.wordpress.org/polyglots/">Blog</a></li>
-</ul></div>	</div>
-	<div class="wrapper">
-		<ul class="translate-meta-nav">
-							<li><a href="https://login.wordpress.org/?redirect_to=https%3A%2F%2Ftranslate.wordpress.org%2Fprojects%2Fwp%2Fdev%2Ftwentyfifteen%2Fde%2Fformal%2Fexport-translations"><strong>Log in</strong></a></li>
-							</ul>
-	</div>
-</div>
+<li id="menu-item-14" class="current-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-14"><a href="https://translate.wordpress.org/">Translate</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="https://make.wordpress.org/polyglots/handbook/">Handbook</a></li>
+</ul></div>			</nav>
+			</div>
+</header>
 
 <div class="gp-content">
 
-<div id="gp-js-message"></div>
+	<div id="gp-js-message"></div>
 
-										<div class="notice" id="help-notice">
+			<div class="notice" id="help-notice">
 			New to Translating WordPress?
 			Read through our <a href="https://make.wordpress.org/polyglots/handbook/tools/glotpress-translate-wordpress-org/" target="_blank">Translator Handbook</a> to get started.
 			<a id="hide-help-notice" class="secondary" style="float: right;" href="/getting-started/hide-notice">Hide</a>
@@ -115,7 +126,11 @@ var toggleMenu = function(){
 			});
 		</script>
 
-Not Found	</div><!-- gp-content -->
+<h2>Page not found</h2>
+
+<p>The page you were looking for could not be found. I’m sorry, it’s not your fault&hellip; probably. <a href="https://translate.wordpress.org/">Return to the homepage</a></p>
+
+	</div><!-- gp-content -->
 	<p id="gp-footer" class="secondary">
 		Proudly powered by <a href="http://glotpress.org/" title="Found in translation">GlotPress</a>.	</p>
 <div id="wporg-footer">
@@ -124,7 +139,7 @@ Not Found	</div><!-- gp-content -->
 			<li><a href="//wordpress.org/about/" title="An introduction to the WordPress project">About</a></li>
 			<li><a href="//wordpress.org/news/" title="News and Updates">Blog</a></li>
 			<li><a href="//wordpress.org/hosting/" title="Recommended web hosting providers">Hosting</a></li>
-			<li><a href="http://jobs.wordpress.net/" title="Find or post WordPress jobs">Jobs</a></li>
+			<li><a href="//jobs.wordpress.net/" title="Find or post WordPress jobs">Jobs</a></li>
 		</ul>
 
 		<ul>
@@ -187,7 +202,7 @@ Not Found	</div><!-- gp-content -->
 </script>
 <script type="text/javascript">_qevents.push( { qacct:"p-18-mFEk4J448M"} );</script>
 <noscript><img src="//pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif" style="display: none;" border="0" height="1" width="1" alt=""/></noscript>
-<!-- 4 queries. 0.098 seconds -->
+<!-- 4 queries. 0.046 seconds -->
 <script type="text/javascript" src="//gravatar.com/js/gprofiles.js"></script>
 
 <script type="text/javascript">
@@ -202,5 +217,41 @@ $(document).ready(function() {
 });
 })(jQuery);
 </script>
-</body>
+	<script>
+		( function( $ ) {
+			$( function() {
+				var $menu = $( '#site-navigation' );
+
+				if ( $menu.length ) {
+					$menu.find( 'button' ).on( 'click', function() {
+						$menu.toggleClass( 'toggled' );
+					} );
+				}
+			} );
+		} )( jQuery );
+	</script>
+	<script type='text/javascript' src='https://stats.wp.com/e-201723.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.9',blog:'124342649',post:'0',tz:'0',srv:'translate.wordpress.org'} ]);
+	_stq.push([ 'clickTrackerInit', '124342649', '0' ]);
+</script>
+		<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar" tabindex="0">
+				<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+		<li id="wp-admin-bar-wp-logo" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://global.wordpress.org/wp-admin/user/about.php"><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wp-logo-default" class="ab-submenu">
+		<li id="wp-admin-bar-about"><a class="ab-item" href="https://global.wordpress.org/wp-admin/user/about.php">About WordPress</a>		</li></ul><ul id="wp-admin-bar-wp-logo-external" class="ab-sub-secondary ab-submenu">
+		<li id="wp-admin-bar-wporg"><a class="ab-item" href="https://wordpress.org/">WordPress.org</a>		</li>
+		<li id="wp-admin-bar-documentation"><a class="ab-item" href="https://codex.wordpress.org/">Documentation</a>		</li>
+		<li id="wp-admin-bar-support-forums"><a class="ab-item" href="https://wordpress.org/support/">Support Forums</a>		</li>
+		<li id="wp-admin-bar-feedback"><a class="ab-item" href="https://wordpress.org/support/forum/requests-and-feedback">Feedback</a>		</li></ul></div>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+		<li id="wp-admin-bar-log-in"><a class="ab-item" href="https://login.wordpress.org/?redirect_to=https%3A%2F%2Ftranslate.wordpress.org%2Fprojects%2Fwp%2Fdev%2Ftwentyfifteen%2Fde%2Fformal%2Fexport-translations">Log In</a>		</li>
+		<li id="wp-admin-bar-register"><a class="ab-item" href="https://login.wordpress.org/register">Register</a>		</li>
+		<li id="wp-admin-bar-notes" class="menupop"><div class="ab-item ab-empty-item"><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-read">
+					<span class="noticon noticon-notification"></span>
+					</span></div><div id="wpnt-notes-panel2" style="display:none" lang="en" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header">Notifications</span><span class="wpnt-notes-panel-link"></span></div></div>		</li></ul>			</div>
+					</div>
+
+		</body>
 </html>
