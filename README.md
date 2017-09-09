@@ -6,11 +6,16 @@ We're not trying to reinvent the wheel, so therefore the de_CH language pack is 
 
 Differences
 -----------
+via shell script
 - ss instead of ß
+- "Europe/Zürich" instead of "Europe/Berlin"
+- "Bern; Zürich; Genf" instead of "Berlin; Köln; München"
+
+manually
 - de-CH instead of de-DE (html_lang_attribute)
 - ' instead of . (number_format_thousands_sep)
 - . instead of , (number_format_decimal_point)
-- "Europe/Zurich" instead "Europe/Berlin"
+
 
 How it works
 -------------
