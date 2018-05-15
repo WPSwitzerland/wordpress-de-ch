@@ -45,7 +45,7 @@ msgstr "no-subset"
 
 #: functions.php:244
 msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
-msgstr "Erscheint auf allen Beitragsseiten und statischen Seiten außer dem optionalen Startseitetemplate, welches eigene Widgets hat."
+msgstr "Erscheint auf allen Beitragsseiten und statischen Seiten ausser dem optionalen Startseitetemplate, welches eigene Widgets hat."
 
 #: functions.php:252
 msgid "First Front Page Widget Area"
