@@ -15,17 +15,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <title>Not Found &lt; GlotPress &mdash; WordPress</title>
 <meta name="referrer" content="always">
 
-	<link href="//s.w.org/wp-includes/css/dashicons.css?20160504" rel="stylesheet" type="text/css" />
+		<link href="//s.w.org/wp-includes/css/dashicons.min.css?5.0-RC3-43967" rel="stylesheet" type="text/css" />
 	<link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600&subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
 
-		<link rel="stylesheet" href="//s.w.org/style/wp4.css?77" />
+		<link rel="stylesheet" href="//s.w.org/style/wp4.css?78" />
 
 <link rel="shortcut icon" href="//s.w.org/favicon.ico?2" type="image/x-icon" />
-<link rel="pingback" href="https://translate.wordpress.org/xmlrpc.php" /><link rel='stylesheet' id='dashicons-css'  href='https://translate.wordpress.org/wp-includes/css/dashicons.min.css?ver=5.0-alpha-43540' type='text/css' media='all' />
-<link rel='stylesheet' id='admin-bar-css'  href='https://translate.wordpress.org/wp-includes/css/admin-bar.min.css?ver=5.0-alpha-43540' type='text/css' media='all' />
+<link rel="pingback" href="https://translate.wordpress.org/xmlrpc.php" /><link rel='stylesheet' id='dashicons-css'  href='https://translate.wordpress.org/wp-includes/css/dashicons.min.css?ver=5.0-RC3-43967' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='https://translate.wordpress.org/wp-includes/css/admin-bar.min.css?ver=5.0-RC3-43967' type='text/css' media='all' />
 <link rel='stylesheet' id='gp-base-css'  href='https://translate.wordpress.org/wp-content/plugins/glotpress/assets/css/style.min.css?ver=20180428' type='text/css' media='all' />
 <link rel='stylesheet' id='wporg-translate-css'  href='https://translate.wordpress.org/wp-content/plugins/wporg-gp-customizations/templates/style.css?ver=20180704' type='text/css' media='all' />
-<script type='text/javascript' src='https://translate.wordpress.org/wp-includes/js/admin-bar.min.js?ver=5.0-alpha-43540'></script>
+<script type='text/javascript' src='https://translate.wordpress.org/wp-includes/js/admin-bar.min.js?ver=5.0-RC3-43967'></script>
 <script type='text/javascript' src='https://translate.wordpress.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
 <script type='text/javascript' src='https://translate.wordpress.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <style type="text/css" media="print">#wpadminbar { display:none; }</style>
@@ -58,16 +58,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div style="clear:both"></div>
 		
 <ul id="wporg-header-menu">
-<li class='menu-item'><a href='//wordpress.org/showcase/' title='See some of the sites built on WordPress.'>Showcase</a></li>
-<li class='menu-item'><a href='//wordpress.org/themes/' title='Find just the right look for your website.'>Themes</a></li>
-<li class='menu-item'><a href='//wordpress.org/plugins/' title='Plugins can extend WordPress to do almost anything you can imagine.'>Plugins</a></li>
-<li class='menu-item'><a href='//wordpress.org/mobile/' title='Take your website on the go!'>Mobile</a></li>
-<li class='menu-item'><a href='//wordpress.org/support/' title='Forums, documentation, help.'>Support</a><ul class="nav-submenu"><li><a href='//wordpress.org/support/' title='Support and discussion forums.'>Forums</a></li><li><a href='//codex.wordpress.org/Main_Page' title='Documentation, tutorials, best practices.'>Documentation</a></li></ul><div class="uparrow"></div></li>
-<li class='menu-item'><a href='//make.wordpress.org/' title='Contribute your knowledge.' class="current">Get Involved</a><div class="uparrow"></div></li>
-<li class='menu-item'><a href='//wordpress.org/about/' title='About the WordPress Organization, and where we&#039;re going.'>About</a></li>
-<li class='menu-item'><a href='//wordpress.org/news/' title='Come here for the latest scoop.'>Blog</a></li>
-<li class='menu-item'><a href='//wordpress.org/hosting/' title='Find a home for your blog.'>Hosting</a></li>
-<li id="download" class="button download-button" class='menu-item'><a href='//wordpress.org/download/' title='Get it. Got it? Good.'>Get WordPress</a></li>
+<li class="menu-item"><a href='//wordpress.org/showcase/' title='See some of the sites built on WordPress.'>Showcase</a></li>
+<li class="menu-item"><a href='//wordpress.org/themes/' title='Find just the right look for your website.'>Themes</a></li>
+<li class="menu-item"><a href='//wordpress.org/plugins/' title='Plugins can extend WordPress to do almost anything you can imagine.'>Plugins</a></li>
+<li class="menu-item"><a href='//wordpress.org/mobile/' title='Take your website on the go!'>Mobile</a></li>
+<li class="menu-item"><a href='//wordpress.org/support/' title='Forums, documentation, help.'>Support</a><ul class="nav-submenu"><li><a href='//wordpress.org/support/forums/' title='Support and discussion forums.'>Forums</a></li><li><a href='//codex.wordpress.org/Main_Page' title='Documentation, tutorials, best practices.'>Documentation</a></li></ul><div class="uparrow"></div></li>
+<li class="menu-item"><a href='//make.wordpress.org/' title='Contribute your knowledge.' class="current">Get Involved</a><div class="uparrow"></div></li>
+<li class="menu-item"><a href='//wordpress.org/about/' title='About the WordPress Organization, and where we&#039;re going.'>About</a></li>
+<li class="menu-item"><a href='//wordpress.org/news/' title='Come here for the latest scoop.'>Blog</a></li>
+<li class="menu-item"><a href='//wordpress.org/hosting/' title='Find a home for your blog.'>Hosting</a></li>
+<li id="download" class="button download-button menu-item"><a href='//wordpress.org/download/' title='Get it. Got it? Good.'>Get WordPress</a></li>
 </ul>
 		<div style="clear:both"></div>
 	</div>
@@ -160,28 +160,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<li>
 				<iframe title="Like WordPress on Facebook" src="//www.facebook.com/plugins/like.php?app_id=121415197926116&amp;href=http%3A%2F%2Fwww.facebook.com%2Fwordpress&amp;send=false&amp;layout=button_count&amp;width=135&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:135px; height:21px;" allowTransparency="true"></iframe>
 			</li>
-			<li>
-				<script src="https://apis.google.com/js/platform.js" async defer></script>
-				<div class="g-plusone" data-size="medium" data-href="https://plus.google.com/+WordPress"></div>
-			</li>
 		</ul>
 	</div>
 
 		<p class="cip cip-image">Code is Poetry.</p>
 </div>
 
-<script type="text/javascript">
-  var _qevents = _qevents || [];
-  (function() {
-   var elem = document.createElement('script');
-   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
-               + ".quantserve.com/quant.js";
-   elem.async = true;
-   elem.type = "text/javascript";
-   var scpt = document.getElementsByTagName('script')[0];
-   scpt.parentNode.insertBefore(elem, scpt);
-  })();
-</script>
 <script type="text/javascript">
 	/**
 	 * Handles toggling the navigation menu for small screens and enables TAB key
@@ -288,9 +272,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		}( container ) );
 	} )();
 </script>
-<script type="text/javascript">_qevents.push( { qacct:"p-18-mFEk4J448M"} );</script>
-<noscript><img src="//pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif" style="display: none;" border="0" height="1" width="1" alt=""/></noscript>
-<!-- 3 queries. 0.111 seconds -->
+<!-- 3 queries. 0.104 seconds -->
 <script type="text/javascript" src="//gravatar.com/js/gprofiles.js"></script>
 	<script>
 		( function( $ ) {
@@ -305,7 +287,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			} );
 		} )( jQuery );
 	</script>
-	<script type='text/javascript' src='https://stats.wp.com/e-201830.js' async='async' defer='defer'></script>
+	<script type='text/javascript' src='https://stats.wp.com/e-201849.js' async='async' defer='defer'></script>
 <script type='text/javascript'>
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:6.1.1',blog:'124342649',post:'0',tz:'0',srv:'translate.wordpress.org'} ]);
@@ -314,9 +296,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<div id="wpadminbar" class="nojq nojs">
 							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
 						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar" tabindex="0">
-				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://global.wordpress.org/wp-admin/user/about.php'><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='https://global.wordpress.org/wp-admin/user/about.php'>About WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://codex.wordpress.org/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/'>Support Forums</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-log-in'><a class='ab-item' href='https://login.wordpress.org/?redirect_to=https%3A%2F%2Ftranslate.wordpress.org%2Fprojects%2Fwp%2Fdev%2Ftwentyfifteen%2Fde%2Fformal%2Fexport-translations&#038;locale=en_US'>Log In</a></li><li id='wp-admin-bar-register'><a class='ab-item' href='https://login.wordpress.org/register?locale=en_US'>Register</a></li><li id='wp-admin-bar-notes' class="menupop"><div class="ab-item ab-empty-item"><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-read">
+				<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+		<li id="wp-admin-bar-wp-logo" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://wordpress.org/about/"><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wp-logo-default" class="ab-submenu">
+		<li id="wp-admin-bar-about"><a class="ab-item" href="https://wordpress.org/about/">About WordPress</a>		</li></ul><ul id="wp-admin-bar-wp-logo-external" class="ab-sub-secondary ab-submenu">
+		<li id="wp-admin-bar-wporg"><a class="ab-item" href="https://wordpress.org/">WordPress.org</a>		</li>
+		<li id="wp-admin-bar-documentation"><a class="ab-item" href="https://codex.wordpress.org/">Documentation</a>		</li>
+		<li id="wp-admin-bar-support-forums"><a class="ab-item" href="https://wordpress.org/support/">Support Forums</a>		</li>
+		<li id="wp-admin-bar-feedback"><a class="ab-item" href="https://wordpress.org/support/forum/requests-and-feedback">Feedback</a>		</li></ul></div>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+		<li id="wp-admin-bar-log-in"><a class="ab-item" href="https://login.wordpress.org/?redirect_to=https%3A%2F%2Ftranslate.wordpress.org%2Fprojects%2Fwp%2Fdev%2Ftwentyfifteen%2Fde%2Fformal%2Fexport-translations&#038;locale=en_US">Log In</a>		</li>
+		<li id="wp-admin-bar-register"><a class="ab-item" href="https://login.wordpress.org/register?locale=en_US">Register</a>		</li>
+		<li id="wp-admin-bar-notes" class="menupop"><div class="ab-item ab-empty-item"><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-read">
 					<span class="noticon noticon-notification"></span>
-					</span></div><div id="wpnt-notes-panel2" style="display:none" lang="en" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header">Notifications</span><span class="wpnt-notes-panel-link"></span></div></div></li></ul>			</div>
+					</span></div><div id="wpnt-notes-panel2" style="display:none" lang="en" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header">Notifications</span><span class="wpnt-notes-panel-link"></span></div></div>		</li></ul>			</div>
 					</div>
 
 		</body>
