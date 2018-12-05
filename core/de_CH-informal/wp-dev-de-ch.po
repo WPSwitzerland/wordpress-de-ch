@@ -16,7 +16,7 @@ msgstr ""
 #. * Do not translate into your own language.
 #: wp-includes/general-template.php:704
 msgid "html_lang_attribute"
-msgstr "de-DE"
+msgstr "de-CH"
 
 #. translators: 'rtl' or 'ltr'. This sets the text direction for WordPress.
 #: wp-includes/class-wp-locale.php:228
@@ -28,13 +28,13 @@ msgstr "ltr"
 #. https://secure.php.net/number_format, default is ,
 #: wp-includes/class-wp-locale.php:207
 msgid "number_format_thousands_sep"
-msgstr "."
+msgstr "'"
 
 #. translators: $dec_point argument for https://secure.php.net/number_format,
 #. default is .
 #: wp-includes/class-wp-locale.php:220
 msgid "number_format_decimal_point"
-msgstr ","
+msgstr "."
 
 #. translators: ARIA label for the Block sidebar tab, selected.
 #: wp-includes/js/dist/edit-post.js:4256
