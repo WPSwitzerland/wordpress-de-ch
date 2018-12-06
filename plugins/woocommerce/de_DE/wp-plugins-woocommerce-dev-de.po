@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Development (trunk) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-12-04 12:32:06+0000\n"
+"PO-Revision-Date: 2018-12-06 13:02:16+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -25,15 +25,15 @@ msgstr "Wir haben festgestellt, dass Ihnen der Block-Editor zur Verfügung steht
 
 #: includes/admin/settings/class-wc-settings-accounts.php:34
 msgid "account erasure request"
-msgstr ""
+msgstr "Kontolöschanfrage"
 
 #: includes/abstracts/abstract-wc-rest-terms-controller.php:541
 msgid "Default product category cannot be deleted."
-msgstr ""
+msgstr "Die Standard Produktkategorie kann nicht gelöscht werden."
 
 #: includes/import/abstract-wc-product-importer.php:438
 msgid "Variation cannot be imported: Parent product cannot be a product variation"
-msgstr ""
+msgstr "Variation kann nicht importiert werden: Das übergeordnete Produkt kann keine Produktvariation sein"
 
 #: includes/api/v2/class-wc-rest-system-status-tools-v2-controller.php:553
 msgid "Database upgrade routine has been scheduled to run in the background."
@@ -41,7 +41,7 @@ msgstr "Die Aktualisierung der Datenbank wurde als Hintergrundprozess geplant."
 
 #: includes/api/v2/class-wc-rest-system-status-tools-v2-controller.php:200
 msgid "This tool will update your WooCommerce database to the latest version. Please ensure you make sufficient backups before proceeding."
-msgstr ""
+msgstr "Dieses Werkzeug aktualisiert Ihre WooCommerce-Datenbank auf die neueste Version. Stellen Sie sicher, dass Sie ausreichend Sicherungskopien erstellen, bevor Sie fortfahren."
 
 #: includes/api/v2/class-wc-rest-system-status-tools-v2-controller.php:195
 #: includes/api/v2/class-wc-rest-system-status-tools-v2-controller.php:196
@@ -50,7 +50,7 @@ msgstr "Datenbank aktualisieren"
 
 #: includes/libraries/action-scheduler/classes/ActionScheduler_WPCLI_QueueRunner.php:30
 msgid "The "
-msgstr ""
+msgstr "Die"
 
 #: includes/class-wc-ajax.php:1765
 msgid "You do not have permission to assign API Keys to the selected user."
