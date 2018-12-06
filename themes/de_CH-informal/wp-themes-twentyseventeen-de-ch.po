@@ -13,7 +13,7 @@ msgstr ""
 
 #. Description of the theme
 msgid "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device."
-msgstr "Twenty Seventeen bringt Leben in deine Website durch ein Header-Video und beeindruckende Beitragsbilder. Mit einem Fokus auf Business-Websites zeichnet sich die Startseite durch mehrere Inhalts-Abschnitte aus, ebenso wie Widgets, Navigations- und Social-Menüs, einem Logo und vielem mehr. Gestalte das asymmetrische Raster des Themes in eigenen Farben und präsentiere deine multimedialen Inhalte in entsprechenden Beitragsformaten. Unser Standard-Theme für 2017 funktioniert großartig in vielen Sprachen, für jede Anwendergruppe und auf allen Geräten."
+msgstr "Twenty Seventeen bringt Leben in deine Website durch ein Header-Video und beeindruckende Beitragsbilder. Mit einem Fokus auf Business-Websites zeichnet sich die Startseite durch mehrere Inhalts-Abschnitte aus, ebenso wie Widgets, Navigations- und Social-Menüs, einem Logo und vielem mehr. Gestalte das asymmetrische Raster des Themes in eigenen Farben und präsentiere deine multimedialen Inhalte in entsprechenden Beitragsformaten. Unser Standard-Theme für 2017 funktioniert grossartig in vielen Sprachen, für jede Anwendergruppe und auf allen Geräten."
 
 #. Theme Name of the theme
 msgid "Twenty Seventeen"

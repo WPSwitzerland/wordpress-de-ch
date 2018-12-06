@@ -54,7 +54,7 @@ msgstr "Standard"
 
 #: functions.php:166
 msgid "White"
-msgstr "Weiß"
+msgstr "Weiss"
 
 #: functions.php:161
 msgid "Light Gray"
@@ -82,7 +82,7 @@ msgstr "L"
 
 #: functions.php:127
 msgid "Large"
-msgstr "Groß"
+msgstr "Gross"
 
 #: functions.php:122
 msgid "M"
@@ -107,7 +107,7 @@ msgstr "Footer-Menü"
 #: image.php:70
 msgctxt "Used before full size attachment link."
 msgid "Full size"
-msgstr "Vollständige Größe"
+msgstr "Vollständige Grösse"
 
 #: image.php:56
 msgid "Page"
