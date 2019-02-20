@@ -15,7 +15,7 @@ manually
 - de-CH instead of de-DE (html_lang_attribute)
 - ' instead of . (number_format_thousands_sep)
 - . instead of , (number_format_decimal_point)
-
+- link to classic editor plugin is https://de.wordpress.org/plugins/classic-editor for de_DE and https://de-ch.wordpress.org/plugins/classic-editor for de_CH 
 
 How it works
 -------------
