@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Themes - Twenty Seventeen package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-11-16 17:27:48+0000\n"
+"PO-Revision-Date: 2019-01-22 14:12:28+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,11 +23,11 @@ msgstr "Twenty Seventeen"
 msgid "Footer"
 msgstr "Footer"
 
-#: functions.php:326
+#: functions.php:338
 msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
 msgstr "Widgets hier hinzufügen, um sie in der Seitenleiste von Blogbeiträgen und Archivseiten anzuzeigen."
 
-#: functions.php:324 sidebar.php:18
+#: sidebar.php:18 functions.php:336
 msgid "Blog Sidebar"
 msgstr "Blog-Seitenleiste"
 
@@ -36,26 +36,26 @@ msgstr "Blog-Seitenleiste"
 msgid "Scroll down to content"
 msgstr "Zum Inhalt nach unten scrollen"
 
-#: functions.php:167
+#: functions.php:179
 msgctxt "Theme starter content"
 msgid "Coffee"
 msgstr "Kaffee"
 
-#: functions.php:163
+#: functions.php:175
 msgctxt "Theme starter content"
 msgid "Sandwich"
 msgstr "Sandwich"
 
-#: functions.php:159
+#: functions.php:171
 msgctxt "Theme starter content"
 msgid "Espresso"
 msgstr "Espresso"
 
-#: inc/custom-header.php:126
+#: inc/custom-header.php:128
 msgid "Pause background video"
 msgstr "Hintergrund-Video pausieren"
 
-#: inc/custom-header.php:125
+#: inc/custom-header.php:127
 msgid "Play background video"
 msgstr "Hintergrund-Video abspielen"
 
@@ -63,7 +63,7 @@ msgstr "Hintergrund-Video abspielen"
 msgid "Front Page Section %1$s Placeholder"
 msgstr "Platzhalter für Startseiten-Abschnitt %1$s"
 
-#: inc/customizer.php:99
+#: inc/customizer.php:109
 msgid "When the two-column layout is assigned, the page title is in one column and content is in the other."
 msgstr "Wenn das Zwei-Spalten-Layout gewählt wird, erscheint der Seitentitel in einer Spalte und der Inhalt in der anderen."
 
@@ -106,66 +106,66 @@ msgstr "Bitte definieren Sie einen SVG-Icon-Dateinamen."
 msgid "Please define default parameters in the form of an array."
 msgstr "Bitte definieren Sie Standard-Parameter in Form eines Arrays."
 
-#: inc/customizer.php:131
+#: inc/customizer.php:143
 msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
 msgstr "Wählen Sie die Seiten für jeden Abschnitt über das Drop-down-Menü. Sie können einem Abschnitt ein Bild hinzufügen, indem sie im Editor für die Seite ein Beitragsbild festlegen. Leere Abschnitte werden nicht dargestellt."
 
 #. translators: %d is the front page section number
-#: inc/customizer.php:130
+#: inc/customizer.php:142
 msgid "Front Page Section %d Content"
 msgstr "Inhalt im Startseiten-Abschnitt %d"
 
-#: inc/customizer.php:102 inc/customizer.php:158
+#: inc/customizer.php:112 inc/customizer.php:171
 msgid "Two Column"
 msgstr "Zwei Spalten"
 
-#: inc/customizer.php:101 inc/customizer.php:157
+#: inc/customizer.php:111 inc/customizer.php:170
 msgid "One Column"
 msgstr "Eine Spalte"
 
-#: inc/customizer.php:96
+#: inc/customizer.php:106
 msgid "Page Layout"
 msgstr "Seitenlayout"
 
-#: inc/customizer.php:81
+#: inc/customizer.php:89
 msgid "Theme Options"
 msgstr "Theme-Optionen"
 
-#: inc/customizer.php:59
+#: inc/customizer.php:64
 msgid "Custom"
 msgstr "Individuell"
 
-#: inc/customizer.php:57
+#: inc/customizer.php:62
 msgid "Light"
 msgstr "Hell"
 
-#: inc/customizer.php:55
+#: inc/customizer.php:60
 msgid "Color Scheme"
 msgstr "Farbschema"
 
-#: inc/custom-header.php:54
+#: inc/custom-header.php:56
 msgid "Default Header Image"
 msgstr "Standard Header-Bild"
 
-#: functions.php:348
+#: functions.php:360
 msgid "Footer 2"
 msgstr "Footer 2"
 
-#: functions.php:338 functions.php:350
+#: functions.php:350 functions.php:362
 msgid "Add widgets here to appear in your footer."
 msgstr "Widgets hier hinzufügen, um sie im Footer anzuzeigen."
 
-#: functions.php:336
+#: functions.php:348
 msgid "Footer 1"
 msgstr "Footer 1"
 
-#: functions.php:277
+#: functions.php:289
 msgctxt "Libre Franklin font: on or off"
 msgid "on"
 msgstr "on"
 
-#: template-parts/navigation/navigation-top.php:12 functions.php:64
-#: functions.php:191
+#: functions.php:64 functions.php:203
+#: template-parts/navigation/navigation-top.php:12
 msgid "Top Menu"
 msgstr "Oberes Menü"
 
@@ -193,11 +193,11 @@ msgstr "Nichts gefunden"
 msgid "Previous Post"
 msgstr "Vorheriger Beitrag"
 
-#: comments.php:71 single.php:33
+#: single.php:33 comments.php:71
 msgid "Previous"
 msgstr "Zurück"
 
-#: comments.php:72 single.php:34
+#: single.php:34 comments.php:72
 msgid "Next"
 msgstr "Weiter"
 
@@ -218,35 +218,35 @@ msgstr "Suche nach:"
 
 #: search.php:19
 msgid "Search Results for: %s"
-msgstr ""
+msgstr "Suchergebnisse für: %s"
 
 #. translators: %s: Name of current post
-#: template-parts/post/content.php:57 template-parts/post/content-video.php:83
+#: functions.php:390 template-parts/post/content-gallery.php:71
+#: template-parts/post/content.php:57 template-parts/post/content-image.php:61
 #: template-parts/post/content-audio.php:84
-#: template-parts/post/content-image.php:61
-#: template-parts/post/content-gallery.php:71
+#: template-parts/post/content-video.php:83
+#: template-parts/page/content-front-page.php:42
 #: template-parts/page/content-front-page-panels.php:45
-#: template-parts/page/content-front-page.php:42 functions.php:378
 msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
 msgstr "<span class=\"screen-reader-text\">\"%s\"</span> weiterlesen"
 
-#: inc/customizer.php:58
+#: inc/customizer.php:63
 msgid "Dark"
 msgstr "Dunkel"
 
-#: inc/back-compat.php:39 inc/back-compat.php:52 inc/back-compat.php:68
+#: inc/back-compat.php:39 inc/back-compat.php:52 inc/back-compat.php:70
 msgid "Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
 msgstr "Twenty Sixteen benötigt mindestens WordPress-Version 4.7. Sie verwenden Version %s. Bitte aktualisieren Sie WordPress und versuchen Sie es erneut."
 
 #. translators: %s: Name of current post
 #: inc/template-tags.php:117
 msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
-msgstr ""
+msgstr "<span class=\"screen-reader-text\">&#8222;%s&#8220;</span> bearbeiten"
 
-#: template-parts/post/content.php:64 template-parts/post/content-video.php:90
-#: template-parts/post/content-audio.php:91
-#: template-parts/post/content-image.php:68
 #: template-parts/post/content-gallery.php:78
+#: template-parts/post/content.php:64 template-parts/post/content-image.php:68
+#: template-parts/post/content-audio.php:91
+#: template-parts/post/content-video.php:90
 #: template-parts/page/content-page.php:26
 msgid "Pages:"
 msgstr "Seiten:"
@@ -259,15 +259,15 @@ msgstr "Menü"
 msgid "Skip to content"
 msgstr "Zum Inhalt springen"
 
-#: functions.php:467
+#: functions.php:482
 msgid "Collapse child menu"
 msgstr "Untermenü verbergen"
 
-#: functions.php:466
+#: functions.php:481
 msgid "Expand child menu"
 msgstr "Untermenü anzeigen"
 
-#: functions.php:65 functions.php:202
+#: functions.php:65 functions.php:214
 msgid "Social Links Menu"
 msgstr "Social-Links-Menü"
 
@@ -288,14 +288,14 @@ msgstr "Kommentare sind geschlossen."
 msgctxt "comments title"
 msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1$s Antwort auf &#8222;%2$s&#8220;"
+msgstr[1] "%1$s Antworten auf &#8222;%2$s&#8220;"
 
 #. translators: %s: post title
 #: comments.php:37
 msgctxt "comments title"
 msgid "One Reply to &ldquo;%s&rdquo;"
-msgstr ""
+msgstr "Eine Antwort auf &#8222;%s&#8220;"
 
 #: index.php:54 archive.php:50 search.php:47
 msgid "Page"
