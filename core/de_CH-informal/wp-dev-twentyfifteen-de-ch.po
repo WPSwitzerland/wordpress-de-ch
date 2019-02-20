@@ -15,17 +15,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <title>Not Found &lt; GlotPress &mdash; WordPress</title>
 <meta name="referrer" content="always">
 
-		<link href="//s.w.org/wp-includes/css/dashicons.min.css?5.1-beta2-44697" rel="stylesheet" type="text/css" />
-	<link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600&subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
+		<link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600&subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
 
 		<link rel="stylesheet" href="//s.w.org/style/wp4.css?78" />
 
 <link rel="shortcut icon" href="//s.w.org/favicon.ico?2" type="image/x-icon" />
-<link rel="pingback" href="https://translate.wordpress.org/xmlrpc.php" /><link rel='stylesheet' id='dashicons-css'  href='https://translate.wordpress.org/wp-includes/css/dashicons.min.css?ver=5.1-beta2-44697' type='text/css' media='all' />
-<link rel='stylesheet' id='admin-bar-css'  href='https://translate.wordpress.org/wp-includes/css/admin-bar.min.css?ver=5.1-beta2-44697' type='text/css' media='all' />
+<link rel="pingback" href="https://translate.wordpress.org/xmlrpc.php" /><link rel='stylesheet' id='dashicons-css'  href='https://translate.wordpress.org/wp-includes/css/dashicons.min.css?ver=5.2-alpha-44755' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='https://translate.wordpress.org/wp-includes/css/admin-bar.min.css?ver=5.2-alpha-44755' type='text/css' media='all' />
 <link rel='stylesheet' id='gp-base-css'  href='https://translate.wordpress.org/wp-content/plugins/glotpress/assets/css/style.min.css?ver=20180428' type='text/css' media='all' />
 <link rel='stylesheet' id='wporg-translate-css'  href='https://translate.wordpress.org/wp-content/plugins/wporg-gp-customizations/templates/style.css?ver=20180704' type='text/css' media='all' />
-<script type='text/javascript' src='https://translate.wordpress.org/wp-includes/js/admin-bar.min.js?ver=5.1-beta2-44697'></script>
+<script type='text/javascript' src='https://translate.wordpress.org/wp-includes/js/admin-bar.min.js?ver=5.2-alpha-44755'></script>
 <script type='text/javascript' src='https://translate.wordpress.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
 <script type='text/javascript' src='https://translate.wordpress.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <style type="text/css" media="print">#wpadminbar { display:none; }</style>
@@ -57,18 +56,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div style="clear:both"></div>
 		<button id="mobile-menu-button" aria-expanded="false"><span class="screen-reader-text">Toggle Menu</span></button>
 		
+<nav aria-label="Main Menu">
 <ul id="wporg-header-menu">
-<li class="menu-item"><a href='//wordpress.org/showcase/' title='See some of the sites built on WordPress.'>Showcase</a></li>
-<li class="menu-item"><a href='//wordpress.org/themes/' title='Find just the right look for your website.'>Themes</a></li>
-<li class="menu-item"><a href='//wordpress.org/plugins/' title='Plugins can extend WordPress to do almost anything you can imagine.'>Plugins</a></li>
-<li class="menu-item"><a href='//wordpress.org/mobile/' title='Take your website on the go!'>Mobile</a></li>
-<li class="menu-item"><a href='//wordpress.org/support/' title='Forums, documentation, help.'>Support</a><ul class="nav-submenu"><li><a href='//wordpress.org/support/' title='Documentation, tutorials, best practices.'>Documentation</a></li><li><a href='//wordpress.org/support/forums/' title='Support and discussion forums.'>Forums</a></li></ul><div class="uparrow"></div></li>
-<li class="menu-item"><a href='//make.wordpress.org/' title='Contribute your knowledge.' class="current">Get Involved</a><div class="uparrow"></div></li>
-<li class="menu-item"><a href='//wordpress.org/about/' title='About the WordPress Organization, and where we&#039;re going.'>About</a></li>
-<li class="menu-item"><a href='//wordpress.org/news/' title='Come here for the latest scoop.'>Blog</a></li>
-<li class="menu-item"><a href='//wordpress.org/hosting/' title='Find a home for your blog.'>Hosting</a></li>
-<li id="download" class="button download-button menu-item"><a href='//wordpress.org/download/' title='Get it. Got it? Good.'>Get WordPress</a></li>
+<li class="menu-item"><a href='//wordpress.org/showcase/' data-title='See some of the sites built on WordPress.'>Showcase</a></li>
+<li class="menu-item"><a href='//wordpress.org/themes/' data-title='Find just the right look for your website.'>Themes</a></li>
+<li class="menu-item"><a href='//wordpress.org/plugins/' data-title='Plugins can extend WordPress to do almost anything you can imagine.'>Plugins</a></li>
+<li class="menu-item"><a href='//wordpress.org/mobile/' data-title='Take your website on the go!'>Mobile</a></li>
+<li class="menu-item"><a href='//wordpress.org/support/' data-title='Forums, documentation, help.'>Support</a><ul class="nav-submenu"><li><a href='//wordpress.org/support/' title='Documentation, tutorials, best practices.'>Documentation</a></li><li><a href='//wordpress.org/support/forums/' title='Support and discussion forums.'>Forums</a></li></ul><div class="uparrow"></div></li>
+<li class="menu-item"><a href='//make.wordpress.org/' data-title='Contribute your knowledge.' aria-current="true" class="current">Get Involved</a><div class="uparrow"></div></li>
+<li class="menu-item"><a href='//wordpress.org/about/' data-title='About the WordPress Organization, and where we&#039;re going.'>About</a></li>
+<li class="menu-item"><a href='//wordpress.org/news/' data-title='Come here for the latest scoop.'>Blog</a></li>
+<li class="menu-item"><a href='//wordpress.org/hosting/' data-title='Find a home for your blog.'>Hosting</a></li>
+<li id="download" class="button download-button menu-item"><a href='//wordpress.org/download/' data-title='Get it. Got it? Good.'>Get WordPress</a></li>
 </ul>
+</nav>
 		<div style="clear:both"></div>
 	</div>
 </div>
@@ -129,14 +130,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<li><a href="//wordpress.org/support/" title="Forums, documentation, and other resources">Support</a></li>
 			<li><a href="//developer.wordpress.org" title="Resources for WordPress developers">Developers</a></li>
 			<li><a href="//make.wordpress.org/" title="Give back to WordPress through code, support, translation and more">Get Involved</a></li>
-			<li><a href="//learn.wordpress.org/" title="Workshops and training materials">Learn</a></li>
 		</ul>
 
 		<ul>
 			<li><a href="//wordpress.org/showcase/" title="Some of the best WordPress sites on the Web">Showcase</a></li>
 			<li><a href="//wordpress.org/plugins/" title="Add extra functionality to WordPress">Plugins</a></li>
 			<li><a href="//wordpress.org/themes/" title="Make your WordPress pretty">Themes</a></li>
-			<li><a href="//wordpress.org/ideas/" title="Share your ideas for improving WordPress">Ideas</a></li>
 		</ul>
 
 		<ul>
@@ -166,112 +165,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<p class="cip cip-image">Code is Poetry.</p>
 </div>
 
-<script type="text/javascript">
-	/**
-	 * Handles toggling the navigation menu for small screens and enables TAB key
-	 * navigation support for dropdown menus.
-	 */
-	( function( $ ) {
-		var container, button, menu, links, i, len;
+<script src="https://s.w.org/style/js/navigation.min.js?20190128"></script>
 
-		container = document.getElementById( 'wporg-header' );
-		if ( ! container ) {
-			return;
-		}
-
-		button = container.getElementsByTagName( 'button' )[1];
-		if ( 'undefined' === typeof button ) {
-			return;
-		}
-
-		menu = container.getElementsByTagName( 'ul' )[0];
-
-		// Hide menu toggle button if menu is empty and return early.
-		if ( 'undefined' === typeof menu ) {
-			button.style.display = 'none';
-			return;
-		}
-
-		if ( -1 === menu.className.indexOf( 'nav-menu' ) ) {
-			menu.className += ' nav-menu';
-		}
-
-		button.onclick = function() {
-			if ( -1 !== menu.className.indexOf( 'toggled' ) ) {
-				menu.className = menu.className.replace( ' toggled', '' );
-				button.setAttribute( 'aria-expanded', 'false' );
-			} else {
-				menu.className += ' toggled';
-				button.setAttribute( 'aria-expanded', 'true' );
-			}
-		};
-
-		// Get all the link elements within the menu.
-		links = menu.getElementsByTagName( 'a' );
-
-		// Each time a menu link is focused or blurred, toggle focus.
-		for ( i = 0, len = links.length; i < len; i++ ) {
-			links[i].addEventListener( 'focus', toggleFocus, true );
-			links[i].addEventListener( 'blur', toggleFocus, true );
-		}
-
-		/**
-		 * Sets or removes .focus class on an element.
-		 */
-		function toggleFocus() {
-			var self = this;
-
-			// Move up through the ancestors of the current link until we hit .nav-menu.
-			while ( -1 === self.className.indexOf( 'nav-menu' ) ) {
-
-				// On li elements toggle the class .focus.
-				if ( 'li' === self.tagName.toLowerCase() ) {
-					if ( -1 !== self.className.indexOf( 'focus' ) ) {
-						self.className = self.className.replace( ' focus', '' );
-					} else {
-						self.className += ' focus';
-					}
-				}
-
-				self = self.parentElement;
-			}
-		}
-
-		/**
-		 * Toggles `focus` class to allow submenu access on tablets.
-		 */
-		( function( container ) {
-			var touchStartFn, i,
-				parentLink = container.querySelectorAll( '.menu-item-has-children > a, .page_item_has_children > a' );
-
-			if ( 'ontouchstart' in window ) {
-				touchStartFn = function( e ) {
-					var menuItem = this.parentNode, i;
-
-					if ( ! menuItem.classList.contains( 'focus' ) ) {
-						e.preventDefault();
-						for ( i = 0; i < menuItem.parentNode.children.length; ++i ) {
-							if ( menuItem === menuItem.parentNode.children[i] ) {
-								continue;
-							}
-							menuItem.parentNode.children[i].classList.remove( 'focus' );
-						}
-						menuItem.classList.add( 'focus' );
-					} else {
-						menuItem.classList.remove( 'focus' );
-					}
-				};
-
-				for ( i = 0; i < parentLink.length; ++i ) {
-					parentLink[i].addEventListener( 'touchstart', touchStartFn, false );
-				}
-			}
-		}( container ) );
-	} )();
-</script>
-<!-- 3 queries. 0.125 seconds -->
-<script type="text/javascript" src="//gravatar.com/js/gprofiles.js"></script>
-	<script>
+<script type="text/javascript" src="https://gravatar.com/js/gprofiles.js"></script>
+		<script>
 		( function( $ ) {
 			$( function() {
 				var $menu = $( '#site-navigation' );
@@ -284,7 +181,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			} );
 		} )( jQuery );
 	</script>
-	<script type='text/javascript' src='https://stats.wp.com/e-201904.js' async='async' defer='defer'></script>
+	<script type='text/javascript' src='https://stats.wp.com/e-201908.js' async='async' defer='defer'></script>
 <script type='text/javascript'>
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:6.1.1',blog:'124342649',post:'0',tz:'0',srv:'translate.wordpress.org'} ]);
