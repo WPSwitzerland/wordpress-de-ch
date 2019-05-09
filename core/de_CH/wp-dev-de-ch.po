@@ -28,7 +28,7 @@ msgstr "off"
 #. * Do not translate into your own language.
 #: wp-includes/general-template.php:781
 msgid "html_lang_attribute"
-msgstr "de-DE"
+msgstr "de-CH"
 
 #. translators: If months in your language require a genitive case, * translate
 #. this to 'on'. Do not translate into your own language.
@@ -55,13 +55,13 @@ msgstr "ltr"
 #. https://secure.php.net/number_format, default is ,
 #: wp-includes/class-wp-locale.php:200
 msgid "number_format_thousands_sep"
-msgstr "."
+msgstr "'"
 
 #. translators: $dec_point argument for https://secure.php.net/number_format,
 #. default is .
 #: wp-includes/class-wp-locale.php:213
 msgid "number_format_decimal_point"
-msgstr ","
+msgstr "."
 
 #. translators: %s: theme name
 #: wp-includes/class-wp-recovery-mode-email-service.php:263
