@@ -853,7 +853,7 @@ msgstr "Nochmal versuchen"
 #. translators: %s: font size name
 #: wp-includes/js/dist/components.js:32588
 msgid "Font size: %s"
-msgstr "Schriftgröße: %s"
+msgstr "Schriftgrösse: %s"
 
 #: wp-includes/class-wp.php:299 wp-includes/ms-deprecated.php:275
 #: wp-includes/ms-deprecated.php:294
@@ -1196,7 +1196,7 @@ msgstr "Abstandshalter-Einstellungen"
 
 #: wp-includes/js/dist/block-library.js:8276
 msgid "Add white space between blocks and customize its height."
-msgstr "Weißraum zwischen den Blöcken hinzufügen und dessen Höhe anpassen."
+msgstr "Weissraum zwischen den Blöcken hinzufügen und dessen Höhe anpassen."
 
 #: wp-includes/js/dist/block-library.js:8275
 msgid "Spacer"
@@ -1242,7 +1242,7 @@ msgstr "Trennzeichen"
 #: wp-includes/js/dist/block-library.js:6541
 msgctxt "block style"
 msgid "Large"
-msgstr "Groß"
+msgstr "Gross"
 
 #: wp-includes/js/dist/block-library.js:6533
 msgid "blockquote"
@@ -1306,11 +1306,11 @@ msgstr "Text-Einstellungen"
 
 #: wp-includes/js/dist/block-library.js:5575
 msgid "Toggle to show a large initial letter."
-msgstr "Umschalten, um einen großen Anfangsbuchstaben anzuzeigen."
+msgstr "Umschalten, um einen grossen Anfangsbuchstaben anzuzeigen."
 
 #: wp-includes/js/dist/block-library.js:5575
 msgid "Showing large initial letter."
-msgstr "Großen Anfangsbuchstaben darstellen."
+msgstr "Grossen Anfangsbuchstaben darstellen."
 
 #: wp-includes/js/dist/block-library.js:19136
 msgid "pagination"
@@ -1664,11 +1664,11 @@ msgstr "URL bearbeiten"
 
 #: wp-includes/js/dist/block-library.js:4213
 msgid "This embed may not preserve its aspect ratio when the browser is resized."
-msgstr "Das Seitenverhältnis dieser Einbettung könnte verloren gehen, wenn die Anzeigegröße des Browsers verändert wird."
+msgstr "Das Seitenverhältnis dieser Einbettung könnte verloren gehen, wenn die Anzeigegrösse des Browsers verändert wird."
 
 #: wp-includes/js/dist/block-library.js:4213
 msgid "This embed will preserve its aspect ratio when the browser is resized."
-msgstr "Das Seitenverhältnis dieser Einbettung wird beibehalten, wenn die Anzeigegröße des Browsers verändert wird."
+msgstr "Das Seitenverhältnis dieser Einbettung wird beibehalten, wenn die Anzeigegrösse des Browsers verändert wird."
 
 #: wp-includes/js/dist/block-library.js:3586
 msgid "Embed a WordPress.tv video."
@@ -2094,7 +2094,7 @@ msgstr "Dokument"
 
 #: wp-includes/js/dist/edit-post.js:5057
 msgid "Close settings"
-msgstr "Einstellungen schließen"
+msgstr "Einstellungen schliessen"
 
 #. translators: %d: number of blocks
 #: wp-includes/js/dist/block-editor.js:17172
@@ -2125,7 +2125,7 @@ msgstr "Aus der Werkzeugleiste entfernen"
 
 #: wp-includes/js/dist/edit-post.js:6646
 msgid "Close plugin"
-msgstr "Plugin schließen"
+msgstr "Plugin schliessen"
 
 #: wp-includes/js/dist/edit-post.js:6644
 msgid "Editor plugins"
@@ -2408,7 +2408,7 @@ msgstr "Riesig"
 #: wp-includes/js/dist/block-editor.js:4059
 msgctxt "font size name"
 msgid "Large"
-msgstr "Groß"
+msgstr "Gross"
 
 #: wp-includes/js/dist/block-editor.js:4055
 msgctxt "font size name"
@@ -2638,7 +2638,7 @@ msgstr "Automatische Speicherung"
 
 #: wp-includes/js/dist/editor.js:9816
 msgid "Finished writing? That’s great, let’s get this published right now. Just click “Publish” and you’re good to go."
-msgstr "Fertig mit dem Schreiben? Das ist großartig, lassen Sie uns das nun veröffentlichen. Klicken Sie dazu einfach auf „Veröffentlichen“ und schon steht es bereit."
+msgstr "Fertig mit dem Schreiben? Das ist grossartig, lassen Sie uns das nun veröffentlichen. Klicken Sie dazu einfach auf „Veröffentlichen“ und schon steht es bereit."
 
 #: wp-includes/js/dist/editor.js:9806
 msgid "Publish…"
@@ -2729,7 +2729,7 @@ msgstr "Prüfungen vor der Veröffentlichung immer anzeigen."
 
 #: wp-includes/js/dist/editor.js:10994
 msgid "Close panel"
-msgstr "Panel schließen"
+msgstr "Panel schliessen"
 
 #: wp-includes/js/dist/editor.js:9655
 msgid "Submit for Review"
@@ -2791,12 +2791,12 @@ msgstr "Übernehmen"
 #. translators: %s: user's display name
 #: wp-includes/js/dist/editor.js:9455
 msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
-msgstr "Ein anderer Benutzer arbeitet momentan an diesem Beitrag. Sie können daher keine Änderungen vornehmen, außer Sie übernehmen."
+msgstr "Ein anderer Benutzer arbeitet momentan an diesem Beitrag. Sie können daher keine Änderungen vornehmen, ausser Sie übernehmen."
 
 #. translators: %s: user's display name
 #: wp-includes/js/dist/editor.js:9455
 msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
-msgstr "%s arbeitet momentan an diesem Beitrag. Sie können daher keine Änderungen vornehmen, außer Sie übernehmen."
+msgstr "%s arbeitet momentan an diesem Beitrag. Sie können daher keine Änderungen vornehmen, ausser Sie übernehmen."
 
 #. translators: %s: user's display name
 #: wp-includes/js/dist/editor.js:9447
@@ -3248,7 +3248,7 @@ msgstr "Normal"
 
 #: wp-includes/js/dist/components.js:32619
 msgid "Custom font size"
-msgstr "Individuelle Schriftgröße"
+msgstr "Individuelle Schriftgrösse"
 
 #. translators: accessibility text
 #: wp-includes/widgets/class-wp-widget-custom-html.php:313
@@ -3687,7 +3687,7 @@ msgstr "Blocktyp-Namen müssen ein Namespace-Präfix enthalten. Beispiel: mein-p
 
 #: wp-includes/class-wp-block-type-registry.php:63
 msgid "Block type names must not contain uppercase characters."
-msgstr "Blocktyp-Namen dürfen keine Großbuchstaben enthalten."
+msgstr "Blocktyp-Namen dürfen keine Grossbuchstaben enthalten."
 
 #: wp-includes/class-wp-block-type-registry.php:57
 msgid "Block type names must be strings."
@@ -3709,7 +3709,7 @@ msgstr "Keine Archive zum Anzeigen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:280
 msgid "The offset number requested is larger than or equal to the number of available revisions."
-msgstr "Die angeforderte Offset-Nummer ist größer oder gleich groß der Anzahl der verfügbaren Revisionen."
+msgstr "Die angeforderte Offset-Nummer ist grösser oder gleich gross der Anzahl der verfügbaren Revisionen."
 
 #: wp-includes/user.php:3530
 msgid "Unable to send personal data export confirmation email."
@@ -3796,7 +3796,7 @@ msgstr ""
 "\n"
 "Für weitere Informationen können Sie auch unsere Datenschutzerklärung lesen: ###PRIVACY_POLICY_URL###\n"
 "\n"
-"Viele Grüße,\n"
+"Viele Grüsse,\n"
 "von allen auf ###SITENAME###\n"
 "###SITEURL###"
 
@@ -3819,7 +3819,7 @@ msgstr ""
 "\n"
 "Wenn du weitere Fragen oder Bedenken hast, wende dich bitte an den Administrator der Website.\n"
 "\n"
-"Viele Grüße,\n"
+"Viele Grüsse,\n"
 "von allen auf ###SITENAME###\n"
 "###SITEURL###"
 
@@ -3859,7 +3859,7 @@ msgstr ""
 "\n"
 "###MANAGE_URL###\n"
 "\n"
-"Viele Grüße,\n"
+"Viele Grüsse,\n"
 "von allen auf ###SITENAME###\n"
 "###SITEURL###"
 
@@ -4032,7 +4032,7 @@ msgstr ""
 "\n"
 "Falls Sie diese Aktion nicht ausführen wollen, können Sie diese E-Mail ignorieren und löschen.\n"
 "\n"
-"Viele Grüße von allen auf\n"
+"Viele Grüsse von allen auf\n"
 "###SITENAME###\n"
 "###SITEURL###"
 
@@ -4442,7 +4442,7 @@ msgstr ""
 "\n"
 "Diese E-Mail wurde an ###EMAIL### versandt.\n"
 "\n"
-"Viele Grüße,\n"
+"Viele Grüsse,\n"
 "von allen auf ###SITENAME###\n"
 "###SITEURL###"
 
@@ -4745,7 +4745,7 @@ msgstr "Bulgarisch"
 
 #: wp-includes/script-loader.php:1231
 msgid "Belarusian"
-msgstr "Weißrussisch"
+msgstr "Weissrussisch"
 
 #: wp-includes/script-loader.php:1230
 msgid "Arabic"
@@ -4859,7 +4859,7 @@ msgstr ""
 " \n"
 "Diese E-Mail wurde an ###OLD_EMAIL### versandt.\n"
 "\n"
-"Viele Grüße,\n"
+"Viele Grüsse,\n"
 "von allen auf ###SITENAME###\n"
 "###SITEURL###"
 
@@ -4895,7 +4895,7 @@ msgstr ""
 " \n"
 "Diese E-Mail wurde an ###EMAIL### versandt.\n"
 " \n"
-"Viele Grüße,\n"
+"Viele Grüsse,\n"
 "von allen auf ###SITENAME###\n"
 "###SITEURL###"
 
@@ -4931,7 +4931,7 @@ msgstr ""
 "\n"
 "Diese E-Mail wurde an ###OLD_EMAIL### versandt.\n"
 "\n"
-"Viele Grüße,\n"
+"Viele Grüsse,\n"
 "von allen auf ###SITENAME###\n"
 "###SITEURL###"
 
@@ -4994,21 +4994,21 @@ msgstr "Audio-Datei auswählen"
 #. translators: %s: header height in pixels
 #: wp-includes/customize/class-wp-customize-header-image-control.php:219
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image with a header height of %s pixels &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr "Klicken Sie &#8222;Neues Bild hinzufügen&#8220;, um ein Bild von Ihrem Computer hochzuladen. Das Theme sieht am Besten aus, mit einem Header-Bild das eine Höhe von %s Pixel hat. Sie können Ihr Bild nach dem Hochladen auf die perfekte Größe zuschneiden."
+msgstr "Klicken Sie &#8222;Neues Bild hinzufügen&#8220;, um ein Bild von Ihrem Computer hochzuladen. Das Theme sieht am Besten aus, mit einem Header-Bild das eine Höhe von %s Pixel hat. Sie können Ihr Bild nach dem Hochladen auf die perfekte Grösse zuschneiden."
 
 #. translators: %s: header width in pixels
 #: wp-includes/customize/class-wp-customize-header-image-control.php:213
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image with a header width of %s pixels &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr "Klicken Sie &#8222;Neues Bild hinzufügen&#8220;, um ein Bild von Ihrem Computer hochzuladen. Das Theme sieht am Besten aus, mit einem Header-Bild das eine Breite von %s Pixel hat. Sie können Ihr Bild nach dem Hochladen auf die perfekte Größe zuschneiden."
+msgstr "Klicken Sie &#8222;Neues Bild hinzufügen&#8220;, um ein Bild von Ihrem Computer hochzuladen. Das Theme sieht am Besten aus, mit einem Header-Bild das eine Breite von %s Pixel hat. Sie können Ihr Bild nach dem Hochladen auf die perfekte Grösse zuschneiden."
 
 #. translators: %s: header size in pixels
 #: wp-includes/customize/class-wp-customize-header-image-control.php:207
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image with a header size of %s pixels &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr "Klicken Sie &#8222;Neues Bild hinzufügen&#8220;, um ein Bild von Ihrem Computer hochzuladen. Das Theme sieht am Besten aus, mit einem Header-Bild das eine Größe von %s Pixel hat. Sie können Ihr Bild nach dem Hochladen auf die perfekte Größe zuschneiden."
+msgstr "Klicken Sie &#8222;Neues Bild hinzufügen&#8220;, um ein Bild von Ihrem Computer hochzuladen. Das Theme sieht am Besten aus, mit einem Header-Bild das eine Grösse von %s Pixel hat. Sie können Ihr Bild nach dem Hochladen auf die perfekte Grösse zuschneiden."
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:203
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image that matches the size of your video &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr "Klicken Sie &#8222;Neues Bild hinzufügen&#8220;, um ein Bild von Ihrem Computer hochzuladen. Das Theme sieht am Besten aus, wenn das Bild der Größe Ihres Videos entspricht. Sie können Ihr Bild nach dem Hochladen auf die perfekte Größe zuschneiden."
+msgstr "Klicken Sie &#8222;Neues Bild hinzufügen&#8220;, um ein Bild von Ihrem Computer hochzuladen. Das Theme sieht am Besten aus, wenn das Bild der Grösse Ihres Videos entspricht. Sie können Ihr Bild nach dem Hochladen auf die perfekte Grösse zuschneiden."
 
 #. translators: %s: UTC offset
 #: wp-includes/customize/class-wp-customize-date-time-control.php:245
@@ -5152,7 +5152,7 @@ msgstr "Startseiten-Einstellungen"
 #. translators: %s: site icon size in pixels
 #: wp-includes/class-wp-customize-manager.php:5073
 msgid "Site Icons should be square and at least %s pixels."
-msgstr "Website-Icons sollten quadratisch und mindestens %s Pixel groß sein."
+msgstr "Website-Icons sollten quadratisch und mindestens %s Pixel gross sein."
 
 #: wp-includes/class-wp-customize-manager.php:5071
 msgid "Site Icons are what you see in browser tabs, bookmark bars, and within the WordPress mobile apps. Upload one here!"
@@ -5618,12 +5618,12 @@ msgstr "%1$s muss kleiner als %2$d sein"
 #. translators: 1: parameter, 2: minimum number
 #: wp-includes/rest-api.php:1234
 msgid "%1$s must be greater than or equal to %2$d"
-msgstr "%1$s muss größer oder gleich %2$d sein"
+msgstr "%1$s muss grösser oder gleich %2$d sein"
 
 #. translators: 1: parameter, 2: minimum number
 #: wp-includes/rest-api.php:1231
 msgid "%1$s must be greater than %2$d"
-msgstr "%1$s muss größer als %2$d sein"
+msgstr "%1$s muss grösser als %2$d sein"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1398
 msgid "Limit result set to users with one or more specific slugs."
@@ -5637,7 +5637,7 @@ msgstr "Ergebnissatz auf Begriffe mit einer oder mehreren bestimmten Titelformen
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:337
 #: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:150
 msgid "The page number requested is larger than the number of pages available."
-msgstr "Die angeforderte Seitennummer ist größer als die Anzahl der verfügbaren Seiten."
+msgstr "Die angeforderte Seitennummer ist grösser als die Anzahl der verfügbaren Seiten."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:215
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:165
@@ -5720,7 +5720,7 @@ msgstr ""
 #. translators: 1: suggested width number, 2: suggested height number.
 #: wp-includes/media-template.php:275 wp-includes/media.php:3719
 msgid "Suggested image dimensions: %1$s by %2$s pixels."
-msgstr "Vorgeschlagene Bildmaße: %1$s auf %2$s Pixel."
+msgstr "Vorgeschlagene Bildmasse: %1$s auf %2$s Pixel."
 
 #: wp-includes/script-loader.php:1119 wp-includes/functions.php:2353
 #: wp-includes/js/dist/editor.js:14641
@@ -6094,7 +6094,7 @@ msgstr "Archive"
 #: wp-includes/theme.php:2197
 msgctxt "Theme starter content"
 msgid "This is an example of a homepage section. Homepage sections can be any page other than the homepage itself, including the page that shows your latest blog posts."
-msgstr "Hier ist als Beispiel ein Abschnitt Ihrer Startseite. Ein Startseiten-Abschnitt kann jede Seite sein; ausgenommen die Startseite selbst, aber einschließlich der Seite, die Ihre neuen Blog-Beiträge zeigt."
+msgstr "Hier ist als Beispiel ein Abschnitt Ihrer Startseite. Ein Startseiten-Abschnitt kann jede Seite sein; ausgenommen die Startseite selbst, aber einschliesslich der Seite, die Ihre neuen Blog-Beiträge zeigt."
 
 #: wp-includes/theme.php:2191
 msgctxt "Theme starter content"
@@ -6360,7 +6360,7 @@ msgstr "20017 Lichtermeer"
 #: wp-includes/theme.php:2035
 msgctxt "Theme starter content"
 msgid "123 Main Street"
-msgstr "Große Straße 123"
+msgstr "Grosse Strasse 123"
 
 #: wp-includes/theme.php:2034
 msgctxt "Theme starter content"
@@ -6485,7 +6485,7 @@ msgstr "Ungültiger JSON body übergeben."
 #. translators: %s: taxonomy name
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2514
 msgid "Limit result set to all items except those that have the specified term assigned in the %s taxonomy."
-msgstr "Ergebnissatz auf alle Elemente begrenzen, außer denen, den der bestimmte Begriff in der %s-Taxonomie zugewiesen wurde."
+msgstr "Ergebnissatz auf alle Elemente begrenzen, ausser denen, den der bestimmte Begriff in der %s-Taxonomie zugewiesen wurde."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2488
 msgid "Limit result set to posts assigned one or more statuses."
@@ -6734,7 +6734,7 @@ msgstr "Ergebnissatz auf alle Elemente begrenzen, die in der Taxonomie %s einen 
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2468
 msgid "Limit result set to all items except those of a particular parent ID."
-msgstr "Ergebnissatz auf alle Elemente begrenzen, außer denen mit einer bestimmten Eltern-ID."
+msgstr "Ergebnissatz auf alle Elemente begrenzen, ausser denen mit einer bestimmten Eltern-ID."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2460
 msgid "Limit result set to items with particular parent IDs."
@@ -6754,7 +6754,7 @@ msgstr "Ergebnissatz auf Beiträge begrenzen, die einem bestimmten menu_order-We
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2382
 msgid "Ensure result set excludes posts assigned to specific authors."
-msgstr "Stellen Sie sicher, dass der Ergebnissatz Beiträge ausschließt, die bestimmten Autoren zugewiesen sind."
+msgstr "Stellen Sie sicher, dass der Ergebnissatz Beiträge ausschliesst, die bestimmten Autoren zugewiesen sind."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2374
 msgid "Limit result set to posts assigned to specific authors."
@@ -7026,7 +7026,7 @@ msgstr "Ergebnissatz auf Kommentare begrenzen, die bestimmten Beitrags-IDs zugew
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1476
 msgid "Ensure result set excludes specific parent IDs."
-msgstr "Stellen Sie sicher, dass der Ergebnissatz bestimmte Eltern-IDs ausschließt."
+msgstr "Stellen Sie sicher, dass der Ergebnissatz bestimmte Eltern-IDs ausschliesst."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1467
 msgid "Limit result set to comments of specific parent IDs."
@@ -7061,7 +7061,7 @@ msgstr "Ergebnissatz auf bestimmte IDs begrenzen."
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1352
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:943
 msgid "Ensure result set excludes specific IDs."
-msgstr "Stellen Sie sicher, dass der Ergebnissatz bestimmte IDs ausschließt."
+msgstr "Stellen Sie sicher, dass der Ergebnissatz bestimmte IDs ausschliesst."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2392
 msgid "Limit response to posts published before a given ISO8601 compliant date."
@@ -7073,7 +7073,7 @@ msgstr "Ergebnissatz begrenzen, auf den einer speziellen E-Mail-Adresse eines Au
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1397
 msgid "Ensure result set excludes comments assigned to specific user IDs. Requires authorization."
-msgstr "Stellen Sie sicher, dass der Ergebnissatz Kommentare ausschließt, die einer bestimmten Benutzer-ID zugewiesen sind. Erfordert eine Autorisierung."
+msgstr "Stellen Sie sicher, dass der Ergebnissatz Kommentare ausschliesst, die einer bestimmten Benutzer-ID zugewiesen sind. Erfordert eine Autorisierung."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1389
 msgid "Limit result set to comments assigned to specific user IDs. Requires authorization."
@@ -7091,7 +7091,7 @@ msgstr "Avatar-URLs für den Objekt-Autor."
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1349
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1318
 msgid "Avatar URL with image size of %d pixels."
-msgstr "Avatar-URL mit einer Bildgröße von %d Pixel."
+msgstr "Avatar-URL mit einer Bildgrösse von %d Pixel."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1334
 msgid "Type of Comment for the object."
@@ -7566,7 +7566,7 @@ msgstr "Nur %1$s- oder %2$s-Dateien können für das Header-Video genutzt werden
 
 #: wp-includes/class-wp-customize-manager.php:5942
 msgid "This video file is too large to use as a header video. Try a shorter video or optimize the compression settings and re-upload a file that is less than 8MB. Or, upload your video to YouTube and link it with the option below."
-msgstr "Die Video-Datei ist zu groß, um sie als Header-Video zu verwenden. Versuchen Sie es mit einem kürzeren Video oder optimieren Sie die Kompressionseinstellungen und laden eine neue Datei hoch, die weniger als 8&nbsp;MB groß ist. Oder laden Sie Ihr Video bei YouTube hoch und verlinken Sie es mit der nachfolgenden Option."
+msgstr "Die Video-Datei ist zu gross, um sie als Header-Video zu verwenden. Versuchen Sie es mit einem kürzeren Video oder optimieren Sie die Kompressionseinstellungen und laden eine neue Datei hoch, die weniger als 8&nbsp;MB gross ist. Oder laden Sie Ihr Video bei YouTube hoch und verlinken Sie es mit der nachfolgenden Option."
 
 #: wp-includes/class-wp-customize-manager.php:5901
 msgid "Unrecognized background setting."
@@ -7575,7 +7575,7 @@ msgstr "Nicht erkannte Hintergrund-Einstellung."
 #: wp-includes/class-wp-customize-manager.php:5892
 #: wp-includes/class-wp-customize-manager.php:5896
 msgid "Invalid value for background size."
-msgstr "Ungültiger Wert für Größe des Hintergrunds."
+msgstr "Ungültiger Wert für Grösse des Hintergrunds."
 
 #: wp-includes/class-wp-customize-manager.php:5888
 msgid "Invalid value for background position Y."
@@ -7617,7 +7617,7 @@ msgstr "Original"
 #: wp-includes/js/dist/block-library.js:10328
 #: wp-includes/js/dist/block-library.js:10355
 msgid "Image Size"
-msgstr "Bildgröße"
+msgstr "Bildgrösse"
 
 #: wp-includes/customize/class-wp-customize-background-position-control.php:93
 #: wp-includes/class-wp-customize-manager.php:5413
@@ -7656,17 +7656,17 @@ msgstr "Header-Video"
 #. translators: 1: .mp4, 2: header height in pixels
 #: wp-includes/class-wp-customize-manager.php:5222
 msgid "Upload your video in %1$s format and minimize its file size for best results. Your theme recommends a height of %2$s pixels."
-msgstr "Laden Sie Ihr Video im %1$s-Format hoch und minimieren Sie die Größe, um das beste Ergebnis zu erhalten. Ihr Theme empfiehlt eine Höhe von %2$s Pixel."
+msgstr "Laden Sie Ihr Video im %1$s-Format hoch und minimieren Sie die Grösse, um das beste Ergebnis zu erhalten. Ihr Theme empfiehlt eine Höhe von %2$s Pixel."
 
 #. translators: 1: .mp4, 2: header width in pixels
 #: wp-includes/class-wp-customize-manager.php:5215
 msgid "Upload your video in %1$s format and minimize its file size for best results. Your theme recommends a width of %2$s pixels."
-msgstr "Laden Sie Ihr Video im %1$s-Format hoch und minimieren Sie die Größe, um das beste Ergebnis zu erhalten. Ihr Theme empfiehlt eine Breite von %2$s Pixel."
+msgstr "Laden Sie Ihr Video im %1$s-Format hoch und minimieren Sie die Grösse, um das beste Ergebnis zu erhalten. Ihr Theme empfiehlt eine Breite von %2$s Pixel."
 
 #. translators: 1: .mp4, 2: header size in pixels
 #: wp-includes/class-wp-customize-manager.php:5208
 msgid "Upload your video in %1$s format and minimize its file size for best results. Your theme recommends dimensions of %2$s pixels."
-msgstr "Laden Sie Ihr Video im %1$s-Format hoch und minimieren Sie die Größe, um das beste Ergebnis zu erhalten. Ihr Theme empfiehlt eine Größe von %2$s Pixel."
+msgstr "Laden Sie Ihr Video im %1$s-Format hoch und minimieren Sie die Grösse, um das beste Ergebnis zu erhalten. Ihr Theme empfiehlt eine Grösse von %2$s Pixel."
 
 #: wp-includes/class-wp-customize-manager.php:5201
 msgid "If you add a video, the image will be used as a fallback while the video loads."
@@ -7922,7 +7922,7 @@ msgstr "Responsives Layout"
 
 #: wp-includes/class-wp-theme.php:905
 msgid "Fluid Layout"
-msgstr "Fließendes Layout"
+msgstr "Fliessendes Layout"
 
 #: wp-includes/class-wp-theme.php:904
 msgid "Fixed Layout"
@@ -8277,7 +8277,7 @@ msgstr "%1$s %2$s %3$s %4$s Feed"
 
 #: wp-includes/functions.php:6076 wp-includes/js/dist/components.js:34198
 msgid "Close dialog"
-msgstr "Dialog schließen"
+msgstr "Dialog schliessen"
 
 #: wp-includes/functions.php:4499
 msgid "The called constructor method for %1$s in %2$s is <strong>deprecated</strong> since version %3$s! Use %4$s instead."
@@ -8423,7 +8423,7 @@ msgstr "Weitere Informationen: <a href=\"%s\">Debugging in WordPress (engl.)</a>
 
 #: wp-includes/load.php:486
 msgid "<strong>ERROR</strong>: %1$s in %2$s can only contain numbers, letters, and underscores."
-msgstr "<strong>FEHLER</strong>: %1$s in %2$s darf ausschließlich Zahlen, Buchstaben und Unterstriche beinhalten."
+msgstr "<strong>FEHLER</strong>: %1$s in %2$s darf ausschliesslich Zahlen, Buchstaben und Unterstriche beinhalten."
 
 #: wp-includes/script-loader.php:1668 wp-includes/script-loader.php:1678
 msgid "Changes saved."
@@ -8539,11 +8539,11 @@ msgstr "Einstellungen zum Teilen"
 
 #: wp-includes/class-wp-xmlrpc-server.php:600
 msgid "Medium-Large size image height"
-msgstr "Höhe für mittelgroße Bilder"
+msgstr "Höhe für mittelgrosse Bilder"
 
 #: wp-includes/class-wp-xmlrpc-server.php:595
 msgid "Medium-Large size image width"
-msgstr "Breite für mittelgroße Bilder"
+msgstr "Breite für mittelgrosse Bilder"
 
 #: wp-includes/theme-compat/sidebar.php:105
 msgid "You are currently browsing the %s blog archives."
@@ -8967,7 +8967,7 @@ msgstr "Benutzen Sie stattdessen den %s Filter."
 
 #: wp-includes/embed.php:1156
 msgid "Close sharing dialog"
-msgstr "Teilen-Dialog schließen"
+msgstr "Teilen-Dialog schliessen"
 
 #: wp-includes/embed.php:1151
 msgid "Copy and paste this code into your site to embed"
@@ -9300,7 +9300,7 @@ msgstr ""
 "\n"
 "Diese E-Mail wurde an ###EMAIL### gesendet.\n"
 "\n"
-"Viele Grüße,\n"
+"Viele Grüsse,\n"
 "von allen auf ###SITENAME###\n"
 "###SITEURL###"
 
@@ -9330,7 +9330,7 @@ msgstr ""
 "\n"
 "Diese E-Mail wurde an ###EMAIL### gesendet.\n"
 "\n"
-"Viele Grüße,\n"
+"Viele Grüsse,\n"
 "von allen auf ###SITENAME###\n"
 "###SITEURL###"
 
@@ -9358,11 +9358,11 @@ msgstr ""
 
 #: wp-includes/script-loader.php:918
 msgid "Close code tag"
-msgstr "Code-Tag schließen"
+msgstr "Code-Tag schliessen"
 
 #: wp-includes/script-loader.php:916
 msgid "Close list item tag"
-msgstr "Tag für Listeneintrag schließen"
+msgstr "Tag für Listeneintrag schliessen"
 
 #: wp-includes/script-loader.php:915
 msgid "List item"
@@ -9370,15 +9370,15 @@ msgstr "Listeneintrag"
 
 #: wp-includes/script-loader.php:914
 msgid "Close numbered list tag"
-msgstr "Nummerierte-Liste-Tag schließen"
+msgstr "Nummerierte-Liste-Tag schliessen"
 
 #: wp-includes/script-loader.php:912
 msgid "Close bulleted list tag"
-msgstr "Aufzählungs-Tag schließen"
+msgstr "Aufzählungs-Tag schliessen"
 
 #: wp-includes/script-loader.php:909
 msgid "Close inserted text tag"
-msgstr "Tag für eingefügten Text schließen"
+msgstr "Tag für eingefügten Text schliessen"
 
 #: wp-includes/script-loader.php:908
 msgid "Inserted text"
@@ -9386,7 +9386,7 @@ msgstr "Eingefügter Text"
 
 #: wp-includes/script-loader.php:907
 msgid "Close deleted text tag"
-msgstr "Tag für gelöschten Text schließen"
+msgstr "Tag für gelöschten Text schliessen"
 
 #: wp-includes/script-loader.php:906
 msgid "Deleted text (strikethrough)"
@@ -9394,15 +9394,15 @@ msgstr "Gelöschter Text (durchgestrichen)"
 
 #: wp-includes/script-loader.php:905
 msgid "Close blockquote tag"
-msgstr "Zitat-Tag schließen"
+msgstr "Zitat-Tag schliessen"
 
 #: wp-includes/script-loader.php:902
 msgid "Close italic tag"
-msgstr "Kursiv-Tag schließen"
+msgstr "Kursiv-Tag schliessen"
 
 #: wp-includes/script-loader.php:900
 msgid "Close bold tag"
-msgstr "Fettdruck-Tag schließen"
+msgstr "Fettdruck-Tag schliessen"
 
 #: wp-includes/media-template.php:1275
 msgctxt "media"
@@ -9876,7 +9876,7 @@ msgstr ""
 #. translators: %s: table name
 #: wp-includes/ms-load.php:477
 msgid "<strong>Database tables are missing.</strong> This means that MySQL is not running, WordPress was not installed properly, or someone deleted %s. You really should look at your database now."
-msgstr "<strong>Datenbanktabellen fehlen.</strong> Das heißt, dass MySQL nicht läuft, WordPress nicht richtig installiert wurde oder %s von jemandem gelöscht wurde. Sie sollten jetzt ernsthaft einen Blick auf Ihre Datenbank werfen."
+msgstr "<strong>Datenbanktabellen fehlen.</strong> Das heisst, dass MySQL nicht läuft, WordPress nicht richtig installiert wurde oder %s von jemandem gelöscht wurde. Sie sollten jetzt ernsthaft einen Blick auf Ihre Datenbank werfen."
 
 #: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:322
 #: wp-includes/class-wp-customize-nav-menus.php:155
@@ -10386,7 +10386,7 @@ msgstr "Abmessungen:"
 
 #: wp-includes/media-template.php:383
 msgid "File size:"
-msgstr "Dateigröße:"
+msgstr "Dateigrösse:"
 
 #: wp-includes/media-template.php:381
 msgid "Uploaded on:"
@@ -10422,15 +10422,15 @@ msgstr "Listenansicht"
 
 #: wp-includes/media-template.php:267
 msgid "Maximum upload file size: %s."
-msgstr "Maximale Dateigröße für Uploads: %s."
+msgstr "Maximale Dateigrösse für Uploads: %s."
 
 #: wp-includes/media-template.php:219
 msgid "Close uploader"
-msgstr "Bedienfeld zum Hochladen schließen"
+msgstr "Bedienfeld zum Hochladen schliessen"
 
 #: wp-includes/media-template.php:198
 msgid "Close media panel"
-msgstr "Medien-Bedienfeld schließen"
+msgstr "Medien-Bedienfeld schliessen"
 
 #: wp-includes/class-wp-editor.php:1762
 msgid "Search or use up and down arrow keys to select an item."
@@ -10564,7 +10564,7 @@ msgstr "Erweiterte Optionen"
 
 #: wp-includes/media-template.php:1033 wp-includes/js/dist/components.js:32632
 msgid "Custom Size"
-msgstr "Individuelle Größe"
+msgstr "Individuelle Grösse"
 
 #: wp-includes/class-wp-editor.php:1220
 msgid "Split table cell"
@@ -10572,7 +10572,7 @@ msgstr "Tabellen-Zelle teilen"
 
 #: wp-includes/class-wp-editor.php:1059
 msgid "Font Sizes"
-msgstr "Schriftgröße"
+msgstr "Schriftgrösse"
 
 #: wp-includes/class-wp-editor.php:1058
 msgid "Font Family"
@@ -10698,7 +10698,7 @@ msgstr "Vorlage einfügen"
 #: wp-includes/class-wp-editor.php:1207
 msgctxt "table footer"
 msgid "Footer"
-msgstr "Fußzeile"
+msgstr "Fusszeile"
 
 #: wp-includes/class-wp-editor.php:1206
 msgctxt "table body"
@@ -10805,12 +10805,12 @@ msgstr "Kleine römische Zahlen"
 #: wp-includes/class-wp-editor.php:1089
 msgctxt "list style"
 msgid "Upper Roman"
-msgstr "Große römische Zahlen"
+msgstr "Grosse römische Zahlen"
 
 #: wp-includes/class-wp-editor.php:1088
 msgctxt "list style"
 msgid "Upper Alpha"
-msgstr "Großbuchstaben"
+msgstr "Grossbuchstaben"
 
 #: wp-includes/class-wp-editor.php:1087
 msgctxt "list style"
@@ -10883,7 +10883,7 @@ msgstr "Fügen Sie alternative Quellen für maximale HTML5-Wiedergabe hinzu:"
 
 #: wp-includes/user.php:2190
 msgid "Hint: The password should be at least twelve characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ &amp; )."
-msgstr "Tipp: Das Passwort sollte mindestens zwölf Zeichen lang sein. Für ein stärkeres Passwort verwenden Sie bitte Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen wie ! \" ? $ % ^ &amp; )."
+msgstr "Tipp: Das Passwort sollte mindestens zwölf Zeichen lang sein. Für ein stärkeres Passwort verwenden Sie bitte Gross- und Kleinbuchstaben, Zahlen und Sonderzeichen wie ! \" ? $ % ^ &amp; )."
 
 #: wp-includes/wp-db.php:1303
 msgid "The query argument of %s must have a placeholder."
@@ -11124,7 +11124,7 @@ msgstr "Zeilentyp"
 
 #: wp-includes/class-wp-editor.php:1241
 msgid "Cell spacing"
-msgstr "Zellen-Außenabstand"
+msgstr "Zellen-Aussenabstand"
 
 #: wp-includes/class-wp-editor.php:1240
 msgid "Cell padding"
@@ -11140,7 +11140,7 @@ msgstr "Finnisch"
 
 #: wp-includes/class-wp-editor.php:1184
 msgid "Match case"
-msgstr "Auf Groß- und Kleinschreibung achten"
+msgstr "Auf Gross- und Kleinschreibung achten"
 
 #: wp-includes/class-wp-editor.php:1180
 msgid "Find and replace"
@@ -11404,7 +11404,7 @@ msgstr "Sonnenaufgang"
 
 #: wp-includes/class-wp-image-editor.php:272
 msgid "Attempted to set image quality outside of the range [1,100]."
-msgstr "Es wurde versucht, die Bildqualität außerhalb des Bereichs [1-100] zu setzen."
+msgstr "Es wurde versucht, die Bildqualität ausserhalb des Bereichs [1-100] zu setzen."
 
 #: wp-includes/widgets/class-wp-widget-tag-cloud.php:26
 #: wp-includes/js/dist/block-library.js:20079
@@ -11671,7 +11671,7 @@ msgstr "Ihre Sitzung ist abgelaufen. Sie können sich erneut anmelden oder zur A
 
 #: wp-includes/functions.php:6096
 msgid "The login page will open in a new tab. After logging in you can close it and return to this page."
-msgstr "Die Anmelde-Seite wird sich in einem neuen Tab öffnen. Nach dem Anmelden können Sie das Tab schließen und zu dieser Seite zurückkehren."
+msgstr "Die Anmelde-Seite wird sich in einem neuen Tab öffnen. Nach dem Anmelden können Sie das Tab schliessen und zu dieser Seite zurückkehren."
 
 #: wp-includes/class-walker-comment.php:287
 #: wp-includes/class-walker-comment.php:376
@@ -11885,7 +11885,7 @@ msgstr "Anhang-Details"
 #: wp-includes/media-template.php:1017 wp-includes/media.php:3306
 #: wp-includes/js/dist/block-editor.js:4075
 msgid "Large"
-msgstr "Groß"
+msgstr "Gross"
 
 #: wp-includes/media.php:3698
 msgid "&#8592; Cancel Gallery"
@@ -12056,12 +12056,12 @@ msgstr "Zuschneiden des Bildes fehlgeschlagen."
 #: wp-includes/class-wp-image-editor-gd.php:170
 #: wp-includes/class-wp-image-editor-gd.php:194
 msgid "Image resize failed."
-msgstr "Änderung der Bildgröße fehlgeschlagen."
+msgstr "Änderung der Bildgrösse fehlgeschlagen."
 
 #: wp-includes/class-wp-image-editor-imagick.php:225
 #: wp-includes/class-wp-image-editor-gd.php:104
 msgid "Could not read image size."
-msgstr "Bildgröße nicht lesbar."
+msgstr "Bildgrösse nicht lesbar."
 
 #: wp-includes/class-wp-image-editor-imagick.php:158
 #: wp-includes/class-wp-image-editor-gd.php:99
@@ -12475,7 +12475,7 @@ msgstr "Standard-Bildlink"
 
 #: wp-includes/class-wp-xmlrpc-server.php:513
 msgid "Image default size"
-msgstr "Standard-Bildgröße"
+msgstr "Standard-Bildgrösse"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1398
 #: wp-includes/class-wp-xmlrpc-server.php:1860
@@ -12799,7 +12799,7 @@ msgstr "Diese Datei ist keine Bilddatei. Bitte probieren Sie eine andere Datei."
 
 #: wp-includes/script-loader.php:1122
 msgid "This is larger than the maximum size. Please try another."
-msgstr "Die Datei ist größer als die Maximalgröße. Bitte verwenden Sie eine kleinere Datei."
+msgstr "Die Datei ist grösser als die Maximalgrösse. Bitte verwenden Sie eine kleinere Datei."
 
 #: wp-includes/general-template.php:4166
 msgctxt "admin color scheme"
@@ -13079,23 +13079,23 @@ msgstr "Höhe Vorschaubild"
 
 #: wp-includes/class-wp-xmlrpc-server.php:580
 msgid "Crop thumbnail to exact dimensions"
-msgstr "Vorschaubild auf exakte Größe beschneiden"
+msgstr "Vorschaubild auf exakte Grösse beschneiden"
 
 #: wp-includes/class-wp-xmlrpc-server.php:605
 msgid "Large size image width"
-msgstr "Breite für große Bilder"
+msgstr "Breite für grosse Bilder"
 
 #: wp-includes/class-wp-xmlrpc-server.php:590
 msgid "Medium size image height"
-msgstr "Höhe für mittlere Bildgröße"
+msgstr "Höhe für mittlere Bildgrösse"
 
 #: wp-includes/class-wp-xmlrpc-server.php:585
 msgid "Medium size image width"
-msgstr "Breite für mittlere Bildgröße"
+msgstr "Breite für mittlere Bildgrösse"
 
 #: wp-includes/class-wp-xmlrpc-server.php:610
 msgid "Large size image height"
-msgstr "Höhe für große Bilder"
+msgstr "Höhe für grosse Bilder"
 
 #: wp-includes/js/dist/block-library.js:10384
 #: wp-includes/js/dist/block-library.js:11741
@@ -13238,7 +13238,7 @@ msgstr "Wählen Sie aus den meistgenutzten Schlagwörtern"
 
 #: wp-includes/js/dist/editor.js:14667
 msgid "This file exceeds the maximum upload size for this site."
-msgstr "Diese Datei überschreitet die maximale Upload-Größe für diese Website."
+msgstr "Diese Datei überschreitet die maximale Upload-Grösse für diese Website."
 
 #: wp-includes/taxonomy.php:547
 msgctxt "taxonomy general name"
@@ -13529,7 +13529,7 @@ msgstr "Es wurde keine gültige URL übermittelt."
 #: wp-includes/class-wp-image-editor-imagick.php:261
 #: wp-includes/class-wp-image-editor-gd.php:182
 msgid "Could not calculate resized image dimensions"
-msgstr "Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden."
+msgstr "Die Abmessungen des grössenveränderten Bildes konnten nicht berechnet werden."
 
 #: wp-includes/post.php:428
 msgid "Completed <span class=\"count\">(%s)</span>"
@@ -14323,11 +14323,11 @@ msgstr "Geben Sie eine URL an"
 
 #: wp-includes/script-loader.php:892
 msgid "close tags"
-msgstr "Tags schließen"
+msgstr "Tags schliessen"
 
 #: wp-includes/script-loader.php:891
 msgid "Close all open tags"
-msgstr "Alle offenen Tags schließen"
+msgstr "Alle offenen Tags schliessen"
 
 #: wp-includes/blocks/rss.php:27 wp-includes/rss.php:917
 #: wp-includes/widgets.php:1471
@@ -14520,7 +14520,7 @@ msgstr "Was mache ich jetzt?"
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:808
 #: wp-includes/ms-functions.php:1984
 msgid "This file is too big. Files must be less than %s KB in size."
-msgstr "Diese Datei ist zu groß. Dateien müssen kleiner als %s&nbsp;KB sein."
+msgstr "Diese Datei ist zu gross. Dateien müssen kleiner als %s&nbsp;KB sein."
 
 #. translators: %s: allowed space allocation
 #: wp-includes/class-wp-xmlrpc-server.php:6241
@@ -14760,7 +14760,7 @@ msgstr "Vertikaler Abstand"
 
 #: wp-includes/class-wp-editor.php:1120
 msgid "Dimensions"
-msgstr "Größe"
+msgstr "Grösse"
 
 #: wp-includes/class-wp-editor.php:1115
 msgid "Border"
@@ -14877,7 +14877,7 @@ msgstr "Absatz"
 
 #: wp-includes/js/dist/components.js:32571
 msgid "Font Size"
-msgstr "Schriftgröße"
+msgstr "Schriftgrösse"
 
 #: wp-includes/js/dist/editor.js:8877 wp-includes/js/dist/editor.js:10522
 #: wp-includes/js/dist/editor.js:10629
@@ -15517,7 +15517,7 @@ msgstr "Seiten-IDs, durch Kommas getrennt."
 
 #: wp-includes/widgets/class-wp-widget-pages.php:156
 msgid "Exclude:"
-msgstr "Ausschließen:"
+msgstr "Ausschliessen:"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:152
 msgid "Page ID"
@@ -15897,7 +15897,7 @@ msgstr "Gelb"
 
 #: wp-includes/class-wp-theme.php:900
 msgid "White"
-msgstr "Weiß"
+msgstr "Weiss"
 
 #: wp-includes/class-wp-theme.php:898
 msgid "Silver"
@@ -15976,7 +15976,7 @@ msgstr "Auswählen"
 #: wp-includes/js/dist/edit-post.js:3942 wp-includes/js/dist/edit-post.js:4216
 #: wp-includes/js/dist/edit-post.js:4608
 msgid "Close"
-msgstr "Schließen"
+msgstr "Schliessen"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:30
 #: wp-includes/widgets/class-wp-widget-pages.php:43
@@ -16102,13 +16102,13 @@ msgstr "Ausrichtung"
 #: wp-includes/media-template.php:743 wp-includes/media-template.php:821
 #: wp-includes/media-template.php:1004
 msgid "Size"
-msgstr "Größe"
+msgstr "Grösse"
 
 #: wp-includes/media-template.php:757 wp-includes/media-template.php:836
 #: wp-includes/media-template.php:1018 wp-includes/media.php:3307
 #: wp-includes/js/dist/block-editor.js:4078
 msgid "Full Size"
-msgstr "Vollständige Größe"
+msgstr "Vollständige Grösse"
 
 #: wp-includes/media-template.php:755 wp-includes/media-template.php:834
 #: wp-includes/media-template.php:1016 wp-includes/media.php:3305
