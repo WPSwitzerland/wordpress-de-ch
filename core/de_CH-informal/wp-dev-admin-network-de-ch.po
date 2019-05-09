@@ -1,15 +1,15 @@
-# Translation of WordPress - 5.1.x - Development - Administration - Network Admin in German
-# This file is distributed under the same license as the WordPress - 5.1.x - Development - Administration - Network Admin package.
+# Translation of WordPress - 5.2.x - Development - Administration - Network Admin in German
+# This file is distributed under the same license as the WordPress - 5.2.x - Development - Administration - Network Admin package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-27 18:05:30+0000\n"
+"PO-Revision-Date: 2019-04-14 17:11:32+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: GlotPress/2.4.0-alpha\n"
 "Language: de\n"
-"Project-Id-Version: WordPress - 5.1.x - Development - Administration - Network Admin\n"
+"Project-Id-Version: WordPress - 5.2.x - Development - Administration - Network Admin\n"
 
 #. translators: %s: DO_NOT_UPGRADE_GLOBAL_TABLES
 #: wp-admin/includes/network.php:113
@@ -44,10 +44,6 @@ msgstr "Unterverzeichnis-Installation"
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:671
 msgid "Active Child Theme"
 msgstr "Aktives Child-Theme"
-
-#: wp-admin/includes/class-wp-ms-themes-list-table.php:666
-msgid "Active Theme"
-msgstr "Aktives Theme"
 
 #: wp-admin/network/site-info.php:192
 msgid "Attributes"
@@ -193,23 +189,23 @@ msgstr "Bitte vergewissere dich, dass das Apache-Modul %s installiert ist, da es
 msgid "You cannot use port numbers such as %s."
 msgstr "Du kannst keine Port-Nummern wie %s verwenden."
 
-#: wp-admin/includes/class-wp-ms-users-list-table.php:173
+#: wp-admin/includes/class-wp-ms-users-list-table.php:171
 msgctxt "user"
 msgid "Registered"
 msgstr "Registriert"
 
-#: wp-admin/includes/class-wp-ms-users-list-table.php:144
+#: wp-admin/includes/class-wp-ms-users-list-table.php:142
 msgid "Super Admin <span class=\"count\">(%s)</span>"
 msgid_plural "Super Admins <span class=\"count\">(%s)</span>"
 msgstr[0] "Super-Administrator <span class=\"count\">(%s)</span>"
 msgstr[1] "Super-Administratoren <span class=\"count\">(%s)</span>"
 
-#: wp-admin/includes/class-wp-ms-users-list-table.php:118
+#: wp-admin/includes/class-wp-ms-users-list-table.php:116
 msgctxt "user"
 msgid "Not Spam"
 msgstr "Kein Spam"
 
-#: wp-admin/includes/class-wp-ms-users-list-table.php:117
+#: wp-admin/includes/class-wp-ms-users-list-table.php:115
 msgctxt "user"
 msgid "Mark as Spam"
 msgstr "Als Spam kennzeichnen"
@@ -492,7 +488,7 @@ msgid "<a href=\"https://codex.wordpress.org/Network_Admin_Settings_Screen\">Doc
 msgstr "<a href=\"https://codex.wordpress.org/Network_Admin_Settings_Screen\">Dokumentation der Netzwerk-Einstellungen (engl.)</a>"
 
 #. translators: 1: site url, 2: server error message
-#: wp-admin/network/upgrade.php:96
+#: wp-admin/network/upgrade.php:97
 msgid "Warning! Problem updating %1$s. Your server may not be able to connect to sites running on it. Error message: %2$s"
 msgstr "Warnung! Es ist ein Problem bei der Aktualisierung von %1$s aufgetreten. Dein Server könnte Probleme damit haben, sich mit Websites zu verbinden, die darauf laufen. Fehlermeldung: %2$s"
 
@@ -540,7 +536,7 @@ msgstr "Einstellungen für neue Registrierungen"
 
 #: wp-admin/network/settings.php:393
 msgid "Size in kilobytes"
-msgstr "Grösse in Kilobyte"
+msgstr "Größe in Kilobyte"
 
 #: wp-admin/network/settings.php:377
 msgid "Allowed file types. Separate types by spaces."
@@ -619,7 +615,7 @@ msgstr "Von hier aus kannst du:"
 msgid "Welcome to your Network Admin. This area of the Administration Screens is used for managing all aspects of your Multisite Network."
 msgstr "Willkommen im Administrationsbereich. Hier kannst du alle Einstellungen für dein Multisite-Netzwerk vornehmen."
 
-#: wp-admin/network/upgrade.php:137
+#: wp-admin/network/upgrade.php:138
 msgid "WordPress has been updated! Before we send you on your way, we need to individually upgrade the sites in your network."
 msgstr "WordPress wurde aktualisiert! Bevor du aber weitermachen kannst, müssen die einzelnen Websites in deinem Netzwerk ebenfalls noch aktualisiert werden."
 
@@ -628,7 +624,7 @@ msgid "Only use this screen once you have updated to a new version of WordPress 
 msgstr "Benutze diese Ansicht nur, wenn du auf eine neue Version von WordPress durch Aktualisierungen/Verfügbare Aktualisierungen aktualisiert hast; etwa über das Netzwerk-Administrationsmenü oder die Toolbar. Durch Klick auf den &#8222;Netzwerk aktualisieren&#8220;-Button wirst du schrittweise durch jede Website im Netzwerk geführt, immer fünf zugleich, um sicherzustellen, dass alle Datenbank-Updates angewandt wurden."
 
 #: wp-admin/network/upgrade.php:15 wp-admin/network/upgrade.php:42
-#: wp-admin/network/upgrade.php:141 wp-admin/network/menu.php:34
+#: wp-admin/network/upgrade.php:142 wp-admin/network/menu.php:34
 msgid "Upgrade Network"
 msgstr "Netzwerk aktualisieren"
 
@@ -924,6 +920,10 @@ msgstr "Du benötigst einen Wildcard DNS-Eintrag, wenn du die Funktionalität de
 msgid "You cannot install a network of sites with your server address."
 msgstr "Du kannst mit deiner Serveradresse kein Website-Netzwerk installieren."
 
+#: wp-admin/includes/network.php:189
+msgid "Note:"
+msgstr "Hinweis:"
+
 #: wp-admin/includes/network.php:177
 msgid "Fill in the information below and you&#8217;ll be on your way to creating a network of WordPress sites. We will create configuration files in the next step."
 msgstr "Fülle das nachfolgende Formular aus. Damit beginnst du den Einrichtungsprozess eines Netzwerks von WordPress-Websites. Im nächsten Schritt erstellen wir eine Konfigurationsdatei."
@@ -938,7 +938,7 @@ msgstr "Aktivieren des Netzwerks"
 
 #: wp-admin/includes/network.php:421
 msgid "Please complete the configuration steps. To create a new network, you will need to empty or remove the network database tables."
-msgstr "Bitte schliesse die Schritte zur Einrichtung ab. Um ein neues Netzwerk anzulegen, musst du die Netzwerk-Datenbanktabellen leeren oder entfernen."
+msgstr "Bitte schließe die Schritte zur Einrichtung ab. Um ein neues Netzwerk anzulegen, musst du die Netzwerk-Datenbanktabellen leeren oder entfernen."
 
 #: wp-admin/includes/network.php:420
 msgid "An existing WordPress network was detected."
@@ -998,7 +998,7 @@ msgstr "Die Website-ID wird nur intern genutzt und wird nicht öffentlich angeze
 
 #: wp-admin/network/sites.php:35
 msgid "Deactivate, Archive, and Spam which lead to confirmation screens. These actions can be reversed later."
-msgstr "Deaktivieren, Archivieren und Spam. Deaktivieren entspricht dabei der Löschung der Website durch seinen Besitzer. Archivieren bietet die Möglichkeit, einen Blog vorübergehend nicht erreichbar zu machen und anschliessend wieder zu aktivieren. Spam markiert eine Website als Spam. Wobei all diese Aktionen wieder rückgängig gemacht werden können."
+msgstr "Deaktivieren, Archivieren und Spam. Deaktivieren entspricht dabei der Löschung der Website durch seinen Besitzer. Archivieren bietet die Möglichkeit, einen Blog vorübergehend nicht erreichbar zu machen und anschließend wieder zu aktivieren. Spam markiert eine Website als Spam. Wobei all diese Aktionen wieder rückgängig gemacht werden können."
 
 #: wp-admin/network/site-new.php:26
 msgid "If the admin email for the new site does not exist in the database, a new user will also be created."
@@ -1010,7 +1010,7 @@ msgstr "Die Netzwerk-Einstellungen beinhalten unter anderem die Einstellungen f�
 
 #: wp-admin/network/settings.php:54
 msgid "Upload settings control the size of the uploaded files and the amount of available upload space for each site. You can change the default value for specific sites when you edit a particular site. Allowed file types are also listed (space separated only)."
-msgstr "Die &#8222;Upload-Einstellungen&#8220; kontrollieren die Grösse von hochgeladenen Dateien und den insgesamt zur Verfügung stehenden Speicherplatz für Uploads für jede Website. Du kannst diesen Wert (Speicher-Quota) für eine spezifische Website ändern, indem du diese spezielle Website bearbeitest (unter: Netzwerkverwaltung > Websites > Bearbeiten > Einstellungen > ganz unten). Zugelassene Dateitypen können ebenfalls aufgelistet werden; jeweils durch Leerzeichen getrennt."
+msgstr "Die &#8222;Upload-Einstellungen&#8220; kontrollieren die Größe von hochgeladenen Dateien und den insgesamt zur Verfügung stehenden Speicherplatz für Uploads für jede Website. Du kannst diesen Wert (Speicher-Quota) für eine spezifische Website ändern, indem du diese spezielle Website bearbeitest (unter: Netzwerkverwaltung > Websites > Bearbeiten > Einstellungen > ganz unten). Zugelassene Dateitypen können ebenfalls aufgelistet werden; jeweils durch Leerzeichen getrennt."
 
 #: wp-admin/network/users.php:204
 msgid "The bulk action will permanently delete selected users, or mark/unmark those selected as spam. Spam users will have posts removed and will be unable to sign up again with the same email addresses."
@@ -1042,7 +1042,7 @@ msgstr "Falls der Vorgang aus irgendeinem Grund abbricht, wird er automatisch au
 
 #: wp-admin/network/users.php:203
 msgid "You can sort the table by clicking on any of the table headings and switch between list and excerpt views by using the icons above the users list."
-msgstr "Durch Klicken auf eine beliebige Überschrift im Tabellenkopf kannst du die Tabelle entsprechend sortieren und mit den Icons oberhalb der Benutzerliste zwischen Listen-Ansicht und Auszugs-Ansicht wechseln."
+msgstr "Durch Klicken auf eine beliebige Überschrift im Tabellenkopf kannst du die Tabelle entsprechend sortieren und mit den Icons oberhalb der Benutzerliste zwischen Listen-Ansicht und Textauszugs-Ansicht wechseln."
 
 #: wp-admin/network/user-new.php:23
 msgid "Users who are signed up to the network without a site are added as subscribers to the main or primary dashboard site, giving them profile pages to manage their accounts. These users will only see Dashboard and My Sites in the main navigation until a site is created for them."
@@ -1050,7 +1050,7 @@ msgstr "Benutzer, die im Netzwerk registriert sind, aber keine eigene Website ha
 
 #: wp-admin/network/sites.php:31
 msgid "This is the main table of all sites on this network. Switch between list and excerpt views by using the icons above the right side of the table."
-msgstr "Hier siehst du alle Websites dieses Netzwerks. Benutze die Icons rechts oben, um zwischen einer Ansicht als Liste oder Auszug zu wechseln."
+msgstr "Hier siehst du alle Websites dieses Netzwerks. Benutze die Icons rechts oben, um zwischen einer Ansicht als Liste oder Textauszug zu wechseln."
 
 #: wp-admin/network/settings.php:56
 msgid "Menu setting enables/disables the plugin menus from appearing for non super admins, so that only super admins, not site admins, have access to activate plugins."
@@ -1082,7 +1082,7 @@ msgstr "Die Werte bei &#8222;Einstellungen für neue Website&#8220; werden immer
 msgid "The following words are reserved for use by WordPress functions and cannot be used as blog names: %s"
 msgstr "Die folgenden Begriffe sind für WordPress reserviert und können deshalb nicht als Website-Name genutzt werden: %s"
 
-#: wp-admin/network/upgrade.php:121
+#: wp-admin/network/upgrade.php:122
 msgid "If your browser doesn&#8217;t start loading the next page automatically, click this link:"
 msgstr "Falls dein Browser nicht automatisch zur nächsten Seite weiterleitet, klicke auf folgenden Link:"
 
@@ -1186,7 +1186,7 @@ msgstr "Der erste Beitrag einer neuen Website."
 msgid "The author of the first comment on a new site."
 msgstr "Der Autor des ersten Kommentars einer neuen Website."
 
-#: wp-admin/network/upgrade.php:72
+#: wp-admin/network/upgrade.php:73
 msgid "All done!"
 msgstr "Alles fertig!"
 
@@ -1234,7 +1234,7 @@ msgstr "Fehlende E-Mail-Adresse."
 msgid "Missing or invalid site address."
 msgstr "Fehlende oder ungültige Website-Adresse."
 
-#: wp-admin/network/upgrade.php:121
+#: wp-admin/network/upgrade.php:122
 msgid "Next Sites"
 msgstr "Weitere Websites"
 
@@ -1281,7 +1281,7 @@ msgstr "Standardsprache"
 
 #: wp-admin/network/settings.php:383
 msgid "Max upload file size"
-msgstr "Maximale Dateigrösse eines Uploads"
+msgstr "Maximale Dateigröße eines Uploads"
 
 #: wp-admin/network/settings.php:351
 msgid "First Comment URL"
