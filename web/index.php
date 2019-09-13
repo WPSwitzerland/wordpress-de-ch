@@ -12,6 +12,11 @@ function do_replacements( string $string ): string {
 		[
 			'ß',
 			'Fahrrad',
+			'Europe/Berlin', // Timezone.
+			'Berlin; Köln; München', // Events dashboard widget.
+			'Berlin', // First page content.
+			'https://de.wordpress.org/plugins/', // Plugin directory.
+			'https://de.wordpress.org/themes/', // Theme directory.
 			'„',
 			'“',
 			'‚',
@@ -24,6 +29,11 @@ function do_replacements( string $string ): string {
 		[
 			'ss',
 			'Velo',
+			'Europe/Zurich',
+			'Bern; Zürich; Genf',
+			'Zürich',
+			'https://de-ch.wordpress.org/plugins/',
+			'https://de-ch.wordpress.org/themes/',
 			'«',
 			'»',
 			'‹',
@@ -46,6 +56,7 @@ if ( ! empty( $_POST ) ) {
 		die( 'no url' );
 	}
 
+	// Parse URL and build URL for export.
 	$parsed_url         = parse_url( $url );
 	$parsed_url['path'] = rtrim( $parsed_url['path'], '/\\' );
 
@@ -61,15 +72,38 @@ if ( ! empty( $_POST ) ) {
 		$export_url .= '&format=po';
 	}
 
+	// Get the PO content.
 	$po = file_get_contents( $export_url );
-
 	if ( empty( $po ) ) {
 		die( 'no input' );
 	}
 
+	// Convert translations into a Translations collection.
 	$translations = new Gettext\Translations();
 	Gettext\Extractors\Po::fromString( $po, $translations );
 
+	$project         = $translations->getHeader( 'Project-Id-Version' );
+	$is_core_project = 0 === strpos( $project, 'WordPress - ' );
+
+	// Do special replacement for WordPress core projects.
+	if ( $is_core_project ) {
+		$number_format_thousands_sep = $translations->find( '', 'number_format_thousands_sep' );
+		if ( $number_format_thousands_sep ) {
+			$number_format_thousands_sep->setTranslation( '\'' );
+		}
+
+		$number_format_decimal_point = $translations->find( '', 'number_format_decimal_point' );
+		if ( $number_format_decimal_point ) {
+			$number_format_decimal_point->setTranslation( '.' );
+		}
+
+		$html_lang_attribute = $translations->find( '', 'html_lang_attribute' );
+		if ( $html_lang_attribute ) {
+			$html_lang_attribute->setTranslation( 'de-CH' );
+		}
+	}
+
+	// Loop over translations and do the replacements.
 	foreach ( $translations as $translation ) {
 		$translation_singular = $translation->getTranslation();
 		$translation_singular = do_replacements( $translation_singular );
@@ -86,9 +120,11 @@ if ( ! empty( $_POST ) ) {
 		}
 	}
 
+	// Customize headers.
 	$translations->setLanguage( 'de-CH' );
 	$translations->setHeader( 'X-Generator', 'PO Converter for de_DE 2 de_CH' );
 
+	// Provide the converted file for download.
 	$project_path = str_replace( [ '/projects/', '/' ], [ '', '-' ], $parsed_url['path'] );
 	$filename     = "{$project_path}-converted.po";
 
@@ -132,7 +168,7 @@ if ( ! empty( $_POST ) ) {
 	</main>
 	<footer class="footer mt-auto py-3">
 		<div class="container text-center">
-			<span class="text-muted">🇨🇭 WordCamp Zurich 2019 | <a href="https://github.com/wpswitzerland">GitHub</a></span>
+			<span class="text-muted">🇨🇭 WordCamp Zurich 2019 | <a href="https://github.com/WPSwitzerland/wordpress-de-ch">GitHub</a></span>
 		</div>
 	</footer>
 </body>
