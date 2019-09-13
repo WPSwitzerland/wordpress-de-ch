@@ -1,0 +1,15 @@
+{
+    "name": "wp-switzerland/wordpress-de-ch",
+    "description": "PO Converter for de_DE 2 de_CH",
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "gettext/gettext": "^4.6"
+    },
+    "authors": [
+        {
+            "name": "Dominik Schilling",
+            "email": "dominikschilling@gmail.com"
+        }
+    ]
+}
