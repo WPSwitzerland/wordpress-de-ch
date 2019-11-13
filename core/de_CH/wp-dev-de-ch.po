@@ -6183,7 +6183,7 @@ msgstr "Stadt aktualisiert. Zeige Veranstaltungen in der Nähe von %s."
 
 #: wp-includes/script-loader.php:2418
 msgid "We couldn&#8217;t locate %s. Please try another nearby city. For example: Kansas City; Springfield; Portland."
-msgstr "Wir konnten %s nicht finden. Bitte versuchen Sie eine andere nahe gelegene Stadt. Zum Beispiel: Berlin; Köln; München."
+msgstr "Wir konnten %s nicht finden. Bitte versuchen Sie eine andere nahe gelegene Stadt. Zum Beispiel: Bern; Zürich; Genf."
 
 #: wp-includes/script-loader.php:2400
 msgid "Attend an upcoming event near you."
