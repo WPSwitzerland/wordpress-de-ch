@@ -522,7 +522,7 @@ msgstr "Die Seite konnte nicht gefunden werden"
 #. Author URI of the theme
 #: footer.php:32
 msgid "https://wordpress.org/"
-msgstr "https://de.wordpress.org/"
+msgstr "https://de-ch.wordpress.org/"
 
 #. Author of the theme
 msgid "the WordPress team"
@@ -530,4 +530,4 @@ msgstr "WordPress-Team"
 
 #. Theme URI of the theme
 msgid "https://wordpress.org/themes/twentytwenty/"
-msgstr "https://de.wordpress.org/themes/twentytwenty/"
+msgstr "https://de-ch.wordpress.org/themes/twentytwenty/"

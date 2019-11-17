@@ -323,9 +323,9 @@ msgstr "WordPress-Team"
 
 #. Theme URI of the theme
 msgid "https://wordpress.org/themes/twentyseventeen/"
-msgstr "https://de.wordpress.org/themes/twentyseventeen/"
+msgstr "https://de-ch.wordpress.org/themes/twentyseventeen/"
 
 #. Author URI of the theme
 #: template-parts/footer/site-info.php:18
 msgid "https://wordpress.org/"
-msgstr "https://de.wordpress.org/"
+msgstr "https://de-ch.wordpress.org/"
