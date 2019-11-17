@@ -13,7 +13,7 @@ msgstr ""
 
 #. Description of the theme
 msgid "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes."
-msgstr "Unser Standard-Theme für 2019 wurde entwickelt, um die Leistungsfähigkeit des Block-Editors zu präsentieren. Es bietet individuelle Stile für alle Standardblöcke und ist so aufgebaut, dass das, was du im Editor siehst, auch genauso auf deiner Website sehen wirst. Twenty Nineteen wurde so konzipiert, dass es sich für eine Vielzahl von Websites anpassen lässt; egal ob du einen Fotoblog betreibst, ein neues Unternehmen startest oder eine gemeinnützige Organisation unterstützt. Mit reichlich Whitespace und modernen serifenlosen Überschriften, gepaart mit klassischem serifenbetontem Fließtext wird es auf allen Bildschirmgrößen schön aussehen."
+msgstr "Unser Standard-Theme für 2019 wurde entwickelt, um die Leistungsfähigkeit des Block-Editors zu präsentieren. Es bietet individuelle Stile für alle Standardblöcke und ist so aufgebaut, dass das, was du im Editor siehst, auch genauso auf deiner Website sehen wirst. Twenty Nineteen wurde so konzipiert, dass es sich für eine Vielzahl von Websites anpassen lässt; egal ob du einen Fotoblog betreibst, ein neues Unternehmen startest oder eine gemeinnützige Organisation unterstützt. Mit reichlich Whitespace und modernen serifenlosen Überschriften, gepaart mit klassischem serifenbetontem Fliesstext wird es auf allen Bildschirmgrössen schön aussehen."
 
 #. Theme Name of the theme
 msgid "Twenty Nineteen"
@@ -67,7 +67,7 @@ msgstr "Standard"
 
 #: functions.php:166
 msgid "White"
-msgstr "Weiß"
+msgstr "Weiss"
 
 #: functions.php:161
 msgid "Light Gray"
@@ -95,7 +95,7 @@ msgstr "L"
 
 #: functions.php:127
 msgid "Large"
-msgstr "Groß"
+msgstr "Gross"
 
 #: functions.php:122
 msgid "M"
@@ -120,7 +120,7 @@ msgstr "Footer-Menü"
 #: image.php:70
 msgctxt "Used before full size attachment link."
 msgid "Full size"
-msgstr "Vollständige Größe"
+msgstr "Vollständige Grösse"
 
 #: image.php:56
 msgid "Page"

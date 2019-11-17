@@ -108,7 +108,7 @@ msgstr "Overlay-Textfarbe"
 
 #: classes/class-twentytwenty-customize.php:332
 msgid "The color used for the overlay. Defaults to the accent color."
-msgstr "Die für das Overlay benutzte Farbe. Standardmäßig ist das die Akzentfarbe."
+msgstr "Die für das Overlay benutzte Farbe. Standardmässig ist das die Akzentfarbe."
 
 #: classes/class-twentytwenty-customize.php:331
 msgid "Overlay Background Color"
@@ -187,7 +187,7 @@ msgstr "Beitrag"
 
 #: template-parts/modal-search.php:26
 msgid "Close search"
-msgstr "Suche schließen"
+msgstr "Suche schliessen"
 
 #: template-parts/modal-menu.php:117
 msgid "Expanded Social links"
@@ -203,7 +203,7 @@ msgstr "Erweitert"
 
 #: template-parts/modal-menu.php:21
 msgid "Close Menu"
-msgstr "Menü schließen"
+msgstr "Menü schliessen"
 
 #: template-parts/footer-menus-widgets.php:57
 msgid "Social links"
@@ -306,7 +306,7 @@ msgstr "XL"
 #: functions.php:547
 msgctxt "Name of the larger font size in the block editor"
 msgid "Larger"
-msgstr "Größer"
+msgstr "Grösser"
 
 #: functions.php:542
 msgctxt "Short name of the large font size in the block editor."
@@ -316,7 +316,7 @@ msgstr "L"
 #: functions.php:541
 msgctxt "Name of the large font size in the block editor"
 msgid "Large"
-msgstr "Groß"
+msgstr "Gross"
 
 #: functions.php:536
 msgctxt "Short name of the regular font size in the block editor."
@@ -505,7 +505,7 @@ msgstr "Hintergrundfarbe für Header und Footer"
 
 #: classes/class-twentytwenty-customize.php:82
 msgid "Scales the logo to half its uploaded size, making it sharp on high-res screens."
-msgstr "Skaliert das Logo auf die Hälfte der hochgeladenen Größe und wird so auf hochauflösenden Bildschirmen scharf wiedergegeben."
+msgstr "Skaliert das Logo auf die Hälfte der hochgeladenen Grösse und wird so auf hochauflösenden Bildschirmen scharf wiedergegeben."
 
 #: classes/class-twentytwenty-customize.php:81
 msgid "Retina logo"
