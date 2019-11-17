@@ -10,6 +10,7 @@ via shell script
 - ss instead of ß
 - "Europe/Zürich" instead of "Europe/Berlin"
 - "Bern; Zürich; Genf" instead of "Berlin; Köln; München"
+- de-ch.wordpress.org instead of de.wordpress.org (replaced only in themes)
 
 manually
 - de-CH instead of de-DE (html_lang_attribute)
