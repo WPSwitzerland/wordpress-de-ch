@@ -608,7 +608,7 @@ msgstr "Einstellungen für neue Registrierungen"
 
 #: wp-admin/network/settings.php:401
 msgid "Size in kilobytes"
-msgstr "Grösse in Kilobyte"
+msgstr "Größe in Kilobyte"
 
 #: wp-admin/network/settings.php:385
 msgid "Allowed file types. Separate types by spaces."
@@ -1013,7 +1013,7 @@ msgstr "Aktivieren des Netzwerks"
 
 #: wp-admin/includes/network.php:424
 msgid "Please complete the configuration steps. To create a new network, you will need to empty or remove the network database tables."
-msgstr "Bitte schliesse die Schritte zur Einrichtung ab. Um ein neues Netzwerk anzulegen, musst du die Netzwerk-Datenbanktabellen leeren oder entfernen."
+msgstr "Bitte schließe die Schritte zur Einrichtung ab. Um ein neues Netzwerk anzulegen, musst du die Netzwerk-Datenbanktabellen leeren oder entfernen."
 
 #: wp-admin/includes/network.php:423
 msgid "An existing WordPress network was detected."
@@ -1074,7 +1074,7 @@ msgstr "Die Website-ID wird nur intern genutzt und wird nicht öffentlich angeze
 
 #: wp-admin/network/sites.php:35
 msgid "Deactivate, Archive, and Spam which lead to confirmation screens. These actions can be reversed later."
-msgstr "Deaktivieren, Archivieren und Spam. Deaktivieren entspricht dabei der Löschung der Website durch seinen Besitzer. Archivieren bietet die Möglichkeit, einen Blog vorübergehend nicht erreichbar zu machen und anschliessend wieder zu aktivieren. Spam markiert eine Website als Spam. Wobei all diese Aktionen wieder rückgängig gemacht werden können."
+msgstr "Deaktivieren, Archivieren und Spam. Deaktivieren entspricht dabei der Löschung der Website durch seinen Besitzer. Archivieren bietet die Möglichkeit, einen Blog vorübergehend nicht erreichbar zu machen und anschließend wieder zu aktivieren. Spam markiert eine Website als Spam. Wobei all diese Aktionen wieder rückgängig gemacht werden können."
 
 #: wp-admin/network/site-new.php:26
 msgid "If the admin email for the new site does not exist in the database, a new user will also be created."
@@ -1086,7 +1086,7 @@ msgstr "Die Netzwerk-Einstellungen beinhalten unter anderem die Einstellungen f�
 
 #: wp-admin/network/settings.php:54
 msgid "Upload settings control the size of the uploaded files and the amount of available upload space for each site. You can change the default value for specific sites when you edit a particular site. Allowed file types are also listed (space separated only)."
-msgstr "Die &#8222;Upload-Einstellungen&#8220; kontrollieren die Grösse von hochgeladenen Dateien und den insgesamt zur Verfügung stehenden Speicherplatz für Uploads für jede Website. Du kannst diesen Wert (Speicher-Quota) für eine spezifische Website ändern, indem du diese spezielle Website bearbeitest (unter: Netzwerkverwaltung > Websites > Bearbeiten > Einstellungen > ganz unten). Zugelassene Dateitypen können ebenfalls aufgelistet werden; jeweils durch Leerzeichen getrennt."
+msgstr "Die &#8222;Upload-Einstellungen&#8220; kontrollieren die Größe von hochgeladenen Dateien und den insgesamt zur Verfügung stehenden Speicherplatz für Uploads für jede Website. Du kannst diesen Wert (Speicher-Quota) für eine spezifische Website ändern, indem du diese spezielle Website bearbeitest (unter: Netzwerkverwaltung > Websites > Bearbeiten > Einstellungen > ganz unten). Zugelassene Dateitypen können ebenfalls aufgelistet werden; jeweils durch Leerzeichen getrennt."
 
 #: wp-admin/network/users.php:221
 msgid "The bulk action will permanently delete selected users, or mark/unmark those selected as spam. Spam users will have posts removed and will be unable to sign up again with the same email addresses."
@@ -1359,7 +1359,7 @@ msgstr "Standardsprache"
 
 #: wp-admin/network/settings.php:391
 msgid "Max upload file size"
-msgstr "Maximale Dateigrösse eines Uploads"
+msgstr "Maximale Dateigröße eines Uploads"
 
 #: wp-admin/network/settings.php:351
 msgid "First Comment URL"

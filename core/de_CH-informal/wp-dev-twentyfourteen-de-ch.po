@@ -15,11 +15,12 @@
 		<link rel="stylesheet" href="//s.w.org/style/wp4.css?82" />
 
 <link rel="shortcut icon" href="//s.w.org/favicon.ico?2" type="image/x-icon" />
-<link rel="pingback" href="https://translate.wordpress.org/xmlrpc.php" /><link rel='stylesheet' id='dashicons-css'  href='https://translate.wordpress.org/wp-includes/css/dashicons.min.css?ver=5.4-alpha-46729' media='all' />
-<link rel='stylesheet' id='admin-bar-css'  href='https://translate.wordpress.org/wp-includes/css/admin-bar.min.css?ver=5.4-alpha-46729' media='all' />
+<link rel="pingback" href="https://translate.wordpress.org/xmlrpc.php" /><link rel='stylesheet' id='dashicons-css'  href='https://translate.wordpress.org/wp-includes/css/dashicons.min.css?ver=5.4-alpha-46887' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='https://translate.wordpress.org/wp-includes/css/admin-bar.min.css?ver=5.4-alpha-46887' media='all' />
 <link rel='stylesheet' id='gp-base-css'  href='https://translate.wordpress.org/wp-content/plugins/glotpress/assets/css/style.min.css?ver=20180428' media='all' />
 <link rel='stylesheet' id='wporg-translate-css'  href='https://translate.wordpress.org/wp-content/plugins/wporg-gp-customizations/templates/style.css?ver=20190510' media='all' />
-<script src='https://translate.wordpress.org/wp-includes/js/admin-bar.min.js?ver=5.4-alpha-46729'></script>
+<script src='https://translate.wordpress.org/wp-includes/js/hoverintent-js.min.js?ver=2.2.1'></script>
+<script src='https://translate.wordpress.org/wp-includes/js/admin-bar.min.js?ver=5.4-alpha-46887'></script>
 <script src='https://translate.wordpress.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
 <script src='https://translate.wordpress.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <script src='https://translate.wordpress.org/wp-content/plugins/wporg-gp-customizations/templates/js/details-element-polyfill.min.js?ver=2.3.1'></script>
@@ -172,10 +173,10 @@
 			} );
 		} )( jQuery );
 	</script>
-	<script type='text/javascript' src='https://stats.wp.com/e-201946.js' async='async' defer='defer'></script>
+	<script type='text/javascript' src='https://stats.wp.com/e-201950.js' async='async' defer='defer'></script>
 <script type='text/javascript'>
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:7.9',blog:'124342649',post:'0',tz:'0',srv:'translate.wordpress.org'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:7.9.1',blog:'124342649',post:'0',tz:'0',srv:'translate.wordpress.org'} ]);
 	_stq.push([ 'clickTrackerInit', '124342649', '0' ]);
 </script>
 		<div id="wpadminbar" class="nojq nojs">
