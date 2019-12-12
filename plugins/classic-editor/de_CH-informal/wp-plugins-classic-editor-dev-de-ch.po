@@ -55,7 +55,7 @@ msgstr "Zum Block-Editor wechseln"
 
 #: classic-editor.php:483
 msgid "By default the Block Editor is replaced with the Classic Editor and users cannot switch editors."
-msgstr "Standardmäßig wird der Block-Editor durch den klassischen Editor ersetzt und Benutzer können den Editor nicht wechseln."
+msgstr "Standardmässig wird der Block-Editor durch den klassischen Editor ersetzt und Benutzer können den Editor nicht wechseln."
 
 #: classic-editor.php:482
 msgid "Allow site admins to change settings"
@@ -104,7 +104,7 @@ msgstr "WordPress-Mitwirkende"
 
 #. Description of the plugin
 msgid "Enables the WordPress classic editor and the old-style Edit Post screen with TinyMCE, Meta Boxes, etc. Supports the older plugins that extend this screen."
-msgstr "Aktiviert den klassischen WordPress-Editor und die „old-style“-Bearbeiten-Ansicht für Beiträge bzw. Seiten (TinyMCE, Meta Boxen etc.). Unterstützt außerdem ältere Plugins, die diesen Bildschirm erweitern."
+msgstr "Aktiviert den klassischen WordPress-Editor und die „old-style“-Bearbeiten-Ansicht für Beiträge bzw. Seiten (TinyMCE, Meta Boxen etc.). Unterstützt ausserdem ältere Plugins, die diesen Bildschirm erweitern."
 
 #. Plugin Name of the plugin
 msgid "Classic Editor"
