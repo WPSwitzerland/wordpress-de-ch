@@ -23,7 +23,7 @@ msgstr "off"
 
 #: wp-includes/general-template.php:781
 msgid "html_lang_attribute"
-msgstr "de-DE"
+msgstr "de-CH"
 
 #: wp-includes/functions.php:333
 msgctxt "decline months names: on or off"
@@ -69,13 +69,13 @@ msgstr "&#8222;"
 #. https://secure.php.net/number_format, default is ','
 #: wp-includes/class-wp-locale.php:200
 msgid "number_format_thousands_sep"
-msgstr "."
+msgstr "'"
 
 #. translators: $dec_point argument for https://secure.php.net/number_format,
 #. default is '.'
 #: wp-includes/class-wp-locale.php:208
 msgid "number_format_decimal_point"
-msgstr ","
+msgstr "."
 
 #: wp-includes/js/dist/api-fetch.js:721
 msgid "Media upload failed. If this is a photo or a large image, please scale it down and try again."
@@ -6183,7 +6183,7 @@ msgstr "Stadt aktualisiert. Zeige Veranstaltungen in der Nähe von %s."
 
 #: wp-includes/script-loader.php:2421
 msgid "We couldn&#8217;t locate %s. Please try another nearby city. For example: Kansas City; Springfield; Portland."
-msgstr "Wir konnten %s nicht finden. Bitte versuchen Sie eine andere nahe gelegene Stadt. Zum Beispiel: Berlin; Köln; München."
+msgstr "Wir konnten %s nicht finden. Bitte versuchen Sie eine andere nahe gelegene Stadt. Zum Beispiel: Bern; Zürich; Genf."
 
 #: wp-includes/script-loader.php:2403
 msgid "Attend an upcoming event near you."
