@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Classic Editor - Development (trunk) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-12-08 19:35:48+0000\n"
+"PO-Revision-Date: 2019-02-03 10:03:56+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -11,27 +11,53 @@ msgstr ""
 "Language: de\n"
 "Project-Id-Version: Plugins - Classic Editor - Development (trunk)\n"
 
-#: classic-editor.php:376 classic-editor.php:796 classic-editor.php:833
-#: classic-editor.php:844
+#: classic-editor.php:812
+msgctxt "Editor Name"
+msgid "Edit (Classic Editor)"
+msgstr "Bearbeiten (Classic Editor)"
+
+#: classic-editor.php:805
+msgctxt "Editor Name"
+msgid "Edit (Block Editor)"
+msgstr "Bearbeiten (Block-Editor)"
+
+#: classic-editor.php:446
+msgid "Default Editor"
+msgstr "Standard-Editor"
+
+#: classic-editor.php:479
+msgid "Change settings"
+msgstr "Einstellungen ändern"
+
+#: classic-editor.php:466
+msgid "Default editor for all sites"
+msgstr "Standard-Editor für alle Websites"
+
+#: classic-editor.php:462
+msgid "Editor Settings"
+msgstr "Editor-Einstellungen"
+
+#: classic-editor.php:397 classic-editor.php:474 classic-editor.php:846
+#: classic-editor.php:859
 msgctxt "Editor Name"
 msgid "Block Editor"
 msgstr "Block-Editor"
 
-#: classic-editor.php:372 classic-editor.php:442 classic-editor.php:803
-#: classic-editor.php:830 classic-editor.php:844
+#: classic-editor.php:393 classic-editor.php:470 classic-editor.php:843
+#: classic-editor.php:859
 msgctxt "Editor Name"
 msgid "Classic Editor"
 msgstr "Classic Editor"
 
-#: classic-editor.php:640
+#: classic-editor.php:647
 msgid "Switch to Block Editor"
 msgstr "Zum Block-Editor wechseln"
 
-#: classic-editor.php:447
+#: classic-editor.php:483
 msgid "By default the Block Editor is replaced with the Classic Editor and users cannot switch editors."
-msgstr "Standardmässig wird der Block-Editor durch den klassischen Editor ersetzt und Benutzer können den Editor nicht wechseln."
+msgstr "Standardmäßig wird der Block-Editor durch den klassischen Editor ersetzt und Benutzer können den Editor nicht wechseln."
 
-#: classic-editor.php:446
+#: classic-editor.php:482
 msgid "Allow site admins to change settings"
 msgstr "Website-Admins das Ändern der Einstellungen ermöglichen"
 
@@ -43,42 +69,34 @@ msgstr "https://de.wordpress.org/plugins/classic-editor/"
 msgid "https://github.com/WordPress/classic-editor/"
 msgstr "https://github.com/WordPress/classic-editor/"
 
-#: classic-editor.php:636 classic-editor.php:670
+#: classic-editor.php:671
 msgid "Switch to Classic Editor"
 msgstr "Zum Classic Editor wechseln"
 
-#: classic-editor.php:425 classic-editor.php:619
+#: classic-editor.php:628
 msgid "Editor"
 msgstr "Standard-Editor"
 
-#: classic-editor.php:400
+#: classic-editor.php:421
 msgid "No"
 msgstr "Nein"
 
-#: classic-editor.php:396
+#: classic-editor.php:417
 msgid "Yes"
 msgstr "Ja"
 
-#: classic-editor.php:323
+#: classic-editor.php:344
 msgid "Allow users to switch editors"
 msgstr "Erlaube Benutzern, den Editor zu wechseln."
 
-#: classic-editor.php:322
+#: classic-editor.php:343
 msgid "Default editor for all users"
 msgstr "Standard-Editor für alle Benutzer"
 
 #. translators: %s: post title
-#: classic-editor.php:798
+#: classic-editor.php:807
 msgid "Edit &#8220;%s&#8221; in the Block Editor"
 msgstr "&#8222;%s&#8220; im Block-Editor bearbeiten"
-
-#: classic-editor.php:488
-msgid "Change the %1$sClassic Editor settings%2$s."
-msgstr "Ändere die %1$sClassic-Editor-Einstellungen%2$s."
-
-#: classic-editor.php:485
-msgid "The Classic Editor plugin prevents use of the new Block Editor."
-msgstr "Das Plugin Classic Editor schützt vor der Nutzung des neuen Block-Editors."
 
 #. Author of the plugin
 msgid "WordPress Contributors"
@@ -86,17 +104,17 @@ msgstr "WordPress-Mitwirkende"
 
 #. Description of the plugin
 msgid "Enables the WordPress classic editor and the old-style Edit Post screen with TinyMCE, Meta Boxes, etc. Supports the older plugins that extend this screen."
-msgstr "Aktiviert den klassischen WordPress-Editor und die „old-style“-Bearbeiten-Ansicht für Beiträge bzw. Seiten (TinyMCE, Meta Boxen etc.). Unterstützt ausserdem ältere Plugins, die diesen Bildschirm erweitern."
+msgstr "Aktiviert den klassischen WordPress-Editor und die „old-style“-Bearbeiten-Ansicht für Beiträge bzw. Seiten (TinyMCE, Meta Boxen etc.). Unterstützt außerdem ältere Plugins, die diesen Bildschirm erweitern."
 
 #. Plugin Name of the plugin
 msgid "Classic Editor"
 msgstr "Classic Editor"
 
 #. translators: %s: post title
-#: classic-editor.php:805
+#: classic-editor.php:814
 msgid "Edit &#8220;%s&#8221; in the Classic Editor"
 msgstr "&#8222;%s&#8220; im klassischen Editor bearbeiten"
 
-#: classic-editor.php:681
+#: classic-editor.php:690
 msgid "Settings"
 msgstr "Einstellungen"
