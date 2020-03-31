@@ -14,7 +14,7 @@ msgstr ""
 #: wp-admin/includes/schema.php:400
 msgctxt "default GMT offset or timezone string"
 msgid "0"
-msgstr "Europe/Berlin"
+msgstr "Europe/Zurich"
 
 #. translators: Default start of the week. 0 = Sunday, 1 = Monday.
 #: wp-admin/includes/schema.php:416
@@ -2673,7 +2673,7 @@ msgstr "...oder so etwas wie das hier:"
 #. translators: First page content.
 #: wp-admin/includes/upgrade.php:302
 msgid "Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)"
-msgstr "Hallo! Tagsüber arbeite ich als Fahrradkurier, nachts bin ich ein aufstrebender Schauspieler und dies hier ist meine Website. Ich lebe in Berlin, habe einen grossen Hund namens Jack, mag Pi&#241;a Coladas, jedoch weniger (ohne Schirm) im Regen stehen gelassen zu werden."
+msgstr "Hallo! Tagsüber arbeite ich als Fahrradkurier, nachts bin ich ein aufstrebender Schauspieler und dies hier ist meine Website. Ich lebe in Zurich, habe einen grossen Hund namens Jack, mag Pi&#241;a Coladas, jedoch weniger (ohne Schirm) im Regen stehen gelassen zu werden."
 
 #. translators: First page content.
 #: wp-admin/includes/upgrade.php:297
