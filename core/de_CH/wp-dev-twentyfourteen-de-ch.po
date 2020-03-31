@@ -12,15 +12,15 @@
 
 		<link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600&subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
 
-		<link rel="stylesheet" href="//s.w.org/style/wp4.css?82" />
+		<link rel="stylesheet" href="//s.w.org/style/wp4.css?87" />
 
 <link rel="shortcut icon" href="//s.w.org/favicon.ico?2" type="image/x-icon" />
-<link rel="pingback" href="https://translate.wordpress.org/xmlrpc.php" /><link rel='stylesheet' id='dashicons-css'  href='https://translate.wordpress.org/wp-includes/css/dashicons.min.css?ver=5.4-alpha-46887' media='all' />
-<link rel='stylesheet' id='admin-bar-css'  href='https://translate.wordpress.org/wp-includes/css/admin-bar.min.css?ver=5.4-alpha-46887' media='all' />
+<link rel="pingback" href="https://translate.wordpress.org/xmlrpc.php" /><link rel='stylesheet' id='dashicons-css'  href='https://translate.wordpress.org/wp-includes/css/dashicons.min.css?ver=5.5-alpha-47534' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='https://translate.wordpress.org/wp-includes/css/admin-bar.min.css?ver=5.5-alpha-47534' media='all' />
 <link rel='stylesheet' id='gp-base-css'  href='https://translate.wordpress.org/wp-content/plugins/glotpress/assets/css/style.min.css?ver=20180428' media='all' />
-<link rel='stylesheet' id='wporg-translate-css'  href='https://translate.wordpress.org/wp-content/plugins/wporg-gp-customizations/templates/style.css?ver=20190510' media='all' />
+<link rel='stylesheet' id='wporg-translate-css'  href='https://translate.wordpress.org/wp-content/plugins/wporg-gp-customizations/templates/style.css?ver=20200322' media='all' />
 <script src='https://translate.wordpress.org/wp-includes/js/hoverintent-js.min.js?ver=2.2.1'></script>
-<script src='https://translate.wordpress.org/wp-includes/js/admin-bar.min.js?ver=5.4-alpha-46887'></script>
+<script src='https://translate.wordpress.org/wp-includes/js/admin-bar.min.js?ver=5.5-alpha-47534'></script>
 <script src='https://translate.wordpress.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
 <script src='https://translate.wordpress.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <script src='https://translate.wordpress.org/wp-content/plugins/wporg-gp-customizations/templates/js/details-element-polyfill.min.js?ver=2.3.1'></script>
@@ -40,9 +40,18 @@
 
 <body id="wordpress-org" class="admin-bar no-customize-support wp-embed-responsive wporg-make make-polyglots no-js">
 <script type="text/javascript">document.body.className = document.body.className.replace('no-js','js');</script>
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://wordpress.org/about/'><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='https://wordpress.org/about/'>About WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://codex.wordpress.org/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-log-in'><a class='ab-item' href='https://login.wordpress.org/?redirect_to=https%3A%2F%2Ftranslate.wordpress.org%2Fprojects%2Fwp%2Fdev%2Ftwentyfourteen%2Fde%2Fformal%2Fexport-translations%2F&#038;locale=en_US'>Log In</a></li><li id='wp-admin-bar-register'><a class='ab-item' href='https://login.wordpress.org/register?locale=en_US'>Register</a></li><li id='wp-admin-bar-notes' class="menupop"><div class="ab-item ab-empty-item"><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-read">
+					<span class="noticon noticon-notification"></span>
+					</span></div><div id="wpnt-notes-panel2" class="intrinsic-ignore" style="display:none" lang="en" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header">Notifications</span><span class="wpnt-notes-panel-link"></span></div></div></li></ul>			</div>
+					</div>
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div id="wporg-header">
 	<div class="wrapper">
+
 		<h1><a href="//wordpress.org">WordPress.org</a></h1>				<div id="head-search">
 		<form action="//wordpress.org/search/do-search.php" method="get">
 			<label for="global-search" class="screen-reader-text">Search WordPress.org for:</label>
@@ -173,19 +182,11 @@
 			} );
 		} )( jQuery );
 	</script>
-	<script type='text/javascript' src='https://stats.wp.com/e-201950.js' async='async' defer='defer'></script>
+	<script type='text/javascript' src='https://stats.wp.com/e-202014.js' async='async' defer='defer'></script>
 <script type='text/javascript'>
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:7.9.1',blog:'124342649',post:'0',tz:'0',srv:'translate.wordpress.org'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:8.3',blog:'124342649',post:'0',tz:'0',srv:'translate.wordpress.org'} ]);
 	_stq.push([ 'clickTrackerInit', '124342649', '0' ]);
 </script>
-		<div id="wpadminbar" class="nojq nojs">
-							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
-						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
-				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://wordpress.org/about/'><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='https://wordpress.org/about/'>About WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://codex.wordpress.org/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-log-in'><a class='ab-item' href='https://login.wordpress.org/?redirect_to=https%3A%2F%2Ftranslate.wordpress.org%2Fprojects%2Fwp%2Fdev%2Ftwentyfourteen%2Fde%2Fformal%2Fexport-translations%2F&#038;locale=en_US'>Log In</a></li><li id='wp-admin-bar-register'><a class='ab-item' href='https://login.wordpress.org/register?locale=en_US'>Register</a></li><li id='wp-admin-bar-notes' class="menupop"><div class="ab-item ab-empty-item"><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-read">
-					<span class="noticon noticon-notification"></span>
-					</span></div><div id="wpnt-notes-panel2" style="display:none" lang="en" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header">Notifications</span><span class="wpnt-notes-panel-link"></span></div></div></li></ul>			</div>
-					</div>
-
-		</body>
+</body>
 </html>

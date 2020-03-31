@@ -1,15 +1,15 @@
-# Translation of WordPress - 5.3.x - Development - Administration - Network Admin in German
-# This file is distributed under the same license as the WordPress - 5.3.x - Development - Administration - Network Admin package.
+# Translation of WordPress - 5.4.x - Development - Administration - Network Admin in German
+# This file is distributed under the same license as the WordPress - 5.4.x - Development - Administration - Network Admin package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-10-04 23:08:29+0000\n"
+"PO-Revision-Date: 2020-03-05 11:51:33+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: GlotPress/2.4.0-alpha\n"
 "Language: de\n"
-"Project-Id-Version: WordPress - 5.3.x - Development - Administration - Network Admin\n"
+"Project-Id-Version: WordPress - 5.4.x - Development - Administration - Network Admin\n"
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:255
@@ -228,8 +228,8 @@ msgstr "Die Internetadresse deines Netzwerks wird %s sein."
 
 #. translators: 1: Site URL, 2: Host name, 3: www.
 #: wp-admin/includes/network.php:271
-msgid "We recommend you change your siteurl to %1$s before enabling the network feature. It will still be possible to visit your site using the %3$s prefix with an address like %2$s but any links will not have the %3$s prefix."
-msgstr "Wir empfehlen, dass du die URL deiner Website zu %1$s änderst, bevor du die Netzwerkfunktionalität aktivierst. Es wird weiterhin möglich sein, deine Website unter Verwendung des Präfix %3$s mit einer Adresse wie %2$s aufzurufen, aber kein Link wird das Präfix %3$s haben."
+msgid "We recommend you change your site domain to %1$s before enabling the network feature. It will still be possible to visit your site using the %3$s prefix with an address like %2$s but any links will not have the %3$s prefix."
+msgstr "Wir empfehlen, die Domain deiner Website zu %1$s zu ändern, bevor du die Netzwerkfunktionalität aktivierst. Es wird weiterhin möglich sein, deine Website unter Verwendung des Präfix %3$s mit einer Adresse wie %2$s aufzurufen, aber die Links werden kein Präfix %3$s haben."
 
 #: wp-admin/includes/network.php:226
 msgid "You cannot change this later."
@@ -374,12 +374,12 @@ msgstr "Du scheinst zurzeit keine Themes verfügbar zu haben."
 msgid "No themes found."
 msgstr "Keine Themes gefunden."
 
-#: wp-admin/includes/class-wp-ms-sites-list-table.php:704
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:705
 msgctxt "verb; site"
 msgid "Archive"
 msgstr "Archivieren"
 
-#: wp-admin/includes/class-wp-ms-sites-list-table.php:702
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:703
 msgid "Unarchive"
 msgstr "Wiederherstellen"
 
@@ -404,7 +404,7 @@ msgid "Last Updated"
 msgstr "Zuletzt aktualisiert"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:294
-#: wp-admin/includes/class-wp-ms-sites-list-table.php:708
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:709
 msgctxt "site"
 msgid "Not Spam"
 msgstr "Kein Spam"
@@ -429,7 +429,7 @@ msgid "Deleted"
 msgstr "Gelöscht"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:40
-#: wp-admin/includes/class-wp-ms-sites-list-table.php:710
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:711
 #: wp-admin/network/site-info.php:186
 msgctxt "site"
 msgid "Spam"
@@ -608,7 +608,7 @@ msgstr "Einstellungen für neue Registrierungen"
 
 #: wp-admin/network/settings.php:401
 msgid "Size in kilobytes"
-msgstr "Grösse in Kilobyte"
+msgstr "Größe in Kilobyte"
 
 #: wp-admin/network/settings.php:385
 msgid "Allowed file types. Separate types by spaces."
@@ -752,11 +752,6 @@ msgstr "Löschen ist eine permanente Aktion nach der Bestätigungsmeldung."
 #: wp-admin/network/sites.php:39
 msgid "Clicking on bold headings can re-sort this table."
 msgstr "Du kannst die fett gedruckten Kopfzeilen anklicken, um die Tabelle neu zu sortieren."
-
-#: wp-admin/network/themes.php:272 wp-admin/network/menu.php:81
-msgctxt "theme"
-msgid "Add New"
-msgstr "Neu hinzufügen"
 
 #: wp-admin/network/sites.php:30
 msgid "Add New takes you to the Add New Site screen. You can search for a site by Name, ID number, or IP address. Screen Options allows you to choose how many sites to display on one page."
@@ -909,8 +904,8 @@ msgid "Once you add this code and refresh your browser, multisite should be enab
 msgstr "Sobald du diesen Code hinzugefügt hast und deinen Browser neu lädst, sollte das Netzwerk aktiviert sein. Dieser Bereich zeigt nun das Netzwerk-Administrationsmenü und enthält eine Archivierung des zusätzlichen Codes. Du kannst zwischen der Netzwerk-Administration und Website-Administration wechseln durch Klicken auf &#8222;Netzwerkverwaltung&#8220; oder der individuellen Website unter dem &#8222;Meine Websites&#8220;-Aufklappmenü in der Werkzeugleiste."
 
 #: wp-admin/includes/network.php:157
-msgid "ERROR: The network could not be created."
-msgstr "FEHLER: Das Netzwerk konnte nicht erstellt werden."
+msgid "Error: The network could not be created."
+msgstr "Fehler: Das Netzwerk konnte nicht erstellt werden."
 
 #: wp-admin/includes/network.php:243
 msgid "Sub-directories"
@@ -1013,7 +1008,7 @@ msgstr "Aktivieren des Netzwerks"
 
 #: wp-admin/includes/network.php:424
 msgid "Please complete the configuration steps. To create a new network, you will need to empty or remove the network database tables."
-msgstr "Bitte schliesse die Schritte zur Einrichtung ab. Um ein neues Netzwerk anzulegen, musst du die Netzwerk-Datenbanktabellen leeren oder entfernen."
+msgstr "Bitte schließe die Schritte zur Einrichtung ab. Um ein neues Netzwerk anzulegen, musst du die Netzwerk-Datenbanktabellen leeren oder entfernen."
 
 #: wp-admin/includes/network.php:423
 msgid "An existing WordPress network was detected."
@@ -1074,7 +1069,7 @@ msgstr "Die Website-ID wird nur intern genutzt und wird nicht öffentlich angeze
 
 #: wp-admin/network/sites.php:35
 msgid "Deactivate, Archive, and Spam which lead to confirmation screens. These actions can be reversed later."
-msgstr "Deaktivieren, Archivieren und Spam. Deaktivieren entspricht dabei der Löschung der Website durch seinen Besitzer. Archivieren bietet die Möglichkeit, einen Blog vorübergehend nicht erreichbar zu machen und anschliessend wieder zu aktivieren. Spam markiert eine Website als Spam. Wobei all diese Aktionen wieder rückgängig gemacht werden können."
+msgstr "Deaktivieren, Archivieren und Spam. Deaktivieren entspricht dabei der Löschung der Website durch seinen Besitzer. Archivieren bietet die Möglichkeit, einen Blog vorübergehend nicht erreichbar zu machen und anschließend wieder zu aktivieren. Spam markiert eine Website als Spam. Wobei all diese Aktionen wieder rückgängig gemacht werden können."
 
 #: wp-admin/network/site-new.php:26
 msgid "If the admin email for the new site does not exist in the database, a new user will also be created."
@@ -1086,7 +1081,7 @@ msgstr "Die Netzwerk-Einstellungen beinhalten unter anderem die Einstellungen f�
 
 #: wp-admin/network/settings.php:54
 msgid "Upload settings control the size of the uploaded files and the amount of available upload space for each site. You can change the default value for specific sites when you edit a particular site. Allowed file types are also listed (space separated only)."
-msgstr "Die &#8222;Upload-Einstellungen&#8220; kontrollieren die Grösse von hochgeladenen Dateien und den insgesamt zur Verfügung stehenden Speicherplatz für Uploads für jede Website. Du kannst diesen Wert (Speicher-Quota) für eine spezifische Website ändern, indem du diese spezielle Website bearbeitest (unter: Netzwerkverwaltung > Websites > Bearbeiten > Einstellungen > ganz unten). Zugelassene Dateitypen können ebenfalls aufgelistet werden; jeweils durch Leerzeichen getrennt."
+msgstr "Die &#8222;Upload-Einstellungen&#8220; kontrollieren die Größe von hochgeladenen Dateien und den insgesamt zur Verfügung stehenden Speicherplatz für Uploads für jede Website. Du kannst diesen Wert (Speicher-Quota) für eine spezifische Website ändern, indem du diese spezielle Website bearbeitest (unter: Netzwerkverwaltung > Websites > Bearbeiten > Einstellungen > ganz unten). Zugelassene Dateitypen können ebenfalls aufgelistet werden; jeweils durch Leerzeichen getrennt."
 
 #: wp-admin/network/users.php:221
 msgid "The bulk action will permanently delete selected users, or mark/unmark those selected as spam. Spam users will have posts removed and will be unable to sign up again with the same email addresses."
@@ -1359,7 +1354,7 @@ msgstr "Standardsprache"
 
 #: wp-admin/network/settings.php:391
 msgid "Max upload file size"
-msgstr "Maximale Dateigrösse eines Uploads"
+msgstr "Maximale Dateigröße eines Uploads"
 
 #: wp-admin/network/settings.php:351
 msgid "First Comment URL"
