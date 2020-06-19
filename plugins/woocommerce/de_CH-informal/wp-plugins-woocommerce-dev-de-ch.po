@@ -49,7 +49,7 @@ msgstr "Oh oh ... Während der Installation der Jetpack und WooCommerce Dienste 
 
 #: packages/woocommerce-admin/src/Notes/WC_Admin_Notes_Install_JP_And_WCS_Plugins.php:51
 msgid "We noticed that there was a problem during the Jetpack and WooCommerce Services install. Please try again and enjoy all the advantages of having the plugins connected to your store! Sorry for the inconvenience. The \"Jetpack\" and \"WooCommerce Services\" plugins will be installed & activated for free."
-msgstr "Beim Installieren der Jetpack- und WooCommerce-Services ist ein Fehler aufgetreten. Bitte versuche es erneut und genieße alle Vorteile der Verbindung der Plugins mit deinem Shop! Wir entschuldigen uns für die Unannehmlichkeiten. Die Plugins „Jetpack“ und „WooCommerce Services“ werden kostenlose installiert und aktiviert."
+msgstr "Beim Installieren der Jetpack- und WooCommerce-Services ist ein Fehler aufgetreten. Bitte versuche es erneut und geniesse alle Vorteile der Verbindung der Plugins mit deinem Shop! Wir entschuldigen uns für die Unannehmlichkeiten. Die Plugins „Jetpack“ und „WooCommerce Services“ werden kostenlose installiert und aktiviert."
 
 #: packages/woocommerce-admin/src/Notes/WC_Admin_Notes_Marketing.php:53
 msgid "Open marketing hub"
@@ -380,7 +380,7 @@ msgstr "Shop-Einrichtung überspringen"
 
 #: packages/woocommerce-admin/dist/wp-admin-scripts/print-shipping-label-banner.js:5267
 msgid "Close Print Label Banner."
-msgstr "Banner „Etikett ausdrucken“ schließen."
+msgstr "Banner „Etikett ausdrucken“ schliessen."
 
 #: packages/woocommerce-admin/dist/wp-admin-scripts/print-shipping-label-banner.js:5260
 msgid "Create shipping label"
@@ -1003,7 +1003,7 @@ msgstr "%1$s &lsaquo; %2$s &#8211; WooCommerce"
 
 #: packages/woocommerce-admin/dist/app/index.js:7121
 msgid "Close Activity Panel"
-msgstr "Bereich „Aktivität“ schließen"
+msgstr "Bereich „Aktivität“ schliessen"
 
 #: packages/woocommerce-admin/dist/app/index.js:7112
 msgid "Store Activity"
@@ -1035,7 +1035,7 @@ msgstr "Deine Kunden haben noch nicht damit begonnen, deine Produkte zu bewerten
 
 #: packages/woocommerce-admin/dist/chunks/activity-panels-inbox.99246a03e7b8aa1b8b26.js:1166
 msgid "Awesome, you've moderated all of your product reviews. How about responding to some of those negative reviews?"
-msgstr "Großartig, du hast alle deine Produktbewertungen moderiert. Was hältst du davon, auf einige der negativen Bewertungen zu antworten?"
+msgstr "Grossartig, du hast alle deine Produktbewertungen moderiert. Was hältst du davon, auf einige der negativen Bewertungen zu antworten?"
 
 #: packages/woocommerce-admin/dist/chunks/activity-panels-inbox.99246a03e7b8aa1b8b26.js:1165
 msgid "View all Reviews"
@@ -1438,7 +1438,7 @@ msgstr "Wenn du fertig bist, ist dein Shop bereit für den Start – spannend!"
 
 #: packages/woocommerce-admin/dist/chunks/task-list.52fe0e41a24d55f1b9b1.js:5891
 msgid "Based on the information you provided we’ve prepared some final set up tasks for you to perform."
-msgstr "Wir haben anhand deiner Informationen einige abschließende Einrichtungsaufgaben für dich vorbereitet."
+msgstr "Wir haben anhand deiner Informationen einige abschliessende Einrichtungsaufgaben für dich vorbereitet."
 
 #: packages/woocommerce-admin/dist/chunks/task-list.52fe0e41a24d55f1b9b1.js:5882
 msgid "Woo hoo - you're almost there!"
@@ -1625,7 +1625,7 @@ msgstr "Jetpack und WooCommerce-Dienste installieren"
 
 #: packages/woocommerce-admin/dist/chunks/task-list.52fe0e41a24d55f1b9b1.js:2859
 msgid "You're awesome! One less item on your to-do list ✅"
-msgstr "Du bist großartig! Ein Eintrag weniger auf deiner To-do-Liste ✅"
+msgstr "Du bist grossartig! Ein Eintrag weniger auf deiner To-do-Liste ✅"
 
 #: packages/woocommerce-admin/dist/chunks/task-list.52fe0e41a24d55f1b9b1.js:2867
 msgid "There was a problem updating your tax settings."
@@ -1724,7 +1724,7 @@ msgstr "Migrieren"
 
 #: packages/woocommerce-admin/dist/chunks/task-list.52fe0e41a24d55f1b9b1.js:1625
 msgid "For larger stores we recommend importing all products at once via CSV file"
-msgstr "Für größere Shops empfehlen wir, alle Produkte gleichzeitig über eine CSV-Datei zu importieren"
+msgstr "Für grössere Shops empfehlen wir, alle Produkte gleichzeitig über eine CSV-Datei zu importieren"
 
 #: packages/woocommerce-admin/dist/chunks/task-list.52fe0e41a24d55f1b9b1.js:1610
 msgid "For small stores we recommend adding products manually"
@@ -1832,7 +1832,7 @@ msgstr "%s — %s pro Jahr"
 #: packages/woocommerce-admin/dist/chunks/vendors~profile-wizard~task-list.114a8214ba34dbd3c0f0.js:340
 #: packages/woocommerce-admin/dist/wp-admin-scripts/print-shipping-label-banner.js:5792
 msgid "Close dialog"
-msgstr "Dialog schließen"
+msgstr "Dialog schliessen"
 
 #: packages/woocommerce-admin/dist/app/index.js:12046
 msgid "Dismiss this notice"
@@ -2050,7 +2050,7 @@ msgstr "Ausgeschlossene Status:"
 #: packages/woocommerce-admin/dist/app/index.js:11248
 #: packages/woocommerce-admin/dist/app/index.js:11270
 msgid "Exclude the %s status from reports"
-msgstr "Status %s aus Berichten ausschließen"
+msgstr "Status %s aus Berichten ausschliessen"
 
 #: packages/woocommerce-admin/dist/chunks/analytics-report-customers.86adf07632d91914c6c6.js:709
 msgid "Search by customer name"
@@ -3305,7 +3305,7 @@ msgstr "Spalten für geplante Aktionen"
 
 #: packages/action-scheduler/classes/ActionScheduler_AdminView.php:131
 msgid "Action Scheduler is a scalable, traceable job queue for background processing large sets of actions. Action Scheduler works by triggering an action hook to run at some time in the future. Scheduled actions can also be scheduled to run on a recurring schedule."
-msgstr "Der Aktionsplaner ist eine skalierbare, nachverfolgbare Job-Warteschlange für die Verarbeitung großer Sätze von Aktionen im Hintergrund. Der Aktionsplaner löst einen Action-Hook aus, der zu einem zukünftigen Zeitpunkt ausgeführt wird. Geplante Aktionen können auch mit einem wiederkehrenden Zeitplan ausgeführt werden."
+msgstr "Der Aktionsplaner ist eine skalierbare, nachverfolgbare Job-Warteschlange für die Verarbeitung grosser Sätze von Aktionen im Hintergrund. Der Aktionsplaner löst einen Action-Hook aus, der zu einem zukünftigen Zeitpunkt ausgeführt wird. Geplante Aktionen können auch mit einem wiederkehrenden Zeitplan ausgeführt werden."
 
 #: packages/action-scheduler/classes/ActionScheduler_AdminView.php:129
 msgid "About Action Scheduler %s"
@@ -3601,7 +3601,7 @@ msgstr "Abonnement verlängern"
 #. translators: date the subscription expired, e.g. Jun 7th 2018
 #: packages/woocommerce-admin/src/Notes/WC_Admin_Notes_Woo_Subscriptions_Notes.php:382
 msgid "Your subscription expired on %s. Get a new subscription to continue receiving updates and access to support."
-msgstr "Dein Abonnement ist am %s abgelaufen. Schließe ein neues Abonnement ab, um weiterhin Updates und Zugang zum Support zu erhalten."
+msgstr "Dein Abonnement ist am %s abgelaufen. Schliesse ein neues Abonnement ab, um weiterhin Updates und Zugang zum Support zu erhalten."
 
 #. translators: name of the extension subscription that expired
 #: packages/woocommerce-admin/src/Notes/WC_Admin_Notes_Woo_Subscriptions_Notes.php:376
@@ -3811,7 +3811,7 @@ msgstr "Einkaufen gehen"
 #: packages/woocommerce-admin/src/API/OnboardingTasks.php:196
 #: packages/woocommerce-admin/src/API/OnboardingTasks.php:211
 msgid "Write a short welcome message here"
-msgstr "Schreibe hier eine kurze Begrüßungsnachricht"
+msgstr "Schreibe hier eine kurze Begrüssungsnachricht"
 
 #: packages/woocommerce-admin/src/API/OnboardingTasks.php:192
 #: packages/woocommerce-admin/src/API/OnboardingTasks.php:207
@@ -4140,7 +4140,7 @@ msgstr "Schränke die Reaktion auf Objekte mit durchschnittlichen Bestellungsaus
 #: packages/woocommerce-admin/src/API/Reports/Customers/Controller.php:528
 #: packages/woocommerce-admin/src/API/Reports/Customers/Stats/Controller.php:331
 msgid "Limit response to objects with an average order spend greater than or equal to given number."
-msgstr "Schränke die Reaktion auf Objekte mit durchschnittlichen Bestellungsausgaben größer oder gleich einer bestimmten Zahl ein."
+msgstr "Schränke die Reaktion auf Objekte mit durchschnittlichen Bestellungsausgaben grösser oder gleich einer bestimmten Zahl ein."
 
 #: packages/woocommerce-admin/src/API/Reports/Customers/Controller.php:523
 #: packages/woocommerce-admin/src/API/Reports/Customers/Stats/Controller.php:326
@@ -4155,7 +4155,7 @@ msgstr "Schränke die Reaktion auf Objekte mit Gesamt-Bestellungsausgaben kleine
 #: packages/woocommerce-admin/src/API/Reports/Customers/Controller.php:513
 #: packages/woocommerce-admin/src/API/Reports/Customers/Stats/Controller.php:316
 msgid "Limit response to objects with a total order spend greater than or equal to given number."
-msgstr "Schränke die Reaktion auf Objekte mit Gesamt-Bestellungsausgaben größer oder gleich einer bestimmten Zahl ein."
+msgstr "Schränke die Reaktion auf Objekte mit Gesamt-Bestellungsausgaben grösser oder gleich einer bestimmten Zahl ein."
 
 #: packages/woocommerce-admin/src/API/Reports/Customers/Controller.php:508
 #: packages/woocommerce-admin/src/API/Reports/Customers/Stats/Controller.php:311
@@ -4170,7 +4170,7 @@ msgstr "Schränke die Reaktion auf Objekte mit einem Bestellungszähler kleiner 
 #: packages/woocommerce-admin/src/API/Reports/Customers/Controller.php:496
 #: packages/woocommerce-admin/src/API/Reports/Customers/Stats/Controller.php:299
 msgid "Limit response to objects with an order count greater than or equal to given integer."
-msgstr "Schränke die Reaktion auf Objekte mit einem Bestellungszähler größer oder gleich einer bestimmten Ganzzahl ein."
+msgstr "Schränke die Reaktion auf Objekte mit einem Bestellungszähler grösser oder gleich einer bestimmten Ganzzahl ein."
 
 #: packages/woocommerce-admin/src/API/Reports/Customers/Controller.php:474
 #: packages/woocommerce-admin/src/API/Reports/Customers/Controller.php:491
@@ -4207,7 +4207,7 @@ msgstr "Schränke die Reaktion auf Objekte unter Ausschluss von E-Mails ein."
 #: packages/woocommerce-admin/src/API/Reports/Customers/Controller.php:442
 #: packages/woocommerce-admin/src/API/Reports/Customers/Stats/Controller.php:245
 msgid "Limit response to objects including emails."
-msgstr "Schränke die Reaktion auf Objekte einschließlich E-Mails ein."
+msgstr "Schränke die Reaktion auf Objekte einschliesslich E-Mails ein."
 
 #: packages/woocommerce-admin/src/API/Reports/Customers/Controller.php:437
 #: packages/woocommerce-admin/src/API/Reports/Customers/Stats/Controller.php:240
@@ -4394,7 +4394,7 @@ msgstr "Schränke die Ergebnisse auf Gutscheine ein, denen bestimmte Gutschein-I
 
 #: packages/woocommerce-admin/src/API/Reports/Coupons/Stats/Controller.php:162
 msgid "Number of discounted orders."
-msgstr "Anzahl der ermäßigten Bestellungen."
+msgstr "Anzahl der ermässigten Bestellungen."
 
 #: packages/woocommerce-admin/src/API/Reports/Coupons/Stats/Controller.php:161
 #: packages/woocommerce-admin/dist/chunks/analytics-report-coupons.43d42c8cb52eecf8abdf.js:1477
@@ -4762,7 +4762,7 @@ msgstr "Nettoumsatz insgesamt."
 
 #: packages/woocommerce-admin/src/API/Reports/Orders/Controller.php:190
 msgid "Date the order was created, as GMT."
-msgstr "Das Datum, an dem die Bestellung erstellt wurde, gemäß GMT."
+msgstr "Das Datum, an dem die Bestellung erstellt wurde, gemäss GMT."
 
 #: packages/woocommerce-admin/src/API/Reports/Orders/Controller.php:184
 msgid "Date the order was created, in the site's timezone."
@@ -4873,7 +4873,7 @@ msgstr "Zeitintervall für Buckets in den ausgegebenen Daten."
 #: packages/woocommerce-admin/src/API/Reports/Orders/Stats/Controller.php:303
 #: packages/woocommerce-admin/src/API/Reports/Products/Stats/Controller.php:264
 msgid "The date the report end, as GMT."
-msgstr "Das Datum, an dem der Bericht endet, gemäß GMT."
+msgstr "Das Datum, an dem der Bericht endet, gemäss GMT."
 
 #: packages/woocommerce-admin/src/API/Reports/Coupons/Stats/Controller.php:239
 #: packages/woocommerce-admin/src/API/Reports/Revenue/Stats/Controller.php:325
@@ -4891,7 +4891,7 @@ msgstr "Das Datum, an dem der Bericht endet, in der Zeitzone der Website."
 #: packages/woocommerce-admin/src/API/Reports/Orders/Stats/Controller.php:291
 #: packages/woocommerce-admin/src/API/Reports/Products/Stats/Controller.php:252
 msgid "The date the report start, as GMT."
-msgstr "Das Datum, an dem der Bericht beginnt, gemäß GMT."
+msgstr "Das Datum, an dem der Bericht beginnt, gemäss GMT."
 
 #: packages/woocommerce-admin/src/API/Reports/Coupons/Stats/Controller.php:227
 #: packages/woocommerce-admin/src/API/Reports/Revenue/Stats/Controller.php:313
@@ -5622,7 +5622,7 @@ msgstr "Fehler beim Herunterladen der MaxMind-Datenbank."
 
 #: includes/integrations/maxmind-geolocation/views/html-admin-options.php:21
 msgid "The location that the MaxMind database should be stored. By default, the integration will automatically save the database here."
-msgstr "Der Ort, an dem die MaxMind-Datenbank gespeichert werden soll. Standardmäßig speichert die Integration die Datenbank hier automatisch."
+msgstr "Der Ort, an dem die MaxMind-Datenbank gespeichert werden soll. Standardmässig speichert die Integration die Datenbank hier automatisch."
 
 #: includes/integrations/maxmind-geolocation/views/html-admin-options.php:15
 #: includes/integrations/maxmind-geolocation/views/html-admin-options.php:19
@@ -5888,7 +5888,7 @@ msgstr "Klein"
 #: packages/woocommerce-blocks/build/active-filters-frontend.js:6
 #: packages/woocommerce-blocks/build/active-filters.js:1
 msgid "Size"
-msgstr "Größe"
+msgstr "Grösse"
 
 #. translators: %s: A given revenue amount, e.g., $2500
 #. translators: %s max price
@@ -6289,7 +6289,7 @@ msgstr "Das WordPress-Banner kann so schön sein! Dekoriere damit dein Büro ode
 
 #: packages/woocommerce-blocks/src/RestApi/Controllers/Products.php:394
 msgid "Thumbnail sizes for responsive images."
-msgstr "Größe des Vorschaubildes bei responsiven Bildern."
+msgstr "Grösse des Vorschaubildes bei responsiven Bildern."
 
 #: packages/woocommerce-blocks/src/RestApi/Controllers/Products.php:389
 msgid "Thumbnail srcset for responsive images."
@@ -6423,7 +6423,7 @@ msgstr "Wenn dieses Attribut Begriffsarchivseiten aufweist"
 
 #: packages/woocommerce-blocks/src/RestApi/StoreApi/Schemas/ProductAttributeSchema.php:57
 msgid "How terms in this attribute are sorted by default."
-msgstr "Wie Begriffe in diesem Attribut standardmäßig sortiert werden"
+msgstr "Wie Begriffe in diesem Attribut standardmässig sortiert werden"
 
 #: packages/woocommerce-blocks/src/RestApi/StoreApi/Schemas/ProductAttributeSchema.php:51
 msgid "Attribute type."
@@ -6472,7 +6472,7 @@ msgstr "Gesamtpreis aller Produkte im Warenkorb"
 
 #: packages/woocommerce-blocks/src/RestApi/StoreApi/Schemas/CartSchema.php:57
 msgid "True if the cart needs shipping. False for carts with only digital goods or stores with no shipping methods set-up."
-msgstr "„Wahr“, wenn Warenkorb versendet werden muss. „Falsch“ bei Warenkörben mit ausschließlich digitalen Waren oder Shops, für die keine Versandmethoden eingerichtet wurden."
+msgstr "„Wahr“, wenn Warenkorb versendet werden muss. „Falsch“ bei Warenkörben mit ausschliesslich digitalen Waren oder Shops, für die keine Versandmethoden eingerichtet wurden."
 
 #: packages/woocommerce-blocks/src/RestApi/StoreApi/Schemas/CartSchema.php:47
 msgid "List of cart items."
@@ -10182,7 +10182,7 @@ msgstr "Schlagwörter (mit Komma getrennt)"
 
 #: includes/admin/settings/views/settings-tax.php:67
 msgid "List additional tax classes you need below (1 per line, e.g. Reduced Rates). These are in addition to \"Standard rate\" which exists by default."
-msgstr "Führe zusätzliche Steuerklassen, die du benötigst, unten auf (1 pro Zeile, z. B. „Reduzierte Preise“). Diese gelten zusätzlich zum „Standardpreis“, der standardmäßig vorhanden ist."
+msgstr "Führe zusätzliche Steuerklassen, die du benötigst, unten auf (1 pro Zeile, z. B. „Reduzierte Preise“). Diese gelten zusätzlich zum „Standardpreis“, der standardmässig vorhanden ist."
 
 #: includes/admin/settings/class-wc-settings-accounts.php:85
 msgid "When creating an account, automatically generate an account username for the customer based on their name, surname or email"
@@ -10330,7 +10330,7 @@ msgstr "wir haben deine Bestellung abgeschlossen."
 #. translators: %s opening and closing link tags respectively
 #: templates/single-product-reviews.php:120
 msgid "You must be %1$slogged in%2$s to post a review."
-msgstr "Du mußt %1$sangemeldet%2$s sein, um eine Bewertung abgeben zu können."
+msgstr "Du musst %1$sangemeldet%2$s sein, um eine Bewertung abgeben zu können."
 
 #. translators: %1$s: Order number, %2$s: Customer full name.
 #. translators: %1$s: Order number. %2$s: Customer full name
@@ -10475,7 +10475,7 @@ msgstr "Facebook-Symbol"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:2103
 msgid "Enjoy all Facebook products combined in one extension: pixel tracking, catalog sync, messenger chat, shop functionality and Instagram shopping (coming soon)!"
-msgstr "Genieße alle Facebook-Produkte in einer Erweiterung: Pixel-Tracking, Katalogsynchronisierung, Messenger-Chat, Shop-Funktionalität und Instagram-Shopping (Erscheint bald)!"
+msgstr "Geniesse alle Facebook-Produkte in einer Erweiterung: Pixel-Tracking, Katalogsynchronisierung, Messenger-Chat, Shop-Funktionalität und Instagram-Shopping (Erscheint bald)!"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:2102
 msgid "Facebook"
@@ -10503,7 +10503,7 @@ msgstr "Fügt auf dem Bestellbildschirm eine Option hinzu, personenbezogene Date
 
 #: includes/admin/settings/class-wc-settings-accounts.php:123
 msgid "Allow personal data to be removed in bulk from orders"
-msgstr "Erlaube es, personenbezogene Daten in großen Mengen aus Bestellungen zu entfernen"
+msgstr "Erlaube es, personenbezogene Daten in grossen Mengen aus Bestellungen zu entfernen"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:122
 msgid "Personal data removal"
@@ -11552,7 +11552,7 @@ msgstr "Vielen Dank!"
 
 #: includes/emails/class-wc-email-customer-on-hold-order.php:142
 msgid "We look forward to fulfilling your order soon."
-msgstr "Wir freuen uns darauf, deine Bestellung bald abzuschließen."
+msgstr "Wir freuen uns darauf, deine Bestellung bald abzuschliessen."
 
 #: templates/emails/customer-on-hold-order.php:27
 #: templates/emails/plain/customer-on-hold-order.php:26
@@ -11833,7 +11833,7 @@ msgstr "Wenn du eine Vorlagendatei kopiert hast, um etwas zu ändern, musst du d
 #: packages/woocommerce-rest-api/src/Controllers/Version3/class-wc-rest-product-reviews-controller.php:900
 #: packages/woocommerce-blocks/src/RestApi/Controllers/ProductReviews.php:353
 msgid "Avatar URL with image size of %d pixels."
-msgstr "Avatar-URL mit einer Bildgröße von %d Pixeln."
+msgstr "Avatar-URL mit einer Bildgrösse von %d Pixeln."
 
 #: packages/woocommerce-rest-api/src/Controllers/Version3/class-wc-rest-product-reviews-controller.php:854
 msgid "Status of the review."
@@ -12148,7 +12148,7 @@ msgstr "eCheck endet auf %1$s"
 #. translators: %s: URL
 #: includes/gateways/paypal/includes/settings-paypal.php:58
 msgid "Log PayPal events, such as IPN requests, inside %s Note: this may log personal information. We recommend using this for debugging purposes only and deleting the logs when finished."
-msgstr "Protokolliere PayPal-Ereignisse wie IPN-Anfragen in %s Hinweis: Dabei können personenbezogene Informationen protokolliert werden. Wir empfehlen, diese ausschließlich zum Debuggen zu verwenden und die Protokolle anschließend zu löschen."
+msgstr "Protokolliere PayPal-Ereignisse wie IPN-Anfragen in %s Hinweis: Dabei können personenbezogene Informationen protokolliert werden. Wir empfehlen, diese ausschliesslich zum Debuggen zu verwenden und die Protokolle anschliessend zu löschen."
 
 #: includes/class-wc-privacy.php:115
 msgid "Please see the <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\">PayPal Privacy Policy</a> for more details."
@@ -12156,7 +12156,7 @@ msgstr "Hier kannst du dir die <a href=\"https://www.paypal.com/us/webapps/mpp/u
 
 #: includes/class-wc-privacy.php:114
 msgid "We accept payments through PayPal. When processing payments, some of your data will be passed to PayPal, including information required to process or support the payment, such as the purchase total and billing information."
-msgstr "Wir akzeptieren Zahlungen mit PayPal. Bei der Zahlungsabwicklung werden einige deiner Daten an PayPal weitergegeben. Hierbei werden ausschließlich erforderliche Informationen für die Verarbeitung oder Durchführung der Zahlung weitergegeben wie beispielsweise Gesamtkaufpreis und Zahlungsinformationen."
+msgstr "Wir akzeptieren Zahlungen mit PayPal. Bei der Zahlungsabwicklung werden einige deiner Daten an PayPal weitergegeben. Hierbei werden ausschliesslich erforderliche Informationen für die Verarbeitung oder Durchführung der Zahlung weitergegeben wie beispielsweise Gesamtkaufpreis und Zahlungsinformationen."
 
 #: includes/class-wc-privacy.php:112
 msgid "In this subsection you should list which third party payment processors you’re using to take payments on your store since these may handle customer data. We’ve included PayPal as an example, but you should remove this if you’re not using PayPal."
@@ -12737,7 +12737,7 @@ msgstr "Alle aktiven Sitzungen gelöscht und %d gespeicherte Warenkörbe."
 
 #: packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php:167
 msgid "This tool will delete all customer session data from the database, including current carts and saved carts in the database."
-msgstr "Dieses Werkzeug löscht alle Sitzungsdaten der Kunden aus der Datenbank, einschließlich aktueller Warenkörbe und in der Datenbank gespeicherter Warenkörbe."
+msgstr "Dieses Werkzeug löscht alle Sitzungsdaten der Kunden aus der Datenbank, einschliesslich aktueller Warenkörbe und in der Datenbank gespeicherter Warenkörbe."
 
 #: packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-product-variations-v2-controller.php:159
 msgid "Parent product does not match current variation."
@@ -13523,21 +13523,21 @@ msgstr "Profil &rarr;"
 
 #: includes/customizer/class-wc-shop-customizer.php:592
 msgid "Image size used for products in the catalog."
-msgstr "Bildgröße für Produkte im Katalog verwendet."
+msgstr "Bildgrösse für Produkte im Katalog verwendet."
 
 #. translators: %s: regen thumbs url
 #: includes/customizer/class-wc-shop-customizer.php:535
 msgid "After publishing your changes, new image sizes may not be shown until you <a href=\"%s\" target=\"_blank\">Regenerate Thumbnails</a>."
-msgstr "Nach dem Veröffentlichen deiner Änderungen werden neue Bildgrößen möglicherweise erst angezeigt, wenn du <a href=\"%s\" target=\"_blank\">Vorschaubilder neu generierst</a>."
+msgstr "Nach dem Veröffentlichen deiner Änderungen werden neue Bildgrössen möglicherweise erst angezeigt, wenn du <a href=\"%s\" target=\"_blank\">Vorschaubilder neu generierst</a>."
 
 #. translators: 1: tools URL 2: regen thumbs url
 #: includes/customizer/class-wc-shop-customizer.php:532
 msgid "After publishing your changes, new image sizes may not be shown until you regenerate thumbnails. You can do this from the <a href=\"%1$s\" target=\"_blank\">tools section in WooCommerce</a> or by using a plugin such as <a href=\"%2$s\" target=\"_blank\">Regenerate Thumbnails</a>."
-msgstr "Nach dem Veröffentlichen deiner Änderungen werden neue Bildgrößen möglicherweise erst angezeigt, wenn du Vorschaubilder neu generierst. Du kannst das über den <a href=\"%1$s\" target=\"_blank\">Werkzeug-Bereich in WooCommerce</a> oder mithilfe eines Plugins wie <a href=\"%2$s\" target=\"_blank\">Regenerate Thumbnails</a>."
+msgstr "Nach dem Veröffentlichen deiner Änderungen werden neue Bildgrössen möglicherweise erst angezeigt, wenn du Vorschaubilder neu generierst. Du kannst das über den <a href=\"%1$s\" target=\"_blank\">Werkzeug-Bereich in WooCommerce</a> oder mithilfe eines Plugins wie <a href=\"%2$s\" target=\"_blank\">Regenerate Thumbnails</a>."
 
 #: includes/customizer/class-wc-shop-customizer.php:529
 msgid "After publishing your changes, new image sizes will be generated automatically."
-msgstr "Nach dem Veröffentlichen deiner Änderungen werden neue Bildgrößen automatisch neu generiert."
+msgstr "Nach dem Veröffentlichen deiner Änderungen werden neue Bildgrössen automatisch neu generiert."
 
 #: includes/class-wc-regenerate-images.php:161
 msgid "Cancelled product image regeneration job."
@@ -13724,7 +13724,7 @@ msgstr "Vorschaubild-Breite"
 
 #: includes/customizer/class-wc-shop-customizer.php:564
 msgid "Image size used for the main image on single product pages. These images will remain uncropped."
-msgstr "Bildgröße für das Hauptbild auf einzelnen Produktseiten. Diese Bilder bleiben unbearbeitet."
+msgstr "Bildgrösse für das Hauptbild auf einzelnen Produktseiten. Diese Bilder bleiben unbearbeitet."
 
 #: includes/customizer/class-wc-shop-customizer.php:563
 msgid "Main image width"
@@ -13755,7 +13755,7 @@ msgstr "Produkte pro Reihe"
 
 #: includes/customizer/class-wc-shop-customizer.php:439
 msgid "How should products be sorted in the catalog by default?"
-msgstr "Wie sollen Produkte standardmäßig im Katalog sortiert sein?"
+msgstr "Wie sollen Produkte standardmässig im Katalog sortiert sein?"
 
 #: includes/customizer/class-wc-shop-customizer.php:413
 msgid "Choose what to display on product category pages."
@@ -14086,7 +14086,7 @@ msgstr "&#8222;%s&#8220; in den Papierkorb verschieben"
 
 #: includes/admin/class-wc-admin-attributes.php:388
 msgid "Attributes let you define extra product data, such as size or color. You can use these attributes in the shop sidebar using the \"layered nav\" widgets."
-msgstr "Mithilfe von Attributen kannst du zusätzliche Produktdaten wie Größe oder Farbe definieren. Du kannst diese Attribute in der Shop-Seitenleiste mit den „Layered Nav“-Widgets verwenden."
+msgstr "Mithilfe von Attributen kannst du zusätzliche Produktdaten wie Grösse oder Farbe definieren. Du kannst diese Attribute in der Shop-Seitenleiste mit den „Layered Nav“-Widgets verwenden."
 
 #: includes/admin/class-wc-admin-attributes.php:260
 #: includes/admin/class-wc-admin-attributes.php:436
@@ -14453,7 +14453,7 @@ msgstr "Neue Zahlungsmethoden können nur während der Kaufabwicklung hinzugefü
 
 #: includes/wc-core-functions.php:361
 msgid "Belarusian ruble (old)"
-msgstr "Weißrussischer Rubel (alt)"
+msgstr "Weissrussischer Rubel (alt)"
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:360
 msgid "This key is invalid or has already been used. Please reset your password again if needed."
@@ -14591,7 +14591,7 @@ msgstr "Shop-Überwachung"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:2352
 msgid "Get insights on how your store is doing, including total sales, top products, and more."
-msgstr "Erhalte Einblicke in die Entwicklung deines Shops, einschließlich des Gesamtumsatzes, der Top-Produkte und vieles mehr."
+msgstr "Erhalte Einblicke in die Entwicklung deines Shops, einschliesslich des Gesamtumsatzes, der Top-Produkte und vieles mehr."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:2349
 msgid "Store stats"
@@ -14708,7 +14708,7 @@ msgstr "Shop Konfiguration"
 #. translators: %s: $key Key to check
 #: includes/abstracts/abstract-wc-data.php:314
 msgid "Generic add/update/get meta methods should not be used for internal meta data, including \"%s\". Use getters and setters."
-msgstr "Generische add/update/get meta-Methoden sollten nicht für interne Metadaten verwendet werden, einschließlich \"%s\". Verwende Getter und Setter."
+msgstr "Generische add/update/get meta-Methoden sollten nicht für interne Metadaten verwendet werden, einschliesslich \"%s\". Verwende Getter und Setter."
 
 #: includes/widgets/class-wc-widget-top-rated-products.php:24
 msgid "Products by Rating"
@@ -14913,15 +14913,15 @@ msgstr "Inhaltstypen-Anzahl"
 
 #: includes/admin/views/html-admin-page-status-report.php:540
 msgid "Database Index Size"
-msgstr "Datenbank-Indexgröße"
+msgstr "Datenbank-Indexgrösse"
 
 #: includes/admin/views/html-admin-page-status-report.php:534
 msgid "Database Data Size"
-msgstr "Datenbank-Datengröße"
+msgstr "Datenbank-Datengrösse"
 
 #: includes/admin/views/html-admin-page-status-report.php:528
 msgid "Total Database Size"
-msgstr "Datenbank-Gesamtgröße "
+msgstr "Datenbank-Gesamtgrösse "
 
 #. Translators: %s: function name.
 #: includes/admin/views/html-admin-page-status-report.php:455
@@ -14932,7 +14932,7 @@ msgstr "%s ist fehlgeschlagen. Kontaktiere deinen Webhosting-Anbieter."
 #. translators: 1: X-Accel-Redirect 2: X-Sendfile 3: mod_xsendfile
 #: includes/admin/settings/class-wc-settings-products.php:223
 msgid "Forcing downloads will keep URLs hidden, but some servers may serve large files unreliably. If supported, %1$s / %2$s can be used to serve downloads instead (server requires %3$s)."
-msgstr "Das Erzwingen von Downloads wird die URLs verstecken, allerdings können einige Server große Dateien nur unzuverlässig verarbeiten. Wenn unterstützt, kann %1$s / %2$s verwendet werden, um Downloads zu unterstützen (Server benötigt %3$s)."
+msgstr "Das Erzwingen von Downloads wird die URLs verstecken, allerdings können einige Server grosse Dateien nur unzuverlässig verarbeiten. Wenn unterstützt, kann %1$s / %2$s verwendet werden, um Downloads zu unterstützen (Server benötigt %3$s)."
 
 #: includes/admin/settings/class-wc-settings-general.php:91
 msgid "The postal code, if any, in which your business is located."
@@ -14952,7 +14952,7 @@ msgstr "Eine zusätzliche, optionale Adresszeile für deinen Geschäftssitz."
 
 #: includes/admin/settings/class-wc-settings-general.php:55
 msgid "The street address for your business location."
-msgstr "Die Straßenadresse für deinen Geschäftssitz."
+msgstr "Die Strassenadresse für deinen Geschäftssitz."
 
 #: includes/admin/settings/class-wc-settings-general.php:49
 msgid "This is where your business is located. Tax rates and shipping rates will use this address."
@@ -14968,7 +14968,7 @@ msgstr "Jetzt aktualisieren"
 
 #: includes/admin/plugin-updates/views/html-notice-untested-extensions-modal.php:44
 msgid "As this is a major update, we strongly recommend creating a backup of your site before updating."
-msgstr "Da dies ein größeres Update ist, empfehlen wir dringend, vor der Aktualisierung eine Sicherungskopie der Website zu erstellen."
+msgstr "Da dies ein grösseres Update ist, empfehlen wir dringend, vor der Aktualisierung eine Sicherungskopie der Website zu erstellen."
 
 #. translators: %s: version number
 #: includes/admin/plugin-updates/views/html-notice-untested-extensions-modal.php:14
@@ -14977,7 +14977,7 @@ msgstr "Folgende(s) aktive Plugin(s) hat noch keine Kompatibilität mit WooComme
 
 #: includes/admin/plugin-updates/views/html-notice-untested-extensions-modal.php:21
 msgid "This is a major update, are you sure you're ready?"
-msgstr "Das ist ein größeres Update, bist du sicher, dass du bereit bist?"
+msgstr "Das ist ein grösseres Update, bist du sicher, dass du bereit bist?"
 
 #: includes/admin/plugin-updates/views/html-notice-untested-extensions-modal.php:30
 #: includes/admin/plugin-updates/views/html-notice-untested-extensions-inline.php:19
@@ -15683,7 +15683,7 @@ msgstr "Alle Produkte"
 #. translators: use local order of street name and house number.
 #: includes/class-wc-countries.php:690
 msgid "House number and street name"
-msgstr "Straßenname und Hausnummer"
+msgstr "Strassenname und Hausnummer"
 
 #: includes/class-wc-ajax.php:2043
 msgid "API Key generated successfully. Make sure to copy your new keys now as the secret key will be hidden once you leave this page."
@@ -16473,7 +16473,7 @@ msgstr "MySQL Version."
 
 #: packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-system-status-v2-controller.php:209
 msgid "Max upload size."
-msgstr "Maximale Uploadgröße."
+msgstr "Maximale Uploadgrösse."
 
 #: packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-system-status-v2-controller.php:197
 msgid "cURL version."
@@ -16485,7 +16485,7 @@ msgstr "PHP max input vars."
 
 #: packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-system-status-v2-controller.php:179
 msgid "PHP post max size."
-msgstr "PHP max. post Größe."
+msgstr "PHP max. post Grösse."
 
 #: packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-system-status-v2-controller.php:173
 msgid "PHP version."
@@ -16776,7 +16776,7 @@ msgstr "Das Datum, an dem der Gutscheine zuletzt geändert wurde, als GMT."
 #. translators: WooCommerce dimension unit
 #: includes/admin/meta-boxes/views/html-product-data-shipping.php:28
 msgid "Dimensions (%s)"
-msgstr "Maße (%s)"
+msgstr "Masse (%s)"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:312
 msgid "Bank"
@@ -17160,7 +17160,7 @@ msgstr "Zurück (linke Pfeiltaste)"
 
 #: templates/single-product/photoswipe.php:37
 msgid "Zoom in/out"
-msgstr "Vergrößern/Verkleinern"
+msgstr "Vergrössern/Verkleinern"
 
 #: templates/single-product/photoswipe.php:36
 msgid "Toggle fullscreen"
@@ -17172,7 +17172,7 @@ msgstr "Teilen"
 
 #: templates/single-product/photoswipe.php:34
 msgid "Close (Esc)"
-msgstr "Schließen (Esc)"
+msgstr "Schliessen (Esc)"
 
 #: templates/product-searchform.php:25
 msgid "Search products&hellip;"
@@ -17577,7 +17577,7 @@ msgstr "Wohnung, Suite, Zimmer usw. (optional)"
 
 #: includes/class-wc-countries.php:688
 msgid "Street address"
-msgstr "Straße"
+msgstr "Strasse"
 
 #. translators: %s: product name
 #: includes/class-wc-cart.php:1043
@@ -18580,7 +18580,7 @@ msgstr "Versand ist deaktiviert."
 #: packages/woocommerce-rest-api/src/Controllers/Version1/class-wc-rest-webhooks-v1-controller.php:711
 #: packages/woocommerce-blocks/src/RestApi/StoreApi/Controllers/Products.php:258
 msgid "Ensure result set excludes specific IDs."
-msgstr "Sicherstellen, dass das Ergebnis bestimmte IDs ausschließt."
+msgstr "Sicherstellen, dass das Ergebnis bestimmte IDs ausschliesst."
 
 #: packages/woocommerce-rest-api/src/Controllers/Version3/class-wc-rest-products-controller.php:316
 #: packages/woocommerce-rest-api/src/Controllers/Version3/class-wc-rest-posts-controller.php:151
@@ -18945,7 +18945,7 @@ msgstr "Optionale Kosten für Selbstabholung"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-products.php:51
 msgid "Ready to start selling something awesome?"
-msgstr "Bereit, um mit dem Verkauf von etwas Großartigem zu starten?"
+msgstr "Bereit, um mit dem Verkauf von etwas Grossartigem zu starten?"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-coupons.php:48
 msgid "Learn more about coupons"
@@ -18953,7 +18953,7 @@ msgstr "Erfahre mehr über Gutscheine"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-coupons.php:46
 msgid "Coupons are a great way to offer discounts and rewards to your customers. They will appear here once created."
-msgstr "Gutscheine sind eine großartige Möglichkeit, deinen Kunden Rabatte und Prämien anzubieten. Sie werden hier erscheinen, sobald sie einmal erstellt wurden."
+msgstr "Gutscheine sind eine grossartige Möglichkeit, deinen Kunden Rabatte und Prämien anzubieten. Sie werden hier erscheinen, sobald sie einmal erstellt wurden."
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:54
 msgid "Learn more about orders"
@@ -19797,7 +19797,7 @@ msgstr "Belize-Dollar"
 
 #: includes/wc-core-functions.php:362
 msgid "Belarusian ruble"
-msgstr "Weißrussischer Rubel"
+msgstr "Weissrussischer Rubel"
 
 #: includes/wc-core-functions.php:360
 msgid "Botswana pula"
@@ -20074,7 +20074,7 @@ msgstr "Das Datum, an dem der Webhook angelegt wurde (in der Zeitzone der Seite)
 #: packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-webhooks-v2-controller.php:149
 #: packages/woocommerce-rest-api/src/Controllers/Version1/class-wc-rest-webhooks-v1-controller.php:666
 msgid "Secret key used to generate a hash of the delivered webhook and provided in the request headers. This will default to a MD5 hash from the current user's ID|username if not provided."
-msgstr "Der Sicherheitsschlüssel (Secret Key) wird genutzt, um einen Hash des gelieferten Webhooks zu erzeugen, der in den Headern der Anfrage enthalten ist. Dies ist standardmäßig ein MD5-Hash aus „aktuelle Nutzer-ID|aktueller Nutzername“, falls nicht angegeben."
+msgstr "Der Sicherheitsschlüssel (Secret Key) wird genutzt, um einen Hash des gelieferten Webhooks zu erzeugen, der in den Headern der Anfrage enthalten ist. Dies ist standardmässig ein MD5-Hash aus „aktuelle Nutzer-ID|aktueller Nutzername“, falls nicht angegeben."
 
 #: packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-webhooks-v2-controller.php:142
 #: packages/woocommerce-rest-api/src/Controllers/Version1/class-wc-rest-webhooks-v1-controller.php:659
@@ -21380,7 +21380,7 @@ msgstr "Produktmenge wird benötigt."
 #: includes/legacy/api/v2/class-wc-api-orders.php:905
 #: includes/legacy/api/v3/class-wc-api-orders.php:949
 msgid "Product quantity must be a positive float."
-msgstr "Produktmenge muss eine positive Fließkommazahl sein."
+msgstr "Produktmenge muss eine positive Fliesskommazahl sein."
 
 #: includes/legacy/api/v2/class-wc-api-orders.php:900
 #: includes/legacy/api/v3/class-wc-api-orders.php:944
@@ -21619,7 +21619,7 @@ msgstr "Die Erstattung für die Bestellung konnte nicht erstellt werden, bitte v
 #: packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-order-refunds-v2-controller.php:277
 #: packages/woocommerce-rest-api/src/Controllers/Version1/class-wc-rest-order-refunds-v1-controller.php:291
 msgid "Refund amount must be greater than zero."
-msgstr "Der Rückzahlungsbetrag muss größer als Null sein."
+msgstr "Der Rückzahlungsbetrag muss grösser als Null sein."
 
 #: packages/woocommerce-rest-api/src/Controllers/Version1/class-wc-rest-order-refunds-v1-controller.php:287
 msgid "Order is invalid"
@@ -22380,7 +22380,7 @@ msgstr "Eine Versandzone ist eine geographische Region, auf die bestimmte Versan
 #: includes/admin/settings/views/html-admin-page-shipping-zones.php:97
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:367
 msgid "Close modal panel"
-msgstr "Popup schließen"
+msgstr "Popup schliessen"
 
 #: includes/admin/settings/views/html-admin-page-shipping-zone-methods.php:114
 msgid "You can add multiple shipping methods within this zone. Only customers within the zone will see them."
@@ -22503,7 +22503,7 @@ msgstr "Kein voreingestellter Ort"
 
 #: includes/admin/settings/class-wc-settings-general.php:173
 msgid "This option determines a customers default location. The MaxMind GeoLite Database will be periodically downloaded to your wp-content directory if using geolocation."
-msgstr "Diese Option ermittelt einen voreingestellten Ort für den jeweiligen Kunden. Die MaxMind GeoLite-Datenbank wird regelmäßig in deinen wp-content-Ordner geladen, wenn du die Lokalisierungsfunktion benutzt."
+msgstr "Diese Option ermittelt einen voreingestellten Ort für den jeweiligen Kunden. Die MaxMind GeoLite-Datenbank wird regelmässig in deinen wp-content-Ordner geladen, wenn du die Lokalisierungsfunktion benutzt."
 
 #: includes/admin/settings/class-wc-settings-general.php:171
 msgid "Default customer location"
@@ -22738,7 +22738,7 @@ msgstr "Beschränkt Ergebnismenge auf Produkte mit einem bestimmten Slug."
 #: packages/woocommerce-rest-api/src/Controllers/Version3/class-wc-rest-posts-controller.php:693
 #: packages/woocommerce-blocks/src/RestApi/StoreApi/Controllers/Products.php:323
 msgid "Limit result set to all items except those of a particular parent ID."
-msgstr "Beschränkt Ergebnismenge auf alle Elemente, außer denen, die einer bestimmten Eltern-ID zugeordnet werden."
+msgstr "Beschränkt Ergebnismenge auf alle Elemente, ausser denen, die einer bestimmten Eltern-ID zugeordnet werden."
 
 #: packages/woocommerce-admin/src/API/Reports/Stock/Controller.php:493
 #: packages/woocommerce-rest-api/src/Controllers/Version3/class-wc-rest-crud-controller.php:593
@@ -23390,7 +23390,7 @@ msgstr "Dein Server unterstützt die Funktion %s nicht - diese wird jedoch für 
 
 #: includes/admin/views/html-admin-page-status-report.php:434
 msgid "Multibyte String (mbstring) is used to convert character encoding, like for emails or converting characters to lowercase."
-msgstr "Multibyte-String (mbstring) wird verwendet, um die Zeichenkodierung zu konvertieren, wie zum Beispiel für E-Mails oder das Umwandeln von Groß- zu Kleinbuchstaben."
+msgstr "Multibyte-String (mbstring) wird verwendet, um die Zeichenkodierung zu konvertieren, wie zum Beispiel für E-Mails oder das Umwandeln von Gross- zu Kleinbuchstaben."
 
 #. Translators: %s classname and link.
 #: includes/admin/views/html-admin-page-status-report.php:399
@@ -23850,7 +23850,7 @@ msgstr "Du hast bisher keine Adresse dieser Art erstellt."
 
 #: templates/myaccount/my-address.php:46
 msgid "The following addresses will be used on the checkout page by default."
-msgstr "Die folgenden Adressen werden standardmäßig auf der Bezahlseite verwendet."
+msgstr "Die folgenden Adressen werden standardmässig auf der Bezahlseite verwendet."
 
 #: includes/class-wc-privacy-exporters.php:150
 #: includes/class-wc-privacy-exporters.php:254
@@ -23998,7 +23998,7 @@ msgstr "Gesamtbetrag aktualisieren"
 #. translators: $1 and $2 opening and closing emphasis tags respectively
 #: templates/checkout/payment.php:42
 msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
-msgstr "Da dein Browser kein JavaScript unterstützt oder dieses deaktiviert ist, klicke bitte auf jeden Fall auf den Button %1$sGesamtbetrag aktualisieren%2$s, bevor du deine Bestellung abschließt. Anderenfalls könnte dir ein höherer Betrag in Rechnung gestellt werden, als derzeit oben angezeigt wird."
+msgstr "Da dein Browser kein JavaScript unterstützt oder dieses deaktiviert ist, klicke bitte auf jeden Fall auf den Button %1$sGesamtbetrag aktualisieren%2$s, bevor du deine Bestellung abschliesst. Anderenfalls könnte dir ein höherer Betrag in Rechnung gestellt werden, als derzeit oben angezeigt wird."
 
 #: templates/checkout/payment.php:33
 msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
@@ -24052,7 +24052,7 @@ msgstr "Deine Bestellung"
 
 #: templates/checkout/form-checkout.php:26
 msgid "You must be logged in to checkout."
-msgstr "Bitte melde dich an, um die Bestellung abzuschließen."
+msgstr "Bitte melde dich an, um die Bestellung abzuschliessen."
 
 #: templates/checkout/form-billing.php:53
 msgid "Create an account?"
@@ -24068,7 +24068,7 @@ msgstr "Zurück zum Warenkorb"
 
 #: templates/checkout/cart-errors.php:21
 msgid "There are some issues with the items in your cart. Please go back to the cart page and resolve these issues before checking out."
-msgstr "Es gibt einige Probleme mit den Positionen in deinem Warenkorb. Bitte gehe zurück zur Warenkorb-Seite und löse diese Probleme vor Kaufabschluß."
+msgstr "Es gibt einige Probleme mit den Positionen in deinem Warenkorb. Bitte gehe zurück zur Warenkorb-Seite und löse diese Probleme vor Kaufabschluss."
 
 #: templates/cart/shipping-calculator.php:24
 msgid "Calculate shipping"
@@ -24830,7 +24830,7 @@ msgstr "Aktivieren"
 
 #: includes/shipping/legacy-international-delivery/class-wc-shipping-legacy-international-delivery.php:59
 msgid "Excluding selected countries"
-msgstr "Ausgewählte Länder ausschließen"
+msgstr "Ausgewählte Länder ausschliessen"
 
 #: includes/shipping/legacy-international-delivery/class-wc-shipping-legacy-international-delivery.php:58
 msgid "Selected countries"
@@ -25084,7 +25084,7 @@ msgstr "PayPal Sandbox"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:34
 msgid "Please enter your PayPal email address; this is needed in order to take payment."
-msgstr "Bitte gib die E-Mail-Adresse deines PayPal-Kontos ein; sie wird benötigt, um die Bezahlung abzuschließen."
+msgstr "Bitte gib die E-Mail-Adresse deines PayPal-Kontos ein; sie wird benötigt, um die Bezahlung abzuschliessen."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:32
 msgid "PayPal email"
@@ -25247,7 +25247,7 @@ msgstr "Lasse deine Kunden bei der Lieferung mit Bargeld (oder auf andere Weise)
 
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:74
 msgid "Please send a check to Store Name, Store Street, Store Town, Store State / County, Store Postcode."
-msgstr " Bitte sende deinen Scheck an die Adresse: Shop-Name, Shop-Straße, Shop-PLZ, Shop-Ort, Shop-Land."
+msgstr " Bitte sende deinen Scheck an die Adresse: Shop-Name, Shop-Strasse, Shop-PLZ, Shop-Ort, Shop-Land."
 
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:60
 msgid "Enable check payments"
@@ -27759,11 +27759,11 @@ msgstr "Standard-Zeitzone ist UTC"
 
 #: includes/admin/views/html-admin-page-status-report.php:360
 msgid "The largest filesize that can be uploaded to your WordPress installation."
-msgstr "Die Dateigröße, die maximal innerhalb deiner WordPress-Installation hochgeladen werden kann."
+msgstr "Die Dateigrösse, die maximal innerhalb deiner WordPress-Installation hochgeladen werden kann."
 
 #: includes/admin/views/html-admin-page-status-report.php:359
 msgid "Max upload size"
-msgstr "Maximale Upload-Größe"
+msgstr "Maximale Upload-Grösse"
 
 #: includes/admin/views/html-admin-page-status-report.php:345
 msgid "The version of MySQL installed on your hosting server."
@@ -27799,7 +27799,7 @@ msgstr "PHP Time Limit"
 
 #: includes/admin/views/html-admin-page-status-report.php:314
 msgid "The largest filesize that can be contained in one post."
-msgstr "Die Dateigröße, die maximal in einem POST-Request enthalten sein kann."
+msgstr "Die Dateigrösse, die maximal in einem POST-Request enthalten sein kann."
 
 #: includes/admin/views/html-admin-page-status-report.php:313
 msgid "PHP post max size"
@@ -28380,7 +28380,7 @@ msgstr "Wähle die Länder aus, in die du versenden möchtest oder versende stat
 
 #: includes/admin/settings/class-wc-settings-shipping.php:109
 msgid "This controls which shipping address is used by default."
-msgstr "Stellt ein, welche Lieferadresse standardmäßig verwendet wird."
+msgstr "Stellt ein, welche Lieferadresse standardmässig verwendet wird."
 
 #: includes/admin/settings/class-wc-settings-shipping.php:108
 msgid "Shipping destination"
@@ -28409,11 +28409,11 @@ msgstr "Produktbewertungen"
 
 #: includes/admin/settings/class-wc-settings-products.php:366
 msgid "This controls what unit you will define lengths in."
-msgstr "Legt fest, in welcher Einheit Längen/Größen definiert sind."
+msgstr "Legt fest, in welcher Einheit Längen/Grössen definiert sind."
 
 #: includes/admin/settings/class-wc-settings-products.php:365
 msgid "Dimensions unit"
-msgstr "Maßeinheit"
+msgstr "Masseinheit"
 
 #: includes/admin/settings/class-wc-settings-products.php:349
 msgid "This controls what unit you will define weights in."
@@ -28784,7 +28784,7 @@ msgstr "Warenkorb Seite"
 
 #: includes/admin/settings/class-wc-settings-advanced.php:67
 msgid "These pages need to be set so that WooCommerce knows where to send users to checkout."
-msgstr "Diese Seiten müssen eingestellt werden, damit WooCommerce weiß, wohin Kunden für den Bestell- und Bezahlvorgang weitergeleitet werden sollen."
+msgstr "Diese Seiten müssen eingestellt werden, damit WooCommerce weiss, wohin Kunden für den Bestell- und Bezahlvorgang weitergeleitet werden sollen."
 
 #: includes/admin/settings/class-wc-settings-advanced.php:169
 msgid "Force HTTP when leaving the checkout"
@@ -29394,7 +29394,7 @@ msgstr "Gleiche wie übergeordnet"
 #. translators: %s: dimension unit
 #: includes/admin/meta-boxes/views/html-variation-admin.php:276
 msgid "Dimensions (L&times;W&times;H) (%s)"
-msgstr "Größe (L&times;B&times;H) (%s)"
+msgstr "Grösse (L&times;B&times;H) (%s)"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:160
 msgid "Sale end date"
@@ -29965,7 +29965,7 @@ msgstr "Benutzerdefinierte Produkteigenschaft"
 #: packages/woocommerce-blocks/build/vendors-legacy.js:6
 #: packages/woocommerce-blocks/build/vendors.js:6
 msgid "Close"
-msgstr "Schließen"
+msgstr "Schliessen"
 
 #: includes/admin/meta-boxes/views/html-product-data-attributes.php:9
 #: includes/admin/meta-boxes/views/html-product-data-attributes.php:51
@@ -30024,7 +30024,7 @@ msgstr "Länge"
 #: includes/admin/importers/class-wc-product-csv-importer-controller.php:694
 #: includes/wc-template-functions.php:3333
 msgid "Dimensions"
-msgstr "Größe"
+msgstr "Grösse"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:257
 #: includes/admin/meta-boxes/views/html-product-data-shipping.php:17
@@ -30239,7 +30239,7 @@ msgstr "Produkt-URL"
 #: includes/admin/meta-boxes/views/html-variation-admin.php:81
 #: includes/admin/meta-boxes/views/html-product-data-inventory.php:23
 msgid "SKU refers to a Stock-keeping unit, a unique identifier for each distinct product and service that can be purchased."
-msgstr "Art.-Nr. steht für Artikelnummer, eine einzigartige Identifkationsgröße für jedes Produkt und jede Dienstleistung, die man kaufen kann."
+msgstr "Art.-Nr. steht für Artikelnummer, eine einzigartige Identifkationsgrösse für jedes Produkt und jede Dienstleistung, die man kaufen kann."
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:79
 #: includes/admin/meta-boxes/views/html-product-data-inventory.php:21
@@ -30545,7 +30545,7 @@ msgstr "Keine Kategorien"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:246
 msgid "Exclude categories"
-msgstr "Kategorien ausschließen"
+msgstr "Kategorien ausschliessen"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:230
 msgid "Any category"
@@ -30561,7 +30561,7 @@ msgstr "Produkt-Kategorien"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:207
 msgid "Exclude products"
-msgstr "Produkte ausschließen"
+msgstr "Produkte ausschliessen"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:190
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:208
@@ -30579,7 +30579,7 @@ msgstr "Aktiviere diese Option, wenn der Gutschein nicht für Produkte gelten so
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:178
 msgid "Exclude sale items"
-msgstr "Produkte, die im Angebot sind, ausschließen"
+msgstr "Produkte, die im Angebot sind, ausschliessen"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:169
 msgid "Check this box if the coupon cannot be used in conjunction with other coupons."
@@ -30669,7 +30669,7 @@ msgstr "ODER gib den Pfad zu einer Datei an:"
 #: includes/admin/importers/class-wc-tax-rate-importer.php:286
 #: includes/admin/importers/views/html-product-csv-import-form.php:45
 msgid "Maximum size: %s"
-msgstr "Maximale Größe: %s"
+msgstr "Maximale Grösse: %s"
 
 #: includes/admin/importers/class-wc-tax-rate-importer.php:276
 msgid "Choose a file from your computer:"
@@ -31166,7 +31166,7 @@ msgstr "Genau zuschneiden?"
 
 #: includes/admin/class-wc-admin-settings.php:533
 msgid "The settings of this image size have been disabled because its values are being overwritten by a filter."
-msgstr "Die Einstellungen dieser Bildgröße wurden deaktiviert, da die Werte durch einen Filter überschrieben werden."
+msgstr "Die Einstellungen dieser Bildgrösse wurden deaktiviert, da die Werte durch einen Filter überschrieben werden."
 
 #: includes/admin/class-wc-admin-settings.php:143
 msgid "The changes you made will be lost if you navigate away from this page."
@@ -32011,7 +32011,7 @@ msgstr "Virtuelle Produkte"
 
 #: includes/admin/class-wc-admin-pointers.php:93
 msgid "Finally, external products are for linking off-site."
-msgstr "Externe Produkte verlinken auf Produkte außerhalb der Website."
+msgstr "Externe Produkte verlinken auf Produkte ausserhalb der Website."
 
 #: includes/admin/class-wc-admin-pointers.php:92
 msgid "Grouped products are for grouping several simple products into one."
@@ -32019,7 +32019,7 @@ msgstr "Gruppierte Produkte dienen der Gruppierung verschiedener einfacher Produ
 
 #: includes/admin/class-wc-admin-pointers.php:91
 msgid "Variable is for more complex products such as t-shirts with multiple sizes."
-msgstr "Variable Produkte können für komplexere Artikel, wie T-Shirts in verschiedenen Größen genutzt werden."
+msgstr "Variable Produkte können für komplexere Artikel, wie T-Shirts in verschiedenen Grössen genutzt werden."
 
 #: includes/admin/class-wc-admin-pointers.php:90
 msgid "Choose a type for this product. Simple is suitable for most physical goods and services (we recommend setting up a simple product for now)."
@@ -32828,7 +32828,7 @@ msgstr "Bitte gib einen Wert ein, der geringer ist als der reguläre Preis."
 
 #: includes/admin/class-wc-admin-assets.php:186
 msgid "Please enter in country code with two capital letters."
-msgstr "Bitte Landescodierung mit zwei Großbuchstaben eingeben."
+msgstr "Bitte Landescodierung mit zwei Grossbuchstaben eingeben."
 
 #. translators: %s: price decimal separator
 #: includes/admin/class-wc-admin-assets.php:185
@@ -37505,7 +37505,7 @@ msgstr "Belgien"
 
 #: i18n/countries.php:35
 msgid "Belarus"
-msgstr "Weißrussland"
+msgstr "Weissrussland"
 
 #: i18n/countries.php:34
 msgid "Barbados"
