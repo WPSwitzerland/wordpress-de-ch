@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the Plugins - Classic Editor - Development (trunk) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-02-03 10:06:24+0000\n"
+"PO-Revision-Date: 2020-04-02 03:42:55+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: GlotPress/2.4.0-alpha\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
 "Language: de\n"
 "Project-Id-Version: Plugins - Classic Editor - Development (trunk)\n"
 
@@ -75,7 +75,7 @@ msgstr "Zum Classic Editor wechseln"
 
 #: classic-editor.php:628
 msgid "Editor"
-msgstr "Klassischer Editor"
+msgstr "Editor"
 
 #: classic-editor.php:421
 msgid "No"
