@@ -12,18 +12,17 @@
 
 		<link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600&subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
 
-		<link rel="stylesheet" href="//s.w.org/style/wp4.css?87" />
+		<link rel="stylesheet" href="//s.w.org/style/wp4.css?90" />
 
 <link rel="shortcut icon" href="//s.w.org/favicon.ico?2" type="image/x-icon" />
-<link rel="pingback" href="https://translate.wordpress.org/xmlrpc.php" /><link rel='stylesheet' id='dashicons-css'  href='https://translate.wordpress.org/wp-includes/css/dashicons.min.css?ver=5.5-alpha-47534' media='all' />
-<link rel='stylesheet' id='admin-bar-css'  href='https://translate.wordpress.org/wp-includes/css/admin-bar.min.css?ver=5.5-alpha-47534' media='all' />
-<link rel='stylesheet' id='gp-base-css'  href='https://translate.wordpress.org/wp-content/plugins/glotpress/assets/css/style.min.css?ver=20180428' media='all' />
+<link rel="pingback" href="https://translate.wordpress.org/xmlrpc.php" /><link rel='stylesheet' id='dashicons-css'  href='https://translate.wordpress.org/wp-includes/css/dashicons.min.css?ver=5.6-alpha-48782' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='https://translate.wordpress.org/wp-includes/css/admin-bar.min.css?ver=5.6-alpha-48782' media='all' />
+<link rel='stylesheet' id='gp-base-css'  href='https://translate.wordpress.org/wp-content/plugins/glotpress/assets/css/style.min.css?ver=20200501' media='all' />
 <link rel='stylesheet' id='wporg-translate-css'  href='https://translate.wordpress.org/wp-content/plugins/wporg-gp-customizations/templates/style.css?ver=20200322' media='all' />
-<script src='https://translate.wordpress.org/wp-includes/js/hoverintent-js.min.js?ver=2.2.1'></script>
-<script src='https://translate.wordpress.org/wp-includes/js/admin-bar.min.js?ver=5.5-alpha-47534'></script>
-<script src='https://translate.wordpress.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
-<script src='https://translate.wordpress.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script src='https://translate.wordpress.org/wp-content/plugins/wporg-gp-customizations/templates/js/details-element-polyfill.min.js?ver=2.3.1'></script>
+<script src='https://translate.wordpress.org/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+<script src='https://translate.wordpress.org/wp-includes/js/admin-bar.min.js?ver=5.6-alpha-48782' id='admin-bar-js'></script>
+<script src='https://translate.wordpress.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-js'></script>
+<script src='https://translate.wordpress.org/wp-content/plugins/wporg-gp-customizations/templates/js/details-element-polyfill.min.js?ver=2.3.1' id='details-element-polyfill-js'></script>
 <style media="print">#wpadminbar { display:none; }</style>
 	<style media="screen">
 	html { margin-top: 32px !important; }
@@ -168,8 +167,7 @@
 
 <script src="https://s.w.org/style/js/navigation.min.js?20190128"></script>
 
-<script type="text/javascript" src="https://gravatar.com/js/gprofiles.js"></script>
-		<script>
+	<script>
 		( function( $ ) {
 			$( function() {
 				var $menu = $( '#site-navigation' );
@@ -182,10 +180,10 @@
 			} );
 		} )( jQuery );
 	</script>
-	<script type='text/javascript' src='https://stats.wp.com/e-202014.js' async='async' defer='defer'></script>
+	<script type='text/javascript' src='https://stats.wp.com/e-202033.js' async='async' defer='defer'></script>
 <script type='text/javascript'>
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:8.3',blog:'124342649',post:'0',tz:'0',srv:'translate.wordpress.org'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:8.8',blog:'124342649',post:'0',tz:'0',srv:'translate.wordpress.org'} ]);
 	_stq.push([ 'clickTrackerInit', '124342649', '0' ]);
 </script>
 </body>
