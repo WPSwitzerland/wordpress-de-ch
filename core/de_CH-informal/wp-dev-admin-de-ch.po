@@ -20,7 +20,7 @@ msgstr "1"
 #: wp-admin/includes/schema.php:393
 msgctxt "default GMT offset or timezone string"
 msgid "0"
-msgstr "Europe/Berlin"
+msgstr "Europe/Zurich"
 
 #: wp-admin/includes/media.php:1730 wp-admin/upgrade.php:74
 #: wp-admin/upgrade.php:154
@@ -274,7 +274,7 @@ msgstr "Nach oben"
 #. whenever possible.
 #: wp-admin/includes/dashboard.php:1374
 msgid "We couldn&#8217;t locate %s. Please try another nearby city. For example: Kansas City; Springfield; Portland."
-msgstr "Wir konnten %s nicht finden. Bitte versuche es mit einer anderen nahegelegenen Stadt. Zum Beispiel: Berlin, Köln, Stuttgart."
+msgstr "Wir konnten %s nicht finden. Bitte versuche es mit einer anderen nahegelegenen Stadt. Zum Beispiel: Zurich, Köln, Stuttgart."
 
 #: wp-admin/js/application-passwords.js:136
 msgid "All application passwords revoked."
@@ -4352,7 +4352,7 @@ msgstr "...oder so etwas wie das hier:"
 #. translators: First page content.
 #: wp-admin/includes/upgrade.php:303
 msgid "Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)"
-msgstr "Hallo! Tagsüber arbeite ich als Fahrradkurier, nachts bin ich ein aufstrebender Schauspieler und dies hier ist meine Website. Ich lebe in Berlin, habe einen grossen Hund namens Jack, mag Pi&#241;a Coladas, jedoch weniger (ohne Schirm) im Regen stehen gelassen zu werden."
+msgstr "Hallo! Tagsüber arbeite ich als Fahrradkurier, nachts bin ich ein aufstrebender Schauspieler und dies hier ist meine Website. Ich lebe in Zurich, habe einen grossen Hund namens Jack, mag Pi&#241;a Coladas, jedoch weniger (ohne Schirm) im Regen stehen gelassen zu werden."
 
 #. translators: First page content.
 #: wp-admin/includes/upgrade.php:298
@@ -5673,7 +5673,7 @@ msgstr "Stadt aktualisiert. Veranstaltungen in der Nähe von %s auflisten."
 
 #: wp-admin/js/dashboard.js:570
 msgid "We couldn’t locate %s. Please try another nearby city. For example: Kansas City; Springfield; Portland."
-msgstr "Wir konnten %s nicht finden. Bitte versuche es mit einer anderen nahegelegenen Stadt. Zum Beispiel: Berlin, Hamburg, Stuttgart."
+msgstr "Wir konnten %s nicht finden. Bitte versuche es mit einer anderen nahegelegenen Stadt. Zum Beispiel: Zurich, Hamburg, Stuttgart."
 
 #: wp-admin/includes/dashboard.php:1290 wp-admin/js/dashboard.js:585
 msgid "An error occurred. Please try again."
