@@ -25,7 +25,7 @@ msgstr "off"
 
 #: wp-includes/general-template.php:846
 msgid "html_lang_attribute"
-msgstr "de-DE"
+msgstr "de-CH"
 
 #: wp-includes/functions.php:334
 msgctxt "decline months names: on or off"
@@ -46,7 +46,7 @@ msgstr "words"
 #: wp-admin/admin-footer.php:38
 #: wp-admin/maint/repair.php:24
 msgid "https://wordpress.org/"
-msgstr "https://de.wordpress.org/"
+msgstr "https://de-ch.wordpress.org/"
 
 #: wp-includes/script-loader.php:1409
 msgctxt "Open Sans font: on or off"
@@ -90,13 +90,13 @@ msgstr "&#171;"
 #. default is ','
 #: wp-includes/class-wp-locale.php:200
 msgid "number_format_thousands_sep"
-msgstr "."
+msgstr "'"
 
 #. translators: $dec_point argument for https://www.php.net/number_format,
 #. default is '.'
 #: wp-includes/class-wp-locale.php:208
 msgid "number_format_decimal_point"
-msgstr ","
+msgstr "."
 
 #: wp-includes/category-template.php:161
 #: wp-includes/js/dist/block-editor.js:20198
