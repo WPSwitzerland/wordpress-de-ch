@@ -13,7 +13,8 @@ function do_replacements( string $string ): string {
 			'ß',
 			'Fahrrad',
 			'Europe/Berlin', // Timezone.
-			'Berlin; Köln; München', // Events dashboard widget.
+			'Berlin, Köln, Stuttgart', // Events dashboard widget.
+			'Berlin, Hamburg, Stuttgart', // Events dashboard widget.
 			'Berlin', // First page content.
 			'https://de.wordpress.org/plugins/', // Plugin directory.
 			'https://de.wordpress.org/themes/', // Theme directory.
@@ -30,7 +31,8 @@ function do_replacements( string $string ): string {
 			'ss',
 			'Velo',
 			'Europe/Zurich',
-			'Bern; Zürich; Genf',
+			'Bern, Basel, Zürich',
+			'Bern, Biel, Zürich',
 			'Zürich',
 			'https://de-ch.wordpress.org/plugins/',
 			'https://de-ch.wordpress.org/themes/',
