@@ -15,7 +15,8 @@ function do_replacements( string $string ): string {
 			'Europe/Berlin', // Timezone.
 			'Berlin, Köln, Stuttgart', // Events dashboard widget.
 			'Berlin, Hamburg, Stuttgart', // Events dashboard widget.
-			'Berlin', // First page content.
+            'Berlin', // First page content.
+            'Hamburg', // Events dashboard widget
 			'https://de.wordpress.org/plugins/', // Plugin directory.
 			'https://de.wordpress.org/themes/', // Theme directory.
 			'„',
@@ -33,7 +34,8 @@ function do_replacements( string $string ): string {
 			'Europe/Zurich',
 			'Bern, Basel, Zürich',
 			'Bern, Biel, Zürich',
-			'Zürich',
+            'Zürich',
+            'Bern',
 			'https://de-ch.wordpress.org/plugins/',
 			'https://de-ch.wordpress.org/themes/',
 			'«',
