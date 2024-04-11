@@ -1,8 +1,10 @@
 Introduction
 ------------
-This is a repository for tracking changes in the formal and informal language packs for de_CH or German (Switzerland).
+This repository used to track `.po` file changes in the formal and informal translations for de_CH or German (Switzerland). Since we no longer use the shell scripts, this repo now only contains the PHP script that does all the replacements via a web interface on https://po.dominikschilling.de/. Dominik wrote the PHP code at a WordCamp Zurich contributor day.
 
-We're not translating manually for de_CH, we're using shell scripts to convert the de_DE translations as per this [documentation](https://de-ch.wordpress.org/team/handbook/translations/). It's important that we have our own locale, because of number formating and of course because of spelling.
+We're not translating manually for de_CH, we're just converting the de_DE files uploading them directly to https://translate.wordpress.org/locale/de-ch/. It's important that we have our own locale, because of number and time formating, as well as because of some spelling and wording differences.
+
+You can find more information in both English and German on https://de-ch.wordpress.org/team/handbook/translations/.
 
 Differences
 -----------
@@ -17,10 +19,6 @@ manually
 - ' instead of . (number_format_thousands_sep)
 - . instead of , (number_format_decimal_point)
 - link to classic editor plugin is https://de.wordpress.org/plugins/classic-editor for de_DE and https://de-ch.wordpress.org/plugins/classic-editor for de_CH 
-
-How it works
--------------
-Replacing is (partly) done with various shell scripts which can be run by changing directory and then running e.g. `sh replace-ss-in-de-ch.sh`. Some of the differences mentioned above are still done manually, but eventually it could be only one main script which would run everything automatically, but this is work in progress.
 
 de-ch.wordpress.org
 -------------------
