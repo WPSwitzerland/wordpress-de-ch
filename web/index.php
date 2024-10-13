@@ -1,4 +1,7 @@
 <?php
+
+use JetBrains\PhpStorm\NoReturn;
+
 require_once 'vendor/autoload.php';
 
 /**
@@ -15,8 +18,8 @@ function do_replacements( string $string ): string {
 			'Europe/Berlin', // Timezone.
 			'Berlin, Köln, Stuttgart', // Events dashboard widget.
 			'Berlin, Hamburg, Stuttgart', // Events dashboard widget.
-            'Berlin', // First page content.
-            'Hamburg', // Events dashboard widget
+			'Berlin', // First page content.
+			'Hamburg', // Events dashboard widget
 			'https://de.wordpress.org/plugins/', // Plugin directory.
 			'https://de.wordpress.org/themes/', // Theme directory.
 			'„',
@@ -34,8 +37,8 @@ function do_replacements( string $string ): string {
 			'Europe/Zurich',
 			'Bern, Basel, Zürich',
 			'Bern, Biel, Zürich',
-            'Zürich',
-            'Bern',
+			'Zürich',
+			'Bern',
 			'https://de-ch.wordpress.org/plugins/',
 			'https://de-ch.wordpress.org/themes/',
 			'«',
@@ -53,6 +56,15 @@ function do_replacements( string $string ): string {
 	return $string;
 }
 
+if( ! empty( $_FILES ) ) {
+
+    $filename = str_replace( '.po', '-converted.po', $_FILES[ 'file' ][ 'name' ] );
+	$po       = file_get_contents( $_FILES[ 'file' ][ 'tmp_name' ] );
+
+	convert( $po, $filename );
+
+}
+
 if ( ! empty( $_POST ) ) {
 	$url = $_POST['url'] ?? '';
 
@@ -61,25 +73,35 @@ if ( ! empty( $_POST ) ) {
 	}
 
 	// Parse URL and build URL for export.
-	$parsed_url         = parse_url( $url );
-	$parsed_url['path'] = rtrim( $parsed_url['path'], '/\\' );
+	$parsed_url         = parse_url($url);
+	$parsed_url['path'] = rtrim($parsed_url['path'], '/\\');
 
 	$export_url = "{$parsed_url['scheme']}://{$parsed_url['host']}{$parsed_url['path']}/export-translations/";
 
-	if ( isset( $parsed_url['query'] ) ) {
+	// Provide the converted filename for download.
+	$project_path = str_replace( [ '/projects/', '/' ], [ '', '-' ], $parsed_url['path'] );
+	$filename     = "{$project_path}-converted.po";
+
+	if(isset($parsed_url['query'])) {
 		$export_url .= '?' . $parsed_url['query'];
 	}
 
-	if ( false === strpos( $export_url, '?' ) ) {
+	if(false === strpos($export_url, '?')) {
 		$export_url .= '?format=po';
 	} else {
 		$export_url .= '&format=po';
 	}
 
 	// Get the PO content.
-	$po = file_get_contents( $export_url );
-	if ( empty( $po ) ) {
-		die( 'no input' );
+	$po = file_get_contents($export_url);
+
+    convert( $po, $filename );
+}
+
+function convert( $po, $filename ): void {
+
+	if(empty($po)) {
+		die('no input');
 	}
 
 	// Convert translations into a Translations collection.
@@ -128,52 +150,63 @@ if ( ! empty( $_POST ) ) {
 	$translations->setLanguage( 'de-CH' );
 	$translations->setHeader( 'X-Generator', 'PO Converter for de_DE 2 de_CH' );
 
-	// Provide the converted file for download.
-	$project_path = str_replace( [ '/projects/', '/' ], [ '', '-' ], $parsed_url['path'] );
-	$filename     = "{$project_path}-converted.po";
-
 	header( 'Content-Description: File Transfer' );
 	header( 'Content-Disposition: attachment; filename=' . $filename );
 	header( 'Content-Type: text/x-gettext-translation; charset=UTF-8' );
 
 	echo Gettext\Generators\Po::toString( $translations );
 	exit;
+
 }
 
 ?>
 <!doctype html>
 <html lang="en" class="h-100">
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<link rel="stylesheet" href="/vendor/twbs/bootstrap/dist/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="/vendor/twbs/bootstrap/dist/css/bootstrap.min.css" crossorigin="anonymous">
 
-	<title>PO Converter for de_DE 2 de_CH</title>
-	<style>
-		.footer {
-			background-color: #f5f5f5;
-		}
-	</style>
+    <title>PO Converter for de_DE 2 de_CH</title>
+    <style>
+      .footer {
+        background-color: #f5f5f5;
+      }
+    </style>
 </head>
 <body class="d-flex flex-column h-100">
-	<main role="main" class="flex-shrink-0">
-		<div class="container">
-			<h1 class="mt-5">PO Converter for de_DE 2 de_CH</h1>
-			<form method="post" action="" class="mt-5">
-			<div class="form-group">
-				<label for="url">Project URL</label>
-				<input type="url" class="form-control" id="url" name="url" aria-describedby="url-help" placeholder="Enter URL">
-				<small id="url-help" class="form-text text-muted">Example: <code>https://translate.wordpress.org/projects/wp/dev/de/default/</code></small>
-			</div>
-			<button type="submit" class="btn btn-primary">Download converted file</button>
-		</form>
-		</div>
-	</main>
-	<footer class="footer mt-auto py-3">
-		<div class="container text-center">
-			<span class="text-muted">🇨🇭 WordCamp Zurich 2019 | <a href="https://github.com/WPSwitzerland/wordpress-de-ch">GitHub</a></span>
-		</div>
-	</footer>
+<main role="main" class="flex-shrink-0">
+    <div class="container">
+        <h1 class="mt-5">PO Converter for de_DE 2 de_CH</h1>
+        <p>Enter the project URL or upload your local po file.</p>
+        <form method="post" action="" class="mt-5" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="url">Project URL</label>
+                <input type="url" class="form-control" id="url" name="url" aria-describedby="url-help" placeholder="Enter URL">
+                <small id="url-help" class="form-text text-muted">Example: <code>https://translate.wordpress.org/projects/wp/dev/de/default/</code></small>
+            </div>
+            <div class="form-group mt-3 mb-3">
+                <label for="file">Upload po-file</label>
+                <input type="file" class="form-control" id="file" name="file" aria-describedby="file-help" accept=".po,.mo">
+                <small id="url-help" class="form-text text-muted">Example: <code>wordpress-seo-de.po</code></small>
+                <div id="fileInfo"></div>
+                <script>
+                    document.getElementById('file').addEventListener('change', function(event) {
+                        const file = event.target.files[0];
+                        document.getElementById('fileInfo').innerHTML = `<p>File Size: ${file.size} bytes</p>`;
+                    });
+                </script>
+            </div>
+            <button type="submit" class="btn btn-primary">Start converting</button>
+        </form>
+    </div>
+</main>
+<footer class="footer mt-auto py-3">
+    <div class="container text-center">
+        <span class="text-muted">🇨🇭 WordCamp Zurich 2019 | <a href="https://github.com/WPSwitzerland/wordpress-de-ch">GitHub</a></span><br>
+        <span class="text-muted">🇨🇭 Openstream Internet Solutions 2024 | <a href="https://github.com/WPSwitzerland/wordpress-de-ch">GitHub</a></span>
+    </div>
+</footer>
 </body>
 </html>
