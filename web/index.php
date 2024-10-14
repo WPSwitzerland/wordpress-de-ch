@@ -24,8 +24,6 @@ function do_replacements( string $string ): string {
 			'https://de.wordpress.org/themes/', // Theme directory.
 			'„',
 			'“',
-			'‚',
-			'‘',
 			'&#8218;', // opening curly single quote ‚
 			'&#8216;', // closing curly single quote ‘
 			'&#8222;', // opening curly double quote „
@@ -43,8 +41,6 @@ function do_replacements( string $string ): string {
 			'https://de-ch.wordpress.org/themes/',
 			'«',
 			'»',
-			'‹',
-			'›',
 			'&#8249;', // ‹
 			'&#8250;', // ›
 			'&#171;', // «
