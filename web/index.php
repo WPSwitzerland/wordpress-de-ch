@@ -1,75 +1,20 @@
 <?php
 
-use JetBrains\PhpStorm\NoReturn;
-
 require_once 'vendor/autoload.php';
 
-/**
- * Do the replacement dance.
- *
- * @param string $string String to convert.
- * @return string Converted strings.
- */
-function do_replacements( string $string ): string {
-	$string = str_replace(
-		[
-			'ß',
-			'Fahrrad',
-			'Europe/Berlin', // Timezone.
-			'Berlin, Köln, Stuttgart', // Events dashboard widget.
-			'Berlin, Hamburg, Stuttgart', // Events dashboard widget.
-			'Berlin', // First page content.
-			'Hamburg', // Events dashboard widget
-			'https://de.wordpress.org/plugins/', // Plugin directory.
-			'https://de.wordpress.org/themes/', // Theme directory.
-			'„',
-			'“',
-			'&#8218;', // opening curly single quote ‚
-			'&#8216;', // closing curly single quote ‘
-			'&#8222;', // opening curly double quote „
-			'&#8220;', // closing curly double quote “
-		],
-		[
-			'ss',
-			'Velo',
-			'Europe/Zurich',
-			'Bern, Basel, Zürich',
-			'Bern, Biel, Zürich',
-			'Zürich',
-			'Bern',
-			'https://de-ch.wordpress.org/plugins/',
-			'https://de-ch.wordpress.org/themes/',
-			'«',
-			'»',
-			'&#8249;', // ‹
-			'&#8250;', // ›
-			'&#171;', // «
-			'&#187;', // »
-		],
-		$string
-	);
+if( ! empty( $_FILES[ 'file' ][ 'tmp_name' ] ) ) {
 
-	return $string;
-}
-
-if( ! empty( $_FILES ) ) {
-
-    $filename = str_replace( '.po', '-converted.po', $_FILES[ 'file' ][ 'name' ] );
+	$filename = str_replace( '.po', '-converted.po', $_FILES[ 'file' ][ 'name' ] );
 	$po       = file_get_contents( $_FILES[ 'file' ][ 'tmp_name' ] );
 
 	convert( $po, $filename );
 
 }
 
-if ( ! empty( $_POST ) ) {
-	$url = $_POST['url'] ?? '';
-
-	if ( empty( $url ) ) {
-		die( 'no url' );
-	}
+if ( ! empty( $_POST['url'] ) ) {
 
 	// Parse URL and build URL for export.
-	$parsed_url         = parse_url($url);
+	$parsed_url         = parse_url( $_POST['url'] );
 	$parsed_url['path'] = rtrim($parsed_url['path'], '/\\');
 
 	$export_url = "{$parsed_url['scheme']}://{$parsed_url['host']}{$parsed_url['path']}/export-translations/";
@@ -91,7 +36,8 @@ if ( ! empty( $_POST ) ) {
 	// Get the PO content.
 	$po = file_get_contents($export_url);
 
-    convert( $po, $filename );
+	convert( $po, $filename );
+
 }
 
 function convert( $po, $filename ): void {
@@ -155,6 +101,54 @@ function convert( $po, $filename ): void {
 
 }
 
+/**
+ * Do the replacement dance.
+ *
+ * @param string $string String to convert.
+ * @return string Converted strings.
+ */
+function do_replacements( string $string ): string {
+
+    return str_replace(
+		[
+			'ß',
+			'Fahrrad',
+			'Europe/Berlin', // Timezone.
+			'Berlin, Köln, Stuttgart', // Events dashboard widget.
+			'Berlin, Hamburg, Stuttgart', // Events dashboard widget.
+			'Berlin', // First page content.
+			'Hamburg', // Events dashboard widget
+			'https://de.wordpress.org/plugins/', // Plugin directory.
+			'https://de.wordpress.org/themes/', // Theme directory.
+			'„',
+			'“',
+			'&#8218;', // opening curly single quote ‚
+			'&#8216;', // closing curly single quote ‘
+			'&#8222;', // opening curly double quote „
+			'&#8220;', // closing curly double quote “
+		],
+		[
+			'ss',
+			'Velo',
+			'Europe/Zurich',
+			'Bern, Basel, Zürich',
+			'Bern, Biel, Zürich',
+			'Zürich',
+			'Bern',
+			'https://de-ch.wordpress.org/plugins/',
+			'https://de-ch.wordpress.org/themes/',
+			'«',
+			'»',
+			'&#8249;', // ‹
+			'&#8250;', // ›
+			'&#171;', // «
+			'&#187;', // »
+		],
+		$string
+	);
+
+}
+
 ?>
 <!doctype html>
 <html lang="en" class="h-100">
@@ -184,7 +178,7 @@ function convert( $po, $filename ): void {
             </div>
             <div class="form-group mt-3 mb-3">
                 <label for="file">Upload po-file</label>
-                <input type="file" class="form-control" id="file" name="file" aria-describedby="file-help" accept=".po,.mo">
+                <input type="file" class="form-control" id="file" name="file" aria-describedby="file-help" accept=".po">
                 <small id="url-help" class="form-text text-muted">Example: <code>wordpress-seo-de.po</code></small>
                 <div id="fileInfo"></div>
                 <script>
